@@ -92,6 +92,7 @@ for path in get_posts:
         k=k[0]
         q = k[k.find('category:') + len('category:'):]
         categories.extend(json.loads(q))
+        print k
 print categories
 categories = map(lambda x: capwords(x.encode('ascii','ignore')), categories)
 print categories

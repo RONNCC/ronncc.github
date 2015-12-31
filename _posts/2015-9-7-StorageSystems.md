@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Storage Systems Readings
-category: ["Storage Systems"]
+categories: ["Storage Systems"]
 ---
 
 {:toc}

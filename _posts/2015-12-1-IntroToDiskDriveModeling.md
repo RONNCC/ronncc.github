@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Intro to Disk Drive Modeling
-category: ["Storage Systems"]
+categories: ["Storage Systems"]
 ---
 
 "An Introduction to Disk Drive Modeling"  - Ruemmler and Wilkes

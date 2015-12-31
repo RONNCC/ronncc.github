@@ -4,8 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Hi <p>
-I study Computer Science @ Carnegie Mellon and whatever other classes I can sneak into.
+Hi!
+
+I study Computer Science/UX @ Carnegie Mellon and whatever other classes I can sneak into.
 
 
 

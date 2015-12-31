@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Types and Programming Language Book Notes
-category: ["Books"]
+categories: ["Books"]
 ---
 
 Author & Citations to Benjamin Pierce @ Univ. of Pennsylvania

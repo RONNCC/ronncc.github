@@ -1,8 +1,19 @@
 ---
+date: '2015-12-25'
 layout: post
-title: Reading List
-category: ["Books"]
+sha: e16e41f0ea1d741fddc36c661635679839e491fb
+slug: ReadingList
+title: 'Reading List'
+info: 
+comment: pika 
+tags: []
+categories: ['Books']
+published: true
+
 ---
+
+##Find More
+https://en.wikipedia.org/wiki/Elizabeth_Loftus#The_memory_wars
 
 ##Papers
 https://news.ycombinator.com/item?id=10783983

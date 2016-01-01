@@ -1,15 +1,15 @@
 ---
-date: '2016-1-1'
-layout: post
-sha: 8dcdcbfd56d2be05183cc89d8809670301d673f2
-slug: InterestingLinks
-title: InterestingLinks
-info: 
-comment: 
-tags: []
 categories:
   - Misc
+comment: 
+date: '2016-1-1'
+info: 
+layout: post
 published: true
+sha: b52f38b1423e79b473430b6951a9116d73b0aaaa
+slug: InterestingLinks
+tags: []
+title: 'Interesting Links'
 
 ---
 

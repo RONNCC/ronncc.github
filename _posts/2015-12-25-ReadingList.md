@@ -1,22 +1,25 @@
 ---
-date: '2015-12-25'
-layout: post
-sha: 27ba6db006f7d904ed856bff04cae57526d40308
-slug: ReadingList
-title: 'Reading List'
-info: 
-comment: pika
-tags: []
 categories:
   - Books
+comment: pika
+date: '2015-12-25'
+info: 
+layout: post
 published: true
+sha: 657772f4b5a13ffc2152e4e854c645b1fe913f01
+slug: ReadingList
+tags: []
+title: 'Reading List'
 
 ---
-
 
 ## Find More
 
 https://en.wikipedia.org/wiki/Elizabeth_Loftus#The_memory_wars
+
+### YCombinator Links
+https://news.ycombinator.com/item?id=10824064
+
 
 ## Papers
 

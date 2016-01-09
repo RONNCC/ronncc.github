@@ -6,13 +6,15 @@ date: '2016-1-1'
 info: 
 layout: post
 published: true
-sha: 75685a7c488b6c4e86e8e46b626aedf2fc707215
+sha: 5a72cf443c8080d0fba5e7a6a8c234b2a3b82a5e
 slug: InterestingLinks
 tags: []
 title: 'Interesting Links'
 
 ---
 
+##General Technology
+[A Camshaft-Free Engine (Koenigsegg) (Video)](https://vimeo.com/145498720)
 
 ## Github Projs
 [Markdown->Presentations](https://github.com/shower/jekyller)
@@ -22,3 +24,4 @@ title: 'Interesting Links'
 
 ## News Articles
 [A lawyer that spent his career suing DuPont over PFOA-water contamination](http://www.nytimes.com/2016/01/10/magazine/the-lawyer-who-became-duponts-worst-nightmare.html)
+

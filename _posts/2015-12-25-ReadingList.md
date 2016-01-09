@@ -35,4 +35,5 @@ https://www.jyotirmoy.net/posts/2015-12-29-springer-openaccess.html
 https://gist.github.com/macintux/6227368
 https://gist.github.com/stfairy/4076899
 https://gist.github.com/nickloewen/10565777
+https://github.com/junhyukoh/deep-reinforcement-learning-papers
 http://dancres.github.io/Pages/

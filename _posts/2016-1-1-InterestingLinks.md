@@ -6,7 +6,7 @@ date: '2016-1-1'
 info: 
 layout: post
 published: true
-sha: 8ac86eb30744aaea3ee390fa0aa39e8627491f26
+sha: 8d46223b042639b9b173b362a4ca3ca105b7676d
 slug: InterestingLinks
 tags: []
 title: 'Interesting Links'
@@ -14,7 +14,7 @@ title: 'Interesting Links'
 ---
 
 
-##General Technology
+##General Technology/Engineering
 [A Camshaft-Free Engine (Koenigsegg) (Video)](https://vimeo.com/145498720)
 
 ## Github Projs
@@ -25,6 +25,9 @@ title: 'Interesting Links'
 
 ## News Articles
 [A lawyer that spent his career suing DuPont over PFOA-water contamination](http://www.nytimes.com/2016/01/10/magazine/the-lawyer-who-became-duponts-worst-nightmare.html)
+
+## What (CS) Tech to use
+[Why not to use Scala - Learning Overhead](http://jimplush.com/talk/2015/12/19/moving-a-team-from-scala-to-golang/)
 
 ## Hiring
 [Considerations when hiring millennials](http://www.evanmiller.org/attracting-millennial-engineers.html)

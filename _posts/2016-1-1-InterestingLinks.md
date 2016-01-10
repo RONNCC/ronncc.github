@@ -6,12 +6,13 @@ date: '2016-1-1'
 info: 
 layout: post
 published: true
-sha: 5a72cf443c8080d0fba5e7a6a8c234b2a3b82a5e
+sha: 5a6d4c8d6dc96c33a6745a800f38f87fb8717a9c
 slug: InterestingLinks
 tags: []
 title: 'Interesting Links'
 
 ---
+
 
 ##General Technology
 [A Camshaft-Free Engine (Koenigsegg) (Video)](https://vimeo.com/145498720)
@@ -25,3 +26,5 @@ title: 'Interesting Links'
 ## News Articles
 [A lawyer that spent his career suing DuPont over PFOA-water contamination](http://www.nytimes.com/2016/01/10/magazine/the-lawyer-who-became-duponts-worst-nightmare.html)
 
+## Hiring
+[Considerations when hiring millennials](http://www.evanmiller.org/attracting-millennial-engineers.html)

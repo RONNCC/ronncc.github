@@ -6,7 +6,7 @@ date: '2016-1-1'
 info: 
 layout: post
 published: true
-sha: 8d46223b042639b9b173b362a4ca3ca105b7676d
+sha: 034f45104673154e0dfaa0baf76474c9268fec48
 slug: InterestingLinks
 tags: []
 title: 'Interesting Links'
@@ -34,3 +34,4 @@ title: 'Interesting Links'
 
 ## Blogs (without RSS feeds :( )
 <http://codahale.com/>
+<http://www.evanmiller.org/index.html>

@@ -6,7 +6,7 @@ date: '2016-1-1'
 info: 
 layout: post
 published: true
-sha: 5a6d4c8d6dc96c33a6745a800f38f87fb8717a9c
+sha: 8ac86eb30744aaea3ee390fa0aa39e8627491f26
 slug: InterestingLinks
 tags: []
 title: 'Interesting Links'
@@ -28,3 +28,6 @@ title: 'Interesting Links'
 
 ## Hiring
 [Considerations when hiring millennials](http://www.evanmiller.org/attracting-millennial-engineers.html)
+
+## Blogs (without RSS feeds :( )
+<http://codahale.com/>

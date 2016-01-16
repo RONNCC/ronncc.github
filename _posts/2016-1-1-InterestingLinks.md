@@ -32,6 +32,9 @@ title: 'Interesting Links'
 ## Hiring
 [Considerations when hiring millennials](http://www.evanmiller.org/attracting-millennial-engineers.html)
 
+## Internet Classes/Courses/Univ Links
+<https://github.com/prakhar1989/awesome-courses>
+
 ## Blogs (without RSS feeds :( )
 <http://codahale.com/>
 <http://www.evanmiller.org/index.html>

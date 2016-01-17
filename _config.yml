@@ -59,7 +59,7 @@ markdown: kramdown
 kramdown:
   input: GFM # Enable GitHub Flavored Markdown (fenced code blocks)
 highlighter: pygments
-permalink: /:title/
+permalink: pretty
 
 # The release of Jekyll Now that you're using
 version: v1.1.0

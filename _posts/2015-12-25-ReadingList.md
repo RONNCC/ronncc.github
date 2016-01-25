@@ -27,7 +27,9 @@ https://news.ycombinator.com/item?id=10783983
 
 ## Books
 [CS Guide to Cell Biology - CMU's Cohen](http://www.cs.cmu.edu/~wcohen/GuideToBiology-sampleChapter-release1.4.pdf)
+
 http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read
+
 https://www.jyotirmoy.net/posts/2015-12-29-springer-openaccess.html
 
 ## Other People's Reading Lists

@@ -21,6 +21,9 @@ https://en.wikipedia.org/wiki/Elizabeth_Loftus#The_memory_wars
 https://news.ycombinator.com/item?id=10824064
 
 
+## Presentations
+http://www.pdl.cmu.edu/SDI/2015/slides/DatacenterComputers.pdf
+
 ## Papers
 
 https://news.ycombinator.com/item?id=10783983

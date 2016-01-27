@@ -13,7 +13,7 @@ title: 'Reading List'
 
 ---
 
-## Find More
+## Find More Like
 
 https://en.wikipedia.org/wiki/Elizabeth_Loftus#The_memory_wars
 
@@ -27,6 +27,9 @@ http://www.pdl.cmu.edu/SDI/2015/slides/DatacenterComputers.pdf
 ## Papers
 
 https://news.ycombinator.com/item?id=10783983
+
+## Blog Posts
+http://danluu.com/perf-tracing/
 
 ## Books
 [CS Guide to Cell Biology - CMU's Cohen](http://www.cs.cmu.edu/~wcohen/GuideToBiology-sampleChapter-release1.4.pdf)

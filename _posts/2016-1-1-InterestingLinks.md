@@ -19,6 +19,8 @@ title: 'Interesting Links'
 
 ## Github Projs
 [Markdown->Presentations](https://github.com/shower/jekyller)
+[Tiny Example Renderer](https://github.com/ssloy/tinyrenderer)
+[Neural Doodler](https://github.com/alexjc/neural-doodle)
 
 ## Infographics
 [2011 Marketing Tech Companies](https://steveblank.files.wordpress.com/2011/02/marketing-tech-landscape.png)

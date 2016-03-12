@@ -13,6 +13,8 @@ title: 'Interesting Links'
 
 ---
 
+##News
+[Trending Github Projs](http://www.gitlogs.com/)
 
 ##General Technology/Engineering
 [A Camshaft-Free Engine (Koenigsegg) (Video)](https://vimeo.com/145498720)

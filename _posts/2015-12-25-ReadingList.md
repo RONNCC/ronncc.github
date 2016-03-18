@@ -33,7 +33,7 @@ http://danluu.com/perf-tracing/
 
 ## Books
 [CS Guide to Cell Biology - CMU's Cohen](http://www.cs.cmu.edu/~wcohen/GuideToBiology-sampleChapter-release1.4.pdf)
-
+[Information Theory - Cambridge's MacKay](http://www.inference.phy.cam.ac.uk/itprnn/book.pdf)
 http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read
 
 https://www.jyotirmoy.net/posts/2015-12-29-springer-openaccess.html

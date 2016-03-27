@@ -27,6 +27,7 @@ http://www.pdl.cmu.edu/SDI/2015/slides/DatacenterComputers.pdf
 ## Papers
 
 https://news.ycombinator.com/item?id=10783983
+[2010 CMU Big Data Reading Group](http://www.cs.cmu.edu/~chensm/Big_Data_reading_group/)
 
 ## Blog Posts
 http://danluu.com/perf-tracing/

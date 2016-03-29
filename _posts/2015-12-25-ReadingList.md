@@ -31,6 +31,7 @@ https://news.ycombinator.com/item?id=10783983
 
 ## Blog Posts
 http://danluu.com/perf-tracing/
+[Twitter's DB: Manhattan](https://blog.twitter.com/2016/strong-consistency-in-manhattan)
 
 ## Books
 [CS Guide to Cell Biology - CMU's Cohen](http://www.cs.cmu.edu/~wcohen/GuideToBiology-sampleChapter-release1.4.pdf)

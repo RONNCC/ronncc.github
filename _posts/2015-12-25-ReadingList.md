@@ -51,3 +51,6 @@ https://gist.github.com/stfairy/4076899
 https://gist.github.com/nickloewen/10565777
 https://github.com/junhyukoh/deep-reinforcement-learning-papers
 http://dancres.github.io/Pages/
+
+## other
+[Lasers FAQ](http://www.repairfaq.org/sam/laserfaq.htm#faqtoc)

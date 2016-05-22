@@ -40,6 +40,7 @@ http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book
 [Applied Crypto Guide - Waterloo](http://cacr.uwaterloo.ca/hac/)
 [Compiler Construction - ETH Zurich](http://www.ethoberon.ethz.ch/WirthPubl/CBEAll.pdf)
 [Decision Procedures - Oxford](http://www.springer.com/us/book/9783540741046)
+[Draplin Design Co](http://www.amazon.com/exec/obidos/ASIN/1419720171/ref=nosim/camworld)
 
 https://www.jyotirmoy.net/posts/2015-12-29-springer-openaccess.html
 

@@ -41,6 +41,7 @@ http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book
 [Compiler Construction - ETH Zurich](http://www.ethoberon.ethz.ch/WirthPubl/CBEAll.pdf)
 [Decision Procedures - Oxford](http://www.springer.com/us/book/9783540741046)
 [Draplin Design Co](http://www.amazon.com/exec/obidos/ASIN/1419720171/ref=nosim/camworld)
+[Huangdi Neijing - Ancient Chinese Medical Text](http://www.biblio.nhat-nam.ru/Huang_Di_Nei_Jing_Su_Wen-Unschuld-Tessenow-1-2.pdf)
 
 https://www.jyotirmoy.net/posts/2015-12-29-springer-openaccess.html
 

@@ -39,6 +39,7 @@ http://danluu.com/perf-tracing/
 http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read
 [Applied Crypto Guide - Waterloo](http://cacr.uwaterloo.ca/hac/)
 [Compiler Construction - ETH Zurich](http://www.ethoberon.ethz.ch/WirthPubl/CBEAll.pdf)
+[Decision Procedures - Oxford](http://www.springer.com/us/book/9783540741046)
 
 https://www.jyotirmoy.net/posts/2015-12-29-springer-openaccess.html
 

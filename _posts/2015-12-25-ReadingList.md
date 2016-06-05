@@ -3,14 +3,13 @@ categories:
   - Books
 comment: pika
 date: '2015-12-25'
-info: 
+info: null
 layout: post
 published: true
 sha: 657772f4b5a13ffc2152e4e854c645b1fe913f01
 slug: ReadingList
 tags: []
-title: 'Reading List'
-
+title: Reading List
 ---
 
 ## Find More Like
@@ -42,6 +41,7 @@ http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book
 [Decision Procedures - Oxford](http://www.springer.com/us/book/9783540741046)
 [Draplin Design Co](http://www.amazon.com/exec/obidos/ASIN/1419720171/ref=nosim/camworld)
 [Huangdi Neijing - Ancient Chinese Medical Text](http://www.biblio.nhat-nam.ru/Huang_Di_Nei_Jing_Su_Wen-Unschuld-Tessenow-1-2.pdf)
+[Building Problem Solvers - Northwestern](http://www.qrg.northwestern.edu/BPS/readme.html)
 
 https://www.jyotirmoy.net/posts/2015-12-29-springer-openaccess.html
 

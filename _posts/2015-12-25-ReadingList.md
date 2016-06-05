@@ -54,6 +54,8 @@ https://www.jyotirmoy.net/posts/2015-12-29-springer-openaccess.html
 - https://github.com/junhyukoh/deep-reinforcement-learning-papers
 - http://dancres.github.io/Pages/
 
+## Tutorials
+- [How to make an OS](http://www.brokenthorn.com/Resources/OSDevIndex.html)
 
 ## other
 - [Lasers FAQ](http://www.repairfaq.org/sam/laserfaq.htm#faqtoc)

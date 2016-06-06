@@ -54,9 +54,13 @@ https://www.jyotirmoy.net/posts/2015-12-29-springer-openaccess.html
 - https://github.com/junhyukoh/deep-reinforcement-learning-papers
 - http://dancres.github.io/Pages/
 
+
 ## Tutorials
 - [How to make an OS](http://www.brokenthorn.com/Resources/OSDevIndex.html)
 
 ## other
 - [Lasers FAQ](http://www.repairfaq.org/sam/laserfaq.htm#faqtoc)
 - [List of "Awesome Things" including papers](https://github.com/sindresorhus/awesome)
+
+## Courses
+- [Stat Learning Theory - 281B (Jordan)](http://people.eecs.berkeley.edu/~jordan/courses/281B-spring04/)

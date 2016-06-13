@@ -44,6 +44,7 @@ should-read
 - [Huangdi Neijing - Ancient Chinese Medical Text](http://www.biblio.nhat-nam.ru/Huang_Di_Nei_Jing_Su_Wen-Unschuld-Tessenow-1-2.pdf)
 - [Building Problem Solvers - Northwestern](http://www.qrg.northwestern.edu/BPS/readme.html)
 - [Okasaki's Thesis/FP book - CMU](http://www.amazon.com/Purely-Functional-Structures-Chris-Okasaki/dp/0521663504) [thesis](http://www.cs.cmu.edu/~rwh/theses/okasaki.pdf)
+- [Making of PPT (Creator of Startup)](https://www.amazon.com/Sweating-Bullets-Notes-Inventing-PowerPoint/dp/0985142421?ie=UTF8&redirect=true)
 
 https://www.jyotirmoy.net/posts/2015-12-29-springer-openaccess.html
 

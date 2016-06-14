@@ -1,16 +1,15 @@
 ---
 categories:
   - Misc
-comment: 
-date: '2016-1-1'
-info: 
+comment: null
+date: 2016-1-1
+info: null
 layout: post
 published: true
 sha: 034f45104673154e0dfaa0baf76474c9268fec48
 slug: InterestingLinks
 tags: []
-title: 'Interesting Links'
-
+title: Interesting Links
 ---
 
 ##News
@@ -40,6 +39,8 @@ title: 'Interesting Links'
 
 ## Internet Classes/Courses/Univ Links
 <https://github.com/prakhar1989/awesome-courses>
+http://courses.cms.caltech.edu/cs179/
+http://ai.berkeley.edu/home.html
 
 ## Blogs (without RSS feeds :( )
 <http://codahale.com/>

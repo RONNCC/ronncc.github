@@ -46,7 +46,8 @@ should-read
 - [Building Problem Solvers - Northwestern](http://www.qrg.northwestern.edu/BPS/readme.html)
 - [Okasaki's Thesis/FP book - CMU](http://www.amazon.com/Purely-Functional-Structures-Chris-Okasaki/dp/0521663504) [thesis](http://www.cs.cmu.edu/~rwh/theses/okasaki.pdf)
 - [Making of PPT (Creator of Startup)](https://www.amazon.com/Sweating-Bullets-Notes-Inventing-PowerPoint/dp/0985142421?ie=UTF8&redirect=true)
-[Theory of Distributed Systems, Randomized Algos, Computational Complexity - Yale](http://www.cs.yale.edu/homes/aspnes/)
+- [Theory of Distributed Systems, Randomized Algos, Computational Complexity - Yale](http://www.cs.yale.edu/homes/aspnes/)
+- [High Performance Browser Networking - W3C Cochair](https://hpbn.co/)
 
 https://www.jyotirmoy.net/posts/2015-12-29-springer-openaccess.html
 

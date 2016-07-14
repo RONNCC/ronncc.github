@@ -28,6 +28,7 @@ http://www.pdl.cmu.edu/SDI/2015/slides/DatacenterComputers.pdf
 https://news.ycombinator.com/item?id=10783983
 [2010 CMU Big Data Reading Group](http://www.cs.cmu.edu/~chensm/Big_Data_reading_group/)
 [Doom 3 Network Architecture](http://fabiensanglard.net/doom3_documentation/The-DOOM-III-Network-Architecture.pdf)
+[ETH Zurich Systems Group](http://systems.ethz.pubzone.org/index.do?show_max=100&from_position=1)
 
 ## Blog Posts
 http://danluu.com/perf-tracing/

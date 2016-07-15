@@ -34,6 +34,7 @@ https://news.ycombinator.com/item?id=10783983
 http://danluu.com/perf-tracing/
 [Twitter's DB: Manhattan](https://blog.twitter.com/2016/strong-consistency-in-manhattan)
 [Linux Networking Stack](https://www.privateinternetaccess.com/blog/2016/01/linux-networking-stack-from-the-ground-up-part-1/)
+[Data Structures for External Memory & Cambridge CS Notes](http://blog.omega-prime.co.uk/?p=197)
 
 ## Books
 - [CS Guide to Cell Biology - CMU's Cohen](http://www.cs.cmu.edu/~wcohen/GuideToBiology-sampleChapter-release1.4.pdf)

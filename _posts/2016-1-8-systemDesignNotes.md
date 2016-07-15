@@ -19,3 +19,6 @@ type: post
 ## Distributed
 - [Use epoll/kqueue not select/poll as they are more scalable](http://geocar.sdf1.org/fast-servers.html)
 - CAP is kind of a lie [[1]](http://codahale.com/you-cant-sacrifice-partition-tolerance/#errata10221010) [[2]](https://voltdb.com/blog/clarifications-cap-theorem-and-data-related-errors)
+
+## App Architecture / Ops
+- [The 12 Factor App](http://12factor.net/)

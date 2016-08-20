@@ -29,12 +29,16 @@ https://news.ycombinator.com/item?id=10783983
 [2010 CMU Big Data Reading Group](http://www.cs.cmu.edu/~chensm/Big_Data_reading_group/)
 [Doom 3 Network Architecture](http://fabiensanglard.net/doom3_documentation/The-DOOM-III-Network-Architecture.pdf)
 [ETH Zurich Systems Group](http://systems.ethz.pubzone.org/index.do?show_max=100&from_position=1)
+[Fast Userspace Packet Processing (click)](https://orbi.ulg.ac.be/bitstream/2268/181954/1/userspaceio.pdf)
+[Fast Regex Generation using NNs](http://arxiv.org/pdf/1608.03000v1.pdf)
 
 ## Blog Posts
 http://danluu.com/perf-tracing/
 [Twitter's DB: Manhattan](https://blog.twitter.com/2016/strong-consistency-in-manhattan)
 [Linux Networking Stack](https://www.privateinternetaccess.com/blog/2016/01/linux-networking-stack-from-the-ground-up-part-1/)
 [Data Structures for External Memory & Cambridge CS Notes](http://blog.omega-prime.co.uk/?p=197)
+[Variational Encoders](https://jaan.io/unreasonable-confusion/)
+[How does GDB Work?](http://jvns.ca/blog/2016/08/10/how-does-gdb-work/)
 
 ## Books
 - [CS Guide to Cell Biology - CMU's Cohen](http://www.cs.cmu.edu/~wcohen/GuideToBiology-sampleChapter-release1.4.pdf)

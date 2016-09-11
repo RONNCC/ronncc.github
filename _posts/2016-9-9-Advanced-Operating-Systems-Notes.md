@@ -30,3 +30,6 @@ Professor Dave Andersen
     - Bypass Lower Layer OS network stack 
     - RDMA 
     - Cross-Layer Optimization
+    
+- RPC / General Message Passing used commonly now
+- Distributed Transactional Memory possible over LAN not so much WAN. 

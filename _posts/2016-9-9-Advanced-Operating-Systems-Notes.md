@@ -43,7 +43,21 @@ Paper: Using Threads in Interactive Systems: A Case Study Hauser 93 SIGOPS
 - Threads require interrupt but doesnt invalidate TLB
 - Application Schedulers on the other hand - Function call, table lookup, function call -> much much cheaper. 
 	- e.g. Fiber schedulers are app level schedulers.
-- 
+- "Rob Pike from the Go team" has a great talk on using gothreads to write a compiler
+
+## Paper 
+- Mark Weiser (an author): one of fathers of ubiquitous computing 
+- Kinds of Threads:
+	- Transient:
+    	- Defer: Another thread to do long tasks
+        - Pump: Input transformer
+        - Sleeper (time/periodic)
+        - Slack  (e.g. batching=less work/more efficient). But slack process /w wrong thread priority / not many things to do is degrading of performance. Also possibility for priority inversion. 
+        	- Ways to attempt to reduce deadlock: Deadlock Checker Thread / Have a thread give up all locks and try to get all of them from scratch. Also partial unrolling / failures within nested calls is painful
+         - Task Rejuvenation: If something going wrong just kill it and have another process do the work -> Masks failure. Controversial.
+         	- Martin Renard's Group (MIT): Solution is that anytime you might read from bad data / e.g. segfault -> just return random data and stuff works!-> no one noticed the corruption (in the case of web apps).
+            - Micro-reboot Idea (Stanford - Candea / Armando Fox).
+            
 
 Q: Is DRAM always next to core on board?
 

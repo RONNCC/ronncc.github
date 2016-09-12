@@ -14,6 +14,10 @@ Professor Dave Andersen
 
 # 2016-Sept-12 - Lecture 3
 Admin: {Wed: Time, Clocks;  Fri: No Class}
+Paper: Using Threads in Interactive Systems: A Case Study Hauser 93 SIGOPS
+
+
+## Precursor
 
 - multithread individual programs to get crisp response.
 - when you have 8+ cores, you need to think how to extract more parallelism. 
@@ -23,12 +27,29 @@ Admin: {Wed: Time, Clocks;  Fri: No Class}
 - HBM (high bandwidth memory) - stack of dram with a high bandwidth interconnect 
 - Most cores can execute 2 threads at a time (hyperthreading)
 - PCIe - peripherical connect interface -> attach flash / NIC / High speed peripheral interconnects to attach additional components.
+- > 1000's of threads to keep cores 100% utilized
+- more energy efficient to buy 2x the cpu's but things like huffman encoding because not parallelizable
+
+
+
+## Process vs Thread (in context of paper) 
+
+- Process has Seperate Address space vs Shared (Thread)
+- Process have own resources & permissions whereas Threads share those e.g. open file descriptors
+- Threads are cheaper (not cheap!). ~ 100kb in this, Processes are (~10s of MB).
+	- Fibers/Coroutines: "Fiber is smaller than a thread". Within a process cooperatively process & multischedule. can have 10/100k of these.
+- Preemptive vs Cooperative Threads (os steps in vs thread runs till it gives up control)
+- A process switch requires interrupts, and then run a OS scheduler, and then returning control potentially to a different process: the most expensive thing is to invalidate the TLB :( . 
+- Threads require interrupt but doesnt invalidate TLB
+- Application Schedulers on the other hand - Function call, table lookup, function call -> much much cheaper. 
+	- e.g. Fiber schedulers are app level schedulers.
 - 
 
 Q: Is DRAM always next to core on board?
 
 
 # 2016-Sept-9 - Lecture 2 
+Paper: Implementing Remote Procedure Calls Birrell 1984
 - RPC
   - Have RPC look like local calls
   - synchronous calls

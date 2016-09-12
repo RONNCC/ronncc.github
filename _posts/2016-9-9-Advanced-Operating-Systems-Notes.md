@@ -13,9 +13,19 @@ title: Grad Advanced Operating Systems & Distrib. Systems Notes
 Professor Dave Andersen
 
 # 2016-Sept-12 - Lecture 3
-> Wed: Time, Clocks
-> Fri: No Class
+Admin: {Wed: Time, Clocks;  Fri: No Class}
 
+- multithread individual programs to get crisp response.
+- when you have 8+ cores, you need to think how to extract more parallelism. 
+- in a modern multisocket there is two cpu's with a dram and a PCIe each (he calls them sockets b/c cpu's go in a  sockets), connected by a interconnect. Usually ~16 cores/cpu now. L1/L2 cache on core. L3 Cache per socket. (NUMA CPU Design). 
+- bigger = slower means segregated memory hierachy (Physics) -> Time to activate a line and length of buses. 
+- DRAM/CPU are different fab processes - expand at different rates, you dont want the mini metal interconnects to break as they expand
+- HBM (high bandwidth memory) - stack of dram with a high bandwidth interconnect 
+- Most cores can execute 2 threads at a time (hyperthreading)
+- PCIe - peripherical connect interface -> attach flash / NIC / High speed peripheral interconnects to attach additional components.
+- 
+
+Q: Is DRAM always next to core on board?
 
 
 # 2016-Sept-9 - Lecture 2 

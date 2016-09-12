@@ -12,6 +12,12 @@ title: Grad Advanced Operating Systems & Distrib. Systems Notes
 ---
 Professor Dave Andersen
 
+# 2016-Sept-12 - Lecture 3
+> Wed: Time, Clocks
+> Fri: No Class
+
+
+
 # 2016-Sept-9 - Lecture 2 
 - RPC
   - Have RPC look like local calls
@@ -32,4 +38,4 @@ Professor Dave Andersen
     - Cross-Layer Optimization
     
 - RPC / General Message Passing used commonly now
-- Distributed Transactional Memory possible over LAN not so much WAN. 
+- Distributed Transactional Memory possible over LAN not so much WAN.

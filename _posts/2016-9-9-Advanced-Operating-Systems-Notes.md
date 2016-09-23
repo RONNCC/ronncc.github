@@ -12,8 +12,18 @@ title: Grad Advanced Operating Systems & Distrib. Systems Notes
 ---
 Professor Dave Andersen
 
-# 2016-Sept-12 - Lecture 3
+# 2016-Sept-23
+- Fuzzing  is helpful
+    - Link against ASAM (address sanitizer) / LibFuzz / AFL - American Fuzzy Lop
+    - Industry "State of Art" / Adaptive Fuzzing
+    
+    
+
+
+
+# 2016-Sept-12
 Admin: {Wed: Time, Clocks;  Fri: No Class}
+
 Paper: Using Threads in Interactive Systems: A Case Study Hauser 93 SIGOPS
 
 

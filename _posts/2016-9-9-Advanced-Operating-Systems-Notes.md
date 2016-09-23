@@ -60,6 +60,9 @@ Back to Model Checking
 - Fsck was the basis for their correctness?
 - CMC + Stubs. They forwarded syscalls to their state machine 
 
+
+SSDs - New FS's try to do large sequential writes, Disk drivers make Log Structured File Systems, optimize small things - "Turf War". (So they work with legacy FS). 
+
 Disks not predictable - There's a paper by Eric Brewer.
 
 Question: DSLs for specifying equality relations i.e. things that are the same in a filesystem?  

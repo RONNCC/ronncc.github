@@ -13,11 +13,58 @@ title: Grad Advanced Operating Systems & Distrib. Systems Notes
 Professor Dave Andersen
 
 # 2016-Sept-23
+
+Paper: Using Model Checking to Find Serious File System Errors Yang 04
+
 - Fuzzing  is helpful
     - Link against ASAM (address sanitizer) / LibFuzz / AFL - American Fuzzy Lop
     - Industry "State of Art" / Adaptive Fuzzing
+
+- Filesystems are ugly to fuzz
+    - People test general not edge cases
+	- Crash/Reboot => long
+        - Sometimes true that disks do what you tell it - write [w1, fsync, w2] - you should have w1 if w2, ... - disks sometimes consistent - if you do certain things
+        - Untested Code in Drivers: Error States 
+   
+- What do filesystems look like?
+	- Well known superblock -> links to '/' directory or similar, 
+   	- '/' then has names -> inodes with inodes pointing to blocks. Blocks can point to blocks. 
+   	- Important Consistent Things
+   		- If delete dog (file), you can just delete entry in directory. Bad issue is if name deleted but lost state about ops in file system. You have pointer gone but inodes/blocks are allocated. 
+       	- How do we know if this happens? **FSCK**
+        - What if we delete inodes, and then crash (dont delete name chunk)? We start overwriting other things
+        if we try to write to it. 
+        - When deleting you always delete & unlink then do unfree.
+        - When you make a new file - first allocate & then link & then names and things.
+        - If you do these in order you should have consistent. But large performance penalty for fsync. 
+    - ext2 so fast vs BSD Fast File System, but loses data - last 30 sec sometimes - wrong order of ops can throw your FS away. 
+    - JFS - Journaling FS. / ReiserFS also a thing
+    - BTRFS is the new cool thing 
+    - Checksums -> Stop instead of corruption failures
     
-    
+- Imagine building a soda dispenser
+
+Coin -(Insert)-> Select State 
+Select -Water-> Dispense
+Select -Soda-> Select
+
+What is correctness look like? 
+- State always valid, you have to pay, you always get what you ask for
+
+Back to Model Checking
+- State Compaction (heuristic) e.g. ignore filenames
+    - Hashbased comparisons
+- Explore Efficiently
+- Find Impl Bugs (vs Model Checking usually being correctness)
+- It's hard to specify correctness (cool paper: SQCK: a declarative file system checker) 
+- Fsck was the basis for their correctness?
+- CMC + Stubs. They forwarded syscalls to their state machine 
+
+Disks not predictable - There's a paper by Eric Brewer.
+
+Question: DSLs for specifying equality relations i.e. things that are the same in a filesystem?  
+Question: Is disk control algorithms a research area still?
+Question: No code gen for formal models? 
 
 
 

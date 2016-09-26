@@ -52,8 +52,7 @@ Paper: AFS Howard 88
 - Read(fd ..) -> Get a file handle (vol, inode, gen \#) -> Make server stateless and idempotent. 
 
 Q: How make generation \#?   
-Q: Compiler BottleNeck
-Q: 
+Q: Why is TCP Better > UDP For Services? Because Firewalls like TCP Better generally  
 
 # 2016-Sept-23
 

@@ -31,7 +31,7 @@ Paper: AFS Howard 88
 
 ## Lustre, etc: / Panasas
 - Storage: Sharded in Parallel - 10 Comps. Performance!!!
-
+- GFS Looks similar -> pushed requirements to apps
 
 # 2016-Sept-23
 

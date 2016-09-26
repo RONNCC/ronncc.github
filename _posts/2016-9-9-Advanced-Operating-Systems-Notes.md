@@ -18,7 +18,7 @@ Paper: AFS Howard 88
 
 ## AFS:
 - \# of users > 5-10k
-- Efficient servers by local caching
+- Efficient servers by whole-file caching
 - Server crash -> pause
 - No Net? Maybe local cache if lease
 - Typically 1 user prer file or read only
@@ -31,8 +31,20 @@ Paper: AFS Howard 88
 
 ## Lustre, etc: / Panasas
 - Storage: Sharded in Parallel - 10 Comps. Performance!!!
-- GFS Looks similar -> pushed requirements to apps
+- GFS Looks similar -> pushed requirements to apps -> append semantics
 
+## NFS
+- More cluster-y
+- Survive crashes
+- Transparent
+- Caching! -> Validate on use. (Block Based)
+- Didn't have consistent access. 
+- 3 second attr cache
+
+## How does local ops do things?
+- Read(fd ..) -> Get a file handle (vol, inode, gen \#) -> Make server stateless and idempotent. 
+
+Q: How make generation \#?   
 # 2016-Sept-23
 
 Paper: Using Model Checking to Find Serious File System Errors Yang 04

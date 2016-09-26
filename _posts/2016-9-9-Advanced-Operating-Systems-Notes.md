@@ -17,17 +17,17 @@ Professor Dave Andersen
 Paper: AFS Howard 88
 
 ## AFS:
-	- #users > 5-10k
-    - Efficient servers by local caching
-    - Server crash -> pause
-    - No Net? Maybe local cache if lease
-    - Typically 1 user prer file or read only
+- \# of users > 5-10k
+- Efficient servers by local caching
+- Server crash -> pause
+- No Net? Maybe local cache if lease
+- Typically 1 user prer file or read only
 
 ## Dropbox:
-	- 500M ~ users.
-    - work offline
-        - Conflict handling / merges
-        - Human / Piss someone off
+- 500M ~ users.
+- work offline?
+  - Conflict handling / merges
+  - Human / Piss someone off
 
 ## Lustre, etc: / Panasas
 - Storage: Sharded in Parallel - 10 Comps. Performance!!!

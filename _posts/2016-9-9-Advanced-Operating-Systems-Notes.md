@@ -22,6 +22,13 @@ Paper: AFS Howard 88
 - Server crash -> pause
 - No Net? Maybe local cache if lease
 - Typically 1 user prer file or read only
+- Evaluation?:
+	- Benchmark (Modified Andrew Benchmark)
+    - Ran commmands - You can see amdahls law's and don't have interactions b/w file ops
+    - Experience:
+    	- Much slower than local
+        - Better than 1 server
+        - Killed Server
 
 ## Dropbox:
 - 500M ~ users.

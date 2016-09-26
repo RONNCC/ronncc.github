@@ -52,6 +52,9 @@ Paper: AFS Howard 88
 - Read(fd ..) -> Get a file handle (vol, inode, gen \#) -> Make server stateless and idempotent. 
 
 Q: How make generation \#?   
+Q: Compiler BottleNeck
+Q: 
+
 # 2016-Sept-23
 
 Paper: Using Model Checking to Find Serious File System Errors Yang 04

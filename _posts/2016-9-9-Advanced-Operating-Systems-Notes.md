@@ -12,6 +12,27 @@ title: Grad Advanced Operating Systems & Distrib. Systems Notes
 ---
 Professor Dave Andersen
 
+# 2016-Sept-26
+
+Paper: AFS Howard 88
+
+## AFS:
+	- #users > 5-10k
+    - Efficient servers by local caching
+    - Server crash -> pause
+    - No Net? Maybe local cache if lease
+    - Typically 1 user prer file or read only
+
+## Dropbox:
+	- 500M ~ users.
+    - work offline
+        - Conflict handling/merges
+        - Human / Piss someone off
+
+## Lustre, etc: / Panasas
+- Storage: Sharded in Parallel - 10 Comps. Performance!!!
+
+
 # 2016-Sept-23
 
 Paper: Using Model Checking to Find Serious File System Errors Yang 04

@@ -26,7 +26,7 @@ Paper: AFS Howard 88
 ## Dropbox:
 	- 500M ~ users.
     - work offline
-        - Conflict handling/merges
+        - Conflict handling / merges
         - Human / Piss someone off
 
 ## Lustre, etc: / Panasas

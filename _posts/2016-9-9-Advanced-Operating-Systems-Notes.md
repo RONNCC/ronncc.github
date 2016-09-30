@@ -12,6 +12,19 @@ title: Grad Advanced Operating Systems & Distrib. Systems Notes
 ---
 Professor Dave Andersen
 
+# 2016-Sept-30
+
+The Design and Implementation of a Log-Structured File System
+
+How many disks are at $x -> estimate data per second ingestion / disk storage  
+- Context Raid: (IBM / Disk Size)
+- Balance
+- Spindles vs $/tb vs trut?
+	- RAID Levels
+- Reliability / MTTR / MTBF / etc.
+- Schroeder
+- RAID6 vs Cross-rack/de
+
 # 2016-Sept-26
 
 Paper: AFS Howard 88

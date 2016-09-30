@@ -21,14 +21,25 @@ How many disks are at $x -> estimate data per second ingestion / disk storage
 - Balance
 - Spindles vs $/tb vs trut?
 	- RAID Levels
-- Reliability / MTTR / MTBF / etc.
+- Reliability / MTTR / MTBF / MTTF etc.
 - Schroeder
 - RAID6 vs Cross-rack/de
+- Section Remapping is eww (inserts seeks into reads). 
 
 
 ## Reliability
 - Raid vs Tape Storage vs zone replication (buddy data centers!) 
-- 
+- http://firstround.com/review/the-three-infrastructure-mistakes-your-company-must-not-make/
+- Monitor everything
+- https://en.wikipedia.org/wiki/Jerry_Saltzer has an undergrad book & class on relability eng
+
+## RAID
+- 0- striping, 1- mirror, 2- ecc, 3- single group, 4/5 sector. 
+- https://community.netapp.com/fukiw75442/attachments/fukiw75442/data-ontap-discussions/2334/1/WAFL.pdf
+- Hard drives are not as good as promised
+- Failures correlated 
+- MTTRs are increasing (fast + bigger disks)
+- Failures increase (esp during heavy use!) 
 
 
 

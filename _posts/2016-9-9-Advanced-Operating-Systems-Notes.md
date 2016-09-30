@@ -25,6 +25,15 @@ How many disks are at $x -> estimate data per second ingestion / disk storage
 - Schroeder
 - RAID6 vs Cross-rack/de
 
+
+## Reliability
+- Raid vs Tape Storage vs zone replication (buddy data centers!) 
+- 
+
+
+
+"When you're operating at googlebooksoft scale" every server cannot be a special snowflake  
+
 # 2016-Sept-26
 
 Paper: AFS Howard 88

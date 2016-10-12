@@ -31,6 +31,7 @@ https://news.ycombinator.com/item?id=10783983
 [ETH Zurich Systems Group](http://systems.ethz.pubzone.org/index.do?show_max=100&from_position=1)
 [Fast Userspace Packet Processing (click)](https://orbi.ulg.ac.be/bitstream/2268/181954/1/userspaceio.pdf)
 [Fast Regex Generation using NNs](http://arxiv.org/pdf/1608.03000v1.pdf)
+[Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation](https://arxiv.org/abs/1609.08144)
 
 ## Blog Posts
 http://danluu.com/perf-tracing/
@@ -39,6 +40,7 @@ http://danluu.com/perf-tracing/
 [Data Structures for External Memory & Cambridge CS Notes](http://blog.omega-prime.co.uk/?p=197)
 [Variational Encoders](https://jaan.io/unreasonable-confusion/)
 [How does GDB Work?](http://jvns.ca/blog/2016/08/10/how-does-gdb-work/)
+[Intro To Galois Theory](https://nrich.maths.org/1422)
 
 ## Books
 - [CS Guide to Cell Biology - CMU's Cohen](http://www.cs.cmu.edu/~wcohen/GuideToBiology-sampleChapter-release1.4.pdf)
@@ -77,7 +79,7 @@ https://www.jyotirmoy.net/posts/2015-12-29-springer-openaccess.html
 
 ## Courses
 - [Stat Learning Theory - 281B (Jordan)](http://people.eecs.berkeley.edu/~jordan/courses/281B-spring04/)
-
+- [Digital Photography - Stanford](https://sites.google.com/site/marclevoylectures/home)
 
 ## TODO
 

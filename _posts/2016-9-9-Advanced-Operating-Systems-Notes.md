@@ -16,7 +16,7 @@ Professor Dave Andersen
 
 Dynamo Paper
 
-- Eventual Consistency -> Vector Clocks 
+- Eventual Consistency -> Vector Clocks (Bayou) / Red Blue  Consistency 
 - Consistent Hashing
 - Gossip Protocols
 - SLOs & 99.9% Percentile Latency

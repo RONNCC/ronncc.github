@@ -12,6 +12,16 @@ title: Grad Advanced Operating Systems & Distrib. Systems Notes
 ---
 Professor Dave Andersen
 
+# 2016-Oct-14
+
+Dynamo Paper
+
+- Eventual Consistency -> Vector Clocks 
+- Consistent Hashing
+- Gossip Protocols
+- SLOs & 99.9% Percentile Latency
+- Merkle Trees
+
 # 2016-Sept-30
 
 The Design and Implementation of a Log-Structured File System

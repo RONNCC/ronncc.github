@@ -22,6 +22,7 @@ https://news.ycombinator.com/item?id=10824064
 
 ## Presentations
 http://www.pdl.cmu.edu/SDI/2015/slides/DatacenterComputers.pdf
+[Crash course in x86 for Reverse Engineers](https://sensepost.com/blogstatic/2014/01/SensePost_crash_course_in_x86_assembly-.pdf)
 
 ## Papers
 

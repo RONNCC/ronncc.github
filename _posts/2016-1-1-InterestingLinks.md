@@ -12,10 +12,16 @@ tags: []
 title: Interesting Links
 ---
 
-##News
+## Programming
+
+### C 
+
+[Comparing LibC alternatives](http://www.etalabs.net/compare_libcs.html)
+
+## News
 [Trending Github Projs](http://www.gitlogs.com/)
 
-##General Technology/Engineering
+## General Technology/Engineering
 [A Camshaft-Free Engine (Koenigsegg) (Video)](https://vimeo.com/145498720)
 
 ## Github Projs

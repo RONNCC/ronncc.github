@@ -14,9 +14,14 @@ title: Interesting Links
 
 ## Programming
 
+## CS 
+
 ### C 
 
 [Comparing LibC alternatives](http://www.etalabs.net/compare_libcs.html)
+
+### ML
+[Visualizing Caffe Neural Nets](http://ethereon.github.io/netscope/quickstart.html)
 
 ## News
 [Trending Github Projs](http://www.gitlogs.com/)

@@ -70,6 +70,7 @@ should-read
 - [Theory of Distributed Systems, Randomized Algos, Computational Complexity - Yale](http://www.cs.yale.edu/homes/aspnes/)
 - [High Performance Browser Networking - W3C Cochair](https://hpbn.co/)
 - [Linux Device Drivers - O'Reilly](http://www.linuxforu.com/2010/12/writing-your-first-linux-driver/)
+- [The Art of Multiprocessor Programming](https://www.amazon.com/Art-Multiprocessor-Programming-Revised-Reprint/dp/0123973376)
 
 
 https://www.jyotirmoy.net/posts/2015-12-29-springer-openaccess.html

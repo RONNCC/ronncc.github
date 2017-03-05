@@ -58,6 +58,7 @@ http://danluu.com/perf-tracing/
 [Intro To Galois Theory](https://nrich.maths.org/1422)
 
 ## Books
+- [Unix Hater's Guide](http://web.mit.edu/~simsong/www/ugh.pdf)
 - [CS Guide to Cell Biology - CMU's Cohen](http://www.cs.cmu.edu/~wcohen/GuideToBiology-sampleChapter-release1.4.pdf)
 - [Information Theory - Cambridge's MacKay](http://www.inference.phy.cam.ac.uk/itprnn/book.pdf)
 - http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-

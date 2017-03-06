@@ -43,6 +43,11 @@ title: Interesting Links
 ## Infographics
 [2011 Marketing Tech Companies](https://steveblank.files.wordpress.com/2011/02/marketing-tech-landscape.png)
 
+## Design
+
+Proportional vs Lining; Old Style vs Tabular; Right align your tabular data
+[1](https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=00041I) [2](https://medium.com/mission-log/design-better-data-tables-430a30a00d8c#.kbq2lopro)
+
 ## News Articles
 [A lawyer that spent his career suing DuPont over PFOA-water contamination](http://www.nytimes.com/2016/01/10/magazine/the-lawyer-who-became-duponts-worst-nightmare.html)
 

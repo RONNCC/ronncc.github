@@ -48,6 +48,7 @@ https://news.ycombinator.com/item?id=10783983
     Liskov, B. H. (1972, December). A design methodology for reliable software systems. In Proceedings of the December 5-7, 1972, fall joint computer conference, part I (pp. 191-199). ACM.    
 
 
+
 ## Blog Posts
 http://danluu.com/perf-tracing/
 [Twitter's DB: Manhattan](https://blog.twitter.com/2016/strong-consistency-in-manhattan)
@@ -58,6 +59,11 @@ http://danluu.com/perf-tracing/
 [Intro To Galois Theory](https://nrich.maths.org/1422)
 
 ## Books
+
+### Typography
+http://practicaltypography.com/  
+
+
 - [Unix Hater's Guide](http://web.mit.edu/~simsong/www/ugh.pdf)
 - [CS Guide to Cell Biology - CMU's Cohen](http://www.cs.cmu.edu/~wcohen/GuideToBiology-sampleChapter-release1.4.pdf)
 - [Information Theory - Cambridge's MacKay](http://www.inference.phy.cam.ac.uk/itprnn/book.pdf)

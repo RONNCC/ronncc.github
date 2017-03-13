@@ -63,7 +63,9 @@ http://danluu.com/perf-tracing/
 ### Typography
 http://practicaltypography.com/  
 
+### CS
 
+-[ The Linux Programming Interface: A Linux and UNIX System Programming Handbook](https://www.amazon.com/gp/product/1593272200/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1593272200&linkCode=as2&tag=darkcoding-20)
 - [Unix Hater's Guide](http://web.mit.edu/~simsong/www/ugh.pdf)
 - [CS Guide to Cell Biology - CMU's Cohen](http://www.cs.cmu.edu/~wcohen/GuideToBiology-sampleChapter-release1.4.pdf)
 - [Information Theory - Cambridge's MacKay](http://www.inference.phy.cam.ac.uk/itprnn/book.pdf)

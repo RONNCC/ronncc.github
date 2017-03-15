@@ -49,6 +49,7 @@ Proportional vs Lining; Old Style vs Tabular; Right align your tabular data
 [1](https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=00041I) [2](https://medium.com/mission-log/design-better-data-tables-430a30a00d8c#.kbq2lopro)
 
 [Principle](http://principleformac.com/)
+[Sites for stuff](https://www.mockplus.com/blog/post/12-design-tools-websites-for-uiux-designers)
 
 ## News Articles
 [A lawyer that spent his career suing DuPont over PFOA-water contamination](http://www.nytimes.com/2016/01/10/magazine/the-lawyer-who-became-duponts-worst-nightmare.html)

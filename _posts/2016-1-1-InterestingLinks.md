@@ -17,6 +17,9 @@ title: Interesting Links
 ## CS 
 [Pen Test Tools Cheat Sheet](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/)
 
+### Webdev
+[CSS Animations](http://animista.net/)
+
 ### C 
 
 [Comparing LibC alternatives](http://www.etalabs.net/compare_libcs.html)

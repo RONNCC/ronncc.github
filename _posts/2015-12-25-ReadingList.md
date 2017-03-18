@@ -17,7 +17,8 @@ title: Reading List
 https://en.wikipedia.org/wiki/Elizabeth_Loftus#The_memory_wars
 
 ### YCombinator Links
-https://news.ycombinator.com/item?id=10824064
+[GPU Text Rendering](https://news.ycombinator.com/item?id=10824064)
+
 
 
 ## Presentations
@@ -57,10 +58,6 @@ http://danluu.com/perf-tracing/
 [Variational Encoders](https://jaan.io/unreasonable-confusion/)
 [How does GDB Work?](http://jvns.ca/blog/2016/08/10/how-does-gdb-work/)
 [Intro To Galois Theory](https://nrich.maths.org/1422)
-[Page Faults are scary](http://zeuxcg.org/2014/12/21/page-fault-queue/#fn:6)
-[Building Safe AI](https://iamtrask.github.io/2017/03/17/safe-ai/)
-
-
 
 ## Books
 

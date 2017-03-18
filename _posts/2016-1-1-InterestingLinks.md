@@ -41,10 +41,6 @@ title: Interesting Links
 
 [Neural Doodler](https://github.com/alexjc/neural-doodle)
 
-## Blogs
-[Page Faults are scary](http://zeuxcg.org/2014/12/21/page-fault-queue/#fn:6)
-[Building Safe AI](https://iamtrask.github.io/2017/03/17/safe-ai/)
-
 
 ## Infographics
 [2011 Marketing Tech Companies](https://steveblank.files.wordpress.com/2011/02/marketing-tech-landscape.png)

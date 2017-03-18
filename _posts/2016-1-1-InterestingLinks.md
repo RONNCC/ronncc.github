@@ -25,6 +25,9 @@ title: Interesting Links
 ### ML
 [Visualizing Caffe Neural Nets](http://ethereon.github.io/netscope/quickstart.html)
 
+## Startups/YComb
+[Why YCombinator made a difference](https://bold.co/public/why-y-combinator-made-all-the-zvgxjl?t=tihkgug)
+
 
 ## News
 [Trending Github Projs](http://www.gitlogs.com/)
@@ -72,3 +75,4 @@ http://ai.berkeley.edu/home.html
 
 ## Videos/Documentaries
 http://www.hbo.com/documentaries/only-the-dead-see-the-end-of-war/synopsis/about.html
+

@@ -69,3 +69,6 @@ http://ai.berkeley.edu/home.html
 ## Blogs (without RSS feeds :( )
 <http://codahale.com/>
 <http://www.evanmiller.org/index.html>
+
+## Videos/Documentaries
+http://www.hbo.com/documentaries/only-the-dead-see-the-end-of-war/synopsis/about.html

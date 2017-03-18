@@ -17,6 +17,8 @@ Something like an annotated link list for things that could be helpful when deve
 ## Design
 [FuseTools](https://www.fusetools.com/): UI markup language with responsive realtime edits across devices
 
+[Principle](http://principleformac.com/)
+[Sites for stuff](https://www.mockplus.com/blog/post/12-design-tools-websites-for-uiux-designers)
+
 ## CS
 [Pen Test Tools Cheat Sheet](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/)
-

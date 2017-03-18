@@ -20,7 +20,6 @@ title: Interesting Links
 [CSS Animations](http://animista.net/)
 
 ### C 
-
 [Comparing LibC alternatives](http://www.etalabs.net/compare_libcs.html)
 
 ### ML

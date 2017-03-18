@@ -15,7 +15,6 @@ title: Interesting Links
 ## Programming
 
 ## CS 
-[Pen Test Tools Cheat Sheet](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/)
 
 ### Webdev
 [CSS Animations](http://animista.net/)

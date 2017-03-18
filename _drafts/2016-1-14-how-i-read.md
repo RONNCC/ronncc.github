@@ -1,0 +1,38 @@
+---
+categories:
+  - Reading Papers
+comment: null
+date: 2016-1-14
+info: null
+layout: post
+published: true
+sha: 6a976bb67b27d495e061c381fff90286a45c6836
+slug: the-post-8931
+tags: []
+title: How I read
+type: post
+---
+
+I personally like a combination of [[1]](http://www.eecs.harvard.edu/~michaelm/postscripts/ReadPaper.pdf) and [[2]](http://www.cs.columbia.edu/~hgs/netbib/efficientReading.pdf) when reading papers. These are summarized (mostly) in a nice infographic [here](http://www.slideshare.net/ElsevierConnect/infographic-how-to-read-scientific-papers) when reading papers.
+
+General Format: (also easier so i can copy & paste)
+
+    * TOC
+    {:toc}
+
+    ## Title
+
+    Authors
+
+    *Question Being Answered*:  
+
+    *One sentence answer*:  
+
+
+    *"Low Level" Notes*:  
+
+
+    *Questions I have*:   
+
+
+    *Particularly Interesting Phrases/Points*:

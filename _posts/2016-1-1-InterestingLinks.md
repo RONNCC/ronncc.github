@@ -19,6 +19,9 @@ title: Interesting Links
 ### Webdev
 [CSS Animations](http://animista.net/)
 
+### PL
+[Bootstrapping a Type system](http://journal.stuffwithstuff.com/2010/10/29/bootstrapping-a-type-system/)
+
 ### C 
 [Comparing LibC alternatives](http://www.etalabs.net/compare_libcs.html)
 
@@ -75,4 +78,3 @@ http://ai.berkeley.edu/home.html
 
 ## Videos/Documentaries
 http://www.hbo.com/documentaries/only-the-dead-see-the-end-of-war/synopsis/about.html
-

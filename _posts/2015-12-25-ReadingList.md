@@ -61,6 +61,9 @@ http://danluu.com/perf-tracing/
 
 ## Books
 
+### Descriptive Set Theory
+[Life of Godel (from U&I class) ](https://www.amazon.com/Logical-Dilemmas-Life-Work-G%C3%B6del/dp/1568812566)
+
 ### Typography
 http://practicaltypography.com/  
 

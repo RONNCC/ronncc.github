@@ -14,4 +14,4 @@ type: post
 ---
 [Pseudo Interpreter & Web Server](http://ruslanspivak.com/)
 [Build a lang-Nystrom](http://www.craftinginterpreters.com/)
-[GameBuilding](http://gameprogrammingpatterns.com/)
+[Game Building-Nystrom](http://gameprogrammingpatterns.com/)

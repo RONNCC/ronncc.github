@@ -22,3 +22,4 @@ Something like an annotated link list for things that could be helpful when deve
 
 ## CS
 [Pen Test Tools Cheat Sheet](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/)
+[Nematus: a Toolkit for Neural Machine Translation](https://arxiv.org/pdf/1703.04357.pdf)

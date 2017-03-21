@@ -19,6 +19,8 @@ https://en.wikipedia.org/wiki/Elizabeth_Loftus#The_memory_wars
 ### YCombinator Links
 [GPU Text Rendering](https://news.ycombinator.com/item?id=10824064)
 
+## Design
+[Massive Change](https://www.amazon.com/Massive-Change-Bruce-Mau/dp/0714844012)
 
 
 ## Presentations

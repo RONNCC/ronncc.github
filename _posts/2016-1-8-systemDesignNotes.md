@@ -13,6 +13,9 @@ title: Systems Design Notes
 type: post
 ---
 
+## OS
+[Comprehensive and biaised comparison of OpenBSD and FreeBSD](https://www.bsdfrog.org/pub/events/my_bsd_sucks_less_than_yours-AsiaBSDCon2017-paper.pdf)
+
 ## Cloud
 [- Try considering GCE over AWS for in-between region streaming, also significant time-to-first-byte difference and different long-term-cold-storage use cases ](http://blog.zachbjornson.com/2015/12/29/cloud-storage-performance.html)
 

@@ -78,3 +78,6 @@ http://ai.berkeley.edu/home.html
 
 ## Videos/Documentaries
 http://www.hbo.com/documentaries/only-the-dead-see-the-end-of-war/synopsis/about.html
+
+## Guides
+[MIT Lock Picking Guide](http://www.blurofinsanity.com/mit/lockpick.html)

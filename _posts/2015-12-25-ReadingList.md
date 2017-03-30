@@ -39,6 +39,7 @@ https://news.ycombinator.com/item?id=10783983
 [Fast Userspace Packet Processing (click)](https://orbi.ulg.ac.be/bitstream/2268/181954/1/userspaceio.pdf)
 [Fast Regex Generation using NNs](http://arxiv.org/pdf/1608.03000v1.pdf)
 [Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation](https://arxiv.org/abs/1609.08144)
+[The Structure and Performance of Efficient Interpreters](https://www.jilp.org/vol5/v5paper12.pdf)
 
 ### Liskov's "Must Read" For Computer Scientists (from [here](http://jpirker.com/hlf16-liskovs-reading-list-for-computer-scientists/))
 

@@ -56,6 +56,7 @@ title: Interesting Links
 
 Proportional vs Lining; Old Style vs Tabular; Right align your tabular data
 [1](https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=00041I) [2](https://medium.com/mission-log/design-better-data-tables-430a30a00d8c#.kbq2lopro)
+[Schoolism Art Classes](https://www.schoolism.com)
 
 
 ### Websites w/o Coding

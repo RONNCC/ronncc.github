@@ -52,7 +52,6 @@ https://news.ycombinator.com/item?id=10783983
     Liskov, B. H. (1972, December). A design methodology for reliable software systems. In Proceedings of the December 5-7, 1972, fall joint computer conference, part I (pp. 191-199). ACM.    
 
 
-
 ## Blog Posts
 http://danluu.com/perf-tracing/
 [Twitter's DB: Manhattan](https://blog.twitter.com/2016/strong-consistency-in-manhattan)
@@ -90,6 +89,7 @@ should-read
 - [High Performance Browser Networking - W3C Cochair](https://hpbn.co/)
 - [Linux Device Drivers - O'Reilly](http://www.linuxforu.com/2010/12/writing-your-first-linux-driver/)
 - [The Art of Multiprocessor Programming](https://www.amazon.com/Art-Multiprocessor-Programming-Revised-Reprint/dp/0123973376)
+- [Reverse Engineering Malware](https://securedorg.github.io/RE101/)
 
 
 https://www.jyotirmoy.net/posts/2015-12-29-springer-openaccess.html

@@ -13,6 +13,9 @@ title: Systems Design Notes
 type: post
 ---
 
+## General
+[General Paradigms (Reflection)](https://hackernoon.com/education-of-a-programmer-aaecf2d35312)
+
 ## OS
 [Comprehensive and biaised comparison of OpenBSD and FreeBSD](https://www.bsdfrog.org/pub/events/my_bsd_sucks_less_than_yours-AsiaBSDCon2017-paper.pdf)
 

@@ -61,7 +61,7 @@ http://danluu.com/perf-tracing/
 [Variational Encoders](https://jaan.io/unreasonable-confusion/)
 [How does GDB Work?](http://jvns.ca/blog/2016/08/10/how-does-gdb-work/)
 [Intro To Galois Theory](https://nrich.maths.org/1422)
-
+[Category Theory for Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
 ## Books
 
 ### Descriptive Set Theory

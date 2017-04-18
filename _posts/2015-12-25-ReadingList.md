@@ -41,6 +41,7 @@ https://news.ycombinator.com/item?id=10783983
 [Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation](https://arxiv.org/abs/1609.08144)
 [The Structure and Performance of Efficient Interpreters](https://www.jilp.org/vol5/v5paper12.pdf)
 [TACOTRON: A FULLY END-TO-END TEXT-TO-SPEECH SYNTHESIS MODEL](https://arxiv.org/pdf/1703.10135.pdf)
+[SILT: A Memory-Efficient, High-Performance Key-Value Store](https://www.cs.cmu.edu/~hl/papers/silt-sosp2011.pdf)
 
 ### Liskov's "Must Read" For Computer Scientists (from [here](http://jpirker.com/hlf16-liskovs-reading-list-for-computer-scientists/))
 

@@ -91,6 +91,7 @@ should-read
 - [Linux Device Drivers - O'Reilly](http://www.linuxforu.com/2010/12/writing-your-first-linux-driver/)
 - [The Art of Multiprocessor Programming](https://www.amazon.com/Art-Multiprocessor-Programming-Revised-Reprint/dp/0123973376)
 - [Reverse Engineering Malware](https://securedorg.github.io/RE101/)
+- [Thirty-three Miniatures: Mathematical and Algorithmic Applications of Linear Algebra](http://kam.mff.cuni.cz/~matousek/stml-53-matousek-1.pdf)
 
 
 https://www.jyotirmoy.net/posts/2015-12-29-springer-openaccess.html

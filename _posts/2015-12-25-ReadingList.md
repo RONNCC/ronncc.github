@@ -71,6 +71,10 @@ http://danluu.com/perf-tracing/
 ### Typography
 http://practicaltypography.com/  
 
+
+### Math
+[Calculus Made Easy](http://djm.cc/library/Calculus_Made_Easy_Thompson.pdf)
+
 ### CS
 
 -[ The Linux Programming Interface: A Linux and UNIX System Programming Handbook](https://www.amazon.com/gp/product/1593272200/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1593272200&linkCode=as2&tag=darkcoding-20)

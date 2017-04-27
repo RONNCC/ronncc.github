@@ -14,6 +14,11 @@ title: Interesting Links
 
 ## Programming
 
+## Math
+
+### Set Theory
+[Arithmetic Representability](http://www.cs.cornell.edu/courses/cs4860/2009sp/lec-22.pdf)
+
 ## CS 
 
 ### Webdev

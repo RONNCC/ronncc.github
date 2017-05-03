@@ -42,6 +42,8 @@ https://news.ycombinator.com/item?id=10783983
 [The Structure and Performance of Efficient Interpreters](https://www.jilp.org/vol5/v5paper12.pdf)
 [TACOTRON: A FULLY END-TO-END TEXT-TO-SPEECH SYNTHESIS MODEL](https://arxiv.org/pdf/1703.10135.pdf)
 [SILT: A Memory-Efficient, High-Performance Key-Value Store](https://www.cs.cmu.edu/~hl/papers/silt-sosp2011.pdf)
+[Image Super-Resolution Using Deep Convolutional Networks](https://arxiv.org/pdf/1501.00092.pdf)
+[Approximation by Superpositions of a Sigmoidal Function](https://pdfs.semanticscholar.org/05ce/b32839c26c8d2cb38d5529cf7720a68c3fab.pdf)
 
 ### Liskov's "Must Read" For Computer Scientists (from [here](http://jpirker.com/hlf16-liskovs-reading-list-for-computer-scientists/))
 

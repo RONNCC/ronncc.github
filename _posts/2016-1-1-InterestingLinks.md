@@ -21,6 +21,10 @@ title: Interesting Links
 
 ## CS 
 
+### Comp Fi 
+
+[INSIGHTS INTO HIGH FREQUENCY TRADING FROM THE VIRTU INITIAL PUBLIC OFFERING](https://online.wsj.com/public/resources/documents/VirtuOverview.pdf)
+
 ### Webdev
 [CSS Animations](http://animista.net/)
 

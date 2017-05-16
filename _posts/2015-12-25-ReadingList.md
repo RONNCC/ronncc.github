@@ -66,10 +66,13 @@ http://danluu.com/perf-tracing/
 [How does GDB Work?](http://jvns.ca/blog/2016/08/10/how-does-gdb-work/)
 [Intro To Galois Theory](https://nrich.maths.org/1422)
 [Category Theory for Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
+
+
 ## Books
 
-### Descriptive Set Theory
-[Life of Godel (from U&I class) ](https://www.amazon.com/Logical-Dilemmas-Life-Work-G%C3%B6del/dp/1568812566)
+## Medical 
+
+- [Huangdi Neijing - Ancient Chinese Medical Text](http://www.biblio.nhat-nam.ru/Huang_Di_Nei_Jing_Su_Wen-Unschuld-Tessenow-1-2.pdf)
 
 ### Typography
 http://practicaltypography.com/  
@@ -77,6 +80,10 @@ http://practicaltypography.com/
 
 ### Math
 [Calculus Made Easy](http://djm.cc/library/Calculus_Made_Easy_Thompson.pdf)
+
+#### Descriptive Set Theory
+[Life of Godel (from U&I class) ](https://www.amazon.com/Logical-Dilemmas-Life-Work-G%C3%B6del/dp/1568812566)
+
 
 ### CS
 

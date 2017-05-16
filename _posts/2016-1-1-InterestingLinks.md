@@ -31,6 +31,10 @@ title: Interesting Links
 
 ## CS 
 
+### FS
+- (http://www.ilsistemista.net/index.php/virtualization/47-zfs-btrfs-xfs-ext4-and-lvm-[ZFS, BTRFS, XFS, EXT4 and LVM with KVM – a storage performance comparison]with-kvm-a-storage-performance-comparison.html)
+
+
 ### Comp Fi 
 
 [INSIGHTS INTO HIGH FREQUENCY TRADING FROM THE VIRTU INITIAL PUBLIC OFFERING](https://online.wsj.com/public/resources/documents/VirtuOverview.pdf)

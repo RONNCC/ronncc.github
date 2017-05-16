@@ -16,6 +16,9 @@ title: Interesting Links
 
 ## Math
 
+### Popular
+[A Mathematician's Lament](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf)
+
 ### Set Theory
 [Arithmetic Representability](http://www.cs.cornell.edu/courses/cs4860/2009sp/lec-22.pdf)
 

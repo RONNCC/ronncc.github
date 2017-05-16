@@ -15,6 +15,9 @@ title: Interesting Links
 
 [Interactive Gym Wall](https://i.imgur.com/76FkWuf.gifv)
 
+## Life Skills 
+[How a car works guide](https://www.howacarworks.com/)
+
 
 ## Programming
 

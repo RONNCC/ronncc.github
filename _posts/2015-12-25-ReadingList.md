@@ -20,7 +20,8 @@ https://en.wikipedia.org/wiki/Elizabeth_Loftus#The_memory_wars
 [GPU Text Rendering](https://news.ycombinator.com/item?id=10824064)
 
 ## Design
-[Massive Change](https://www.amazon.com/Massive-Change-Bruce-Mau/dp/0714844012)
+- [Massive Change](https://www.amazon.com/Massive-Change-Bruce-Mau/dp/0714844012)
+- [Draplin Design Co](http://www.amazon.com/exec/obidos/ASIN/1419720171/ref=nosim/camworld)
 
 
 ## Presentations
@@ -79,25 +80,31 @@ http://practicaltypography.com/
 
 ### CS
 
--[ The Linux Programming Interface: A Linux and UNIX System Programming Handbook](https://www.amazon.com/gp/product/1593272200/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1593272200&linkCode=as2&tag=darkcoding-20)
+#### Systems
+
+- [What Every Programmer should know about Memory - Ulrich Drepper](https://www.akkadia.org/drepper/cpumemory.pdf)
+- [ The Linux Programming Interface: A Linux and UNIX System Programming Handbook](https://www.amazon.com/gp/product/1593272200/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1593272200&linkCode=as2&tag=darkcoding-20)
 - [Unix Hater's Guide](http://web.mit.edu/~simsong/www/ugh.pdf)
+- [Compiler Construction - ETH Zurich](http://www.ethoberon.ethz.ch/WirthPubl/CBEAll.pdf)
+- [High Performance Browser Networking - W3C Cochair](https://hpbn.co/)
+- [Linux Device Drivers - O'Reilly](http://www.linuxforu.com/2010/12/writing-your-first-linux-driver/)
+- [The Art of Multiprocessor Programming](https://www.amazon.com/Art-Multiprocessor-Programming-Revised-Reprint/dp/0123973376)
+- [Reverse Engineering Malware](https://securedorg.github.io/RE101/)
+
+
+
+#### Theory
+
 - [CS Guide to Cell Biology - CMU's Cohen](http://www.cs.cmu.edu/~wcohen/GuideToBiology-sampleChapter-release1.4.pdf)
 - [Information Theory - Cambridge's MacKay](http://www.inference.phy.cam.ac.uk/itprnn/book.pdf)
-- http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-
-should-read
+- http://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read
 - [Applied Crypto Guide - Waterloo](http://cacr.uwaterloo.ca/hac/)
-- [Compiler Construction - ETH Zurich](http://www.ethoberon.ethz.ch/WirthPubl/CBEAll.pdf)
 - [Decision Procedures - Oxford](http://www.springer.com/us/book/9783540741046)
-- [Draplin Design Co](http://www.amazon.com/exec/obidos/ASIN/1419720171/ref=nosim/camworld)
 - [Huangdi Neijing - Ancient Chinese Medical Text](http://www.biblio.nhat-nam.ru/Huang_Di_Nei_Jing_Su_Wen-Unschuld-Tessenow-1-2.pdf)
 - [Building Problem Solvers - Northwestern](http://www.qrg.northwestern.edu/BPS/readme.html)
 - [Okasaki's Thesis/FP book - CMU](http://www.amazon.com/Purely-Functional-Structures-Chris-Okasaki/dp/0521663504) [thesis](http://www.cs.cmu.edu/~rwh/theses/okasaki.pdf)
 - [Making of PPT (Creator of Startup)](https://www.amazon.com/Sweating-Bullets-Notes-Inventing-PowerPoint/dp/0985142421?ie=UTF8&redirect=true)
 - [Theory of Distributed Systems, Randomized Algos, Computational Complexity - Yale](http://www.cs.yale.edu/homes/aspnes/)
-- [High Performance Browser Networking - W3C Cochair](https://hpbn.co/)
-- [Linux Device Drivers - O'Reilly](http://www.linuxforu.com/2010/12/writing-your-first-linux-driver/)
-- [The Art of Multiprocessor Programming](https://www.amazon.com/Art-Multiprocessor-Programming-Revised-Reprint/dp/0123973376)
-- [Reverse Engineering Malware](https://securedorg.github.io/RE101/)
 - [Thirty-three Miniatures: Mathematical and Algorithmic Applications of Linear Algebra](http://kam.mff.cuni.cz/~matousek/stml-53-matousek-1.pdf)
 
 

@@ -89,6 +89,9 @@ http://practicaltypography.com/
 
 #### Systems
 
+- [Software Optimization](http://agner.org/optimize/)
+
+
 - [What Every Programmer should know about Memory - Ulrich Drepper](https://www.akkadia.org/drepper/cpumemory.pdf)
 - [ The Linux Programming Interface: A Linux and UNIX System Programming Handbook](https://www.amazon.com/gp/product/1593272200/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1593272200&linkCode=as2&tag=darkcoding-20)
 - [Unix Hater's Guide](http://web.mit.edu/~simsong/www/ugh.pdf)

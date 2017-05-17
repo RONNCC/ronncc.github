@@ -75,7 +75,12 @@ http://danluu.com/perf-tracing/
 
 ## Books
 
-## Medical 
+### Cog Psy
+- [Cog Psy](https://www.amazon.com/Cognitive-Psychology-Brain-Edward-Smith/dp/0131825089)
+- [PsychoPharm](https://www.amazon.com/Psychpharmacology-Drugs-Brain-Behavior-Second/dp/087893510X)
+
+
+### Medical 
 
 - [Huangdi Neijing - Ancient Chinese Medical Text](http://www.biblio.nhat-nam.ru/Huang_Di_Nei_Jing_Su_Wen-Unschuld-Tessenow-1-2.pdf)
 

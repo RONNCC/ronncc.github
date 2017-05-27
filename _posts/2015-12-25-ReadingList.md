@@ -75,6 +75,9 @@ http://danluu.com/perf-tracing/
 
 ## Books
 
+### Cooking
+[The Sci of Good Cooking](https://www.amazon.com/Science-Cooking-Cooks-Illustrated-Cookbooks/dp/1933615982)
+
 ### Cog Psy
 - [Cog Psy](https://www.amazon.com/Cognitive-Psychology-Brain-Edward-Smith/dp/0131825089)
 - [PsychoPharm](https://www.amazon.com/Psychpharmacology-Drugs-Brain-Behavior-Second/dp/087893510X)

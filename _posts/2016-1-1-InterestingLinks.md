@@ -11,6 +11,10 @@ slug: InterestingLinks
 tags: []
 title: Interesting Links
 ---
+## Courses
+- http://schoolofherring.com/videos/
+
+
 ## Cool Tech
 
 [Interactive Gym Wall](https://i.imgur.com/76FkWuf.gifv)

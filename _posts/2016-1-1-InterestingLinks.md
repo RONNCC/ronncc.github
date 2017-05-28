@@ -31,6 +31,9 @@ title: Interesting Links
 
 ## CS 
 
+### Compilers
+- [Growing a Compiler (Self Hosting)](http://www.cs.dartmouth.edu/~mckeeman/cs48/mxcom/gem/html/GrowingCompiler.html)
+
 ### FS
 -[ZFS, BTRFS, XFS, EXT4 and LVM with KVM – a storage performance comparison](http://www.ilsistemista.net/index.php/virtualization/47-zfs-btrfs-xfs-ext4-and-lvm-with-kvm-a-storage-performance-comparison.html)
 

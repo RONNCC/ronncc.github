@@ -105,6 +105,7 @@ http://practicaltypography.com/
 
 - [Software Optimization](http://agner.org/optimize/)
 
+
 - [What Every Programmer should know about Memory - Ulrich Drepper](https://www.akkadia.org/drepper/cpumemory.pdf)
 - [ The Linux Programming Interface: A Linux and UNIX System Programming Handbook](https://www.amazon.com/gp/product/1593272200/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1593272200&linkCode=as2&tag=darkcoding-20)
 - [Unix Hater's Guide](http://web.mit.edu/~simsong/www/ugh.pdf)
@@ -114,8 +115,7 @@ http://practicaltypography.com/
 - [The Art of Multiprocessor Programming](https://www.amazon.com/Art-Multiprocessor-Programming-Revised-Reprint/dp/0123973376)
 - [Reverse Engineering Malware](https://securedorg.github.io/RE101/)
 
-- [Memory Efficient Java Study](https://www.slideshare.net/milkers/memory-efficient-java-tutorial-practices-and-challenges)
-
+- [Memory Efficient Java Study (PLDI09)](https://www.slideshare.net/milkers/memory-efficient-java-tutorial-practices-and-challenges)
 
 
 #### Theory

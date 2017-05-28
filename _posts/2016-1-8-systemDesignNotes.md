@@ -16,6 +16,10 @@ type: post
 ## General
 [General Paradigms (Reflection)](https://hackernoon.com/education-of-a-programmer-aaecf2d35312)
 
+## Scaling Up
+[Counting Objects](http://highscalability.com/blog/2012/4/5/big-data-counting-how-to-count-a-billion-distinct-objects-us.html)  
+[View Counting at Reddit](https://redditblog.com/2017/05/24/view-counting-at-reddit/)
+
 ## OS
 [Comprehensive and biaised comparison of OpenBSD and FreeBSD](https://www.bsdfrog.org/pub/events/my_bsd_sucks_less_than_yours-AsiaBSDCon2017-paper.pdf)
 

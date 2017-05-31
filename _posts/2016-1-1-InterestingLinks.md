@@ -17,10 +17,11 @@ title: Interesting Links
 
 ## Cool Tech
 
-[Interactive Gym Wall](https://i.imgur.com/76FkWuf.gifv)
+- [Interactive Gym Wall](https://i.imgur.com/76FkWuf.gifv)
+- [Server room with seismic isolation floor](https://www.youtube.com/watch?v=GXwQSCStRaw)
 
 ## Life Skills 
-[How a car works guide](https://www.howacarworks.com/)
+- [How a car works guide](https://www.howacarworks.com/)
 
 
 ## Programming

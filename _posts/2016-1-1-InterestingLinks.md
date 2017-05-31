@@ -35,6 +35,9 @@ title: Interesting Links
 
 ## CS 
 
+### ASM
+[Visual ARM Emulator](https://salmanarif.bitbucket.io/visual/)
+
 ### Compilers
 - [Growing a Compiler (Self Hosting)](http://www.cs.dartmouth.edu/~mckeeman/cs48/mxcom/gem/html/GrowingCompiler.html)
 

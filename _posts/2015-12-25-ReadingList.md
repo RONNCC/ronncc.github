@@ -95,6 +95,7 @@ http://practicaltypography.com/
 [Calculus Made Easy](http://djm.cc/library/Calculus_Made_Easy_Thompson.pdf)
 [STREET-FIGHTING MATHEMATICS](https://mitpress.mit.edu/sites/default/files/titles/content/9780262514293_Creative_Commons_Edition.pdf)
 [An Introduction to the Theory of Elliptic Curves](https://www.math.brown.edu/~jhs/Presentations/WyomingEllipticCurve.pdf)
+[Mathematics for Physics](http://www.goldbart.gatech.edu/PostScript/MS_PG_book/bookmaster.pdf)
 
 #### Descriptive Set Theory
 [Life of Godel (from U&I class) ](https://www.amazon.com/Logical-Dilemmas-Life-Work-G%C3%B6del/dp/1568812566)

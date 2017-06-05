@@ -150,6 +150,8 @@ https://www.jyotirmoy.net/posts/2015-12-29-springer-openaccess.html
 ## other
 - [Lasers FAQ](http://www.repairfaq.org/sam/laserfaq.htm#faqtoc)
 - [List of "Awesome Things" including papers](https://github.com/sindresorhus/awesome)
+- [	Ask HN: What language-agnostic programming books should I read?](https://news.ycombinator.com/item?id=14486657)
+
 
 ## Courses
 - [Stat Learning Theory - 281B (Jordan)](http://people.eecs.berkeley.edu/~jordan/courses/281B-spring04/)

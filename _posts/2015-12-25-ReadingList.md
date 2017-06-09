@@ -92,10 +92,12 @@ http://practicaltypography.com/
 
 
 ### Math
-[Calculus Made Easy](http://djm.cc/library/Calculus_Made_Easy_Thompson.pdf)
-[STREET-FIGHTING MATHEMATICS](https://mitpress.mit.edu/sites/default/files/titles/content/9780262514293_Creative_Commons_Edition.pdf)
-[An Introduction to the Theory of Elliptic Curves](https://www.math.brown.edu/~jhs/Presentations/WyomingEllipticCurve.pdf)
-[Mathematics for Physics](http://www.goldbart.gatech.edu/PostScript/MS_PG_book/bookmaster.pdf)
+- [Calculus Made Easy](http://djm.cc/library/Calculus_Made_Easy_Thompson.pdf)
+- [STREET-FIGHTING MATHEMATICS](https://mitpress.mit.edu/sites/default/files/titles/content/9780262514293_Creative_Commons_Edition.pdf)
+- [An Introduction to the Theory of Elliptic Curves](https://www.math.brown.edu/~jhs/Presentations/WyomingEllipticCurve.pdf)
+- [Mathematics for Physics](http://www.goldbart.gatech.edu/PostScript/MS_PG_book/bookmaster.pdf)
+- [A Computable Universe: Understanding and Exploring Nature as Computation](https://www.amazon.com/Computable-Universe-Understanding-Exploring-Computation/dp/9814374296)
+
 
 #### Descriptive Set Theory
 [Life of Godel (from U&I class) ](https://www.amazon.com/Logical-Dilemmas-Life-Work-G%C3%B6del/dp/1568812566)

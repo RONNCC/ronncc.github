@@ -30,6 +30,7 @@ http://www.pdl.cmu.edu/SDI/2015/slides/DatacenterComputers.pdf
 
 ## Theses
 [Algebraic Subtyping](https://www.cl.cam.ac.uk/~sd601/thesis.pdf)
+[Group theoretical methods in machine learning](https://people.cs.uchicago.edu/~risi/papers/KondorThesis.pdf)
 
 ## Papers
 

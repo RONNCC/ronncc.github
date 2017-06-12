@@ -29,8 +29,8 @@ http://www.pdl.cmu.edu/SDI/2015/slides/DatacenterComputers.pdf
 [Crash course in x86 for Reverse Engineers](https://sensepost.com/blogstatic/2014/01/SensePost_crash_course_in_x86_assembly-.pdf)
 
 ## Theses
-[Algebraic Subtyping](https://www.cl.cam.ac.uk/~sd601/thesis.pdf)
-[Group theoretical methods in machine learning](https://people.cs.uchicago.edu/~risi/papers/KondorThesis.pdf)
+- [Algebraic Subtyping](https://www.cl.cam.ac.uk/~sd601/thesis.pdf)
+- [Group theoretical methods in machine learning](https://people.cs.uchicago.edu/~risi/papers/KondorThesis.pdf)
 
 ## Papers
 

@@ -36,3 +36,4 @@ type: post
 
 ## Performance Fiddling
 - [C Performance Tips](http://vendu.twodots.nl/wizardcode.html)
+- [Linux Perf + PMC Performance](http://www.brendangregg.com/linuxperf.html)

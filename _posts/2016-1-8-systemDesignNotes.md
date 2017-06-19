@@ -33,3 +33,6 @@ type: post
 
 ## App Architecture / Ops
 - [The 12 Factor App](http://12factor.net/)
+
+## Performance Fiddling
+- [C Performance Tips](http://vendu.twodots.nl/wizardcode.html)

@@ -101,6 +101,8 @@ http://practicaltypography.com/
 - [Georgia Tech Online Math Textbook Collection (Prof Cain)](http://people.math.gatech.edu/~cain/textbooks/onlinebooks.html)
 - [Uminnesota Textbook Collection](https://open.umn.edu/opentextbooks/)
 - [American Institute of Math Textbook Collection](https://aimath.org/textbooks/)
+- [Warren Siegal's Upper Level Physics Books (Stonybrook QFT Group)](http://insti.physics.sunysb.edu/~siegel/)
+- [American Math Society Lecture Notes](https://www.ams.org/open-math-notes)
 
 #### Descriptive Set Theory
 [Life of Godel (from U&I class) ](https://www.amazon.com/Logical-Dilemmas-Life-Work-G%C3%B6del/dp/1568812566)

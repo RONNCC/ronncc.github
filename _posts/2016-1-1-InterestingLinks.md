@@ -24,6 +24,9 @@ title: Interesting Links
 - [How a car works guide](https://www.howacarworks.com/)
 
 
+## Hobbies
+- [World's largest library of historical European martial arts books](http://wiktenauer.com/wiki/Main_Page)
+
 ## Programming
 
 ## Math

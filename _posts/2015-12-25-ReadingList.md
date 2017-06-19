@@ -125,7 +125,7 @@ http://practicaltypography.com/
 - [Reverse Engineering Malware](https://securedorg.github.io/RE101/)
 
 - [Memory Efficient Java Study (PLDI09)](https://www.slideshare.net/milkers/memory-efficient-java-tutorial-practices-and-challenges)
-
+- [System-level Recap of C + ASM Interface](http://vendu.twodots.nl/wizardcode.html)
 
 #### Theory
 

@@ -98,7 +98,9 @@ http://practicaltypography.com/
 - [An Introduction to the Theory of Elliptic Curves](https://www.math.brown.edu/~jhs/Presentations/WyomingEllipticCurve.pdf)
 - [Mathematics for Physics](http://www.goldbart.gatech.edu/PostScript/MS_PG_book/bookmaster.pdf)
 - [A Computable Universe: Understanding and Exploring Nature as Computation](https://www.amazon.com/Computable-Universe-Understanding-Exploring-Computation/dp/9814374296)
-
+- [Georgia Tech Online Math Textbook Collection (Prof Cain)](http://people.math.gatech.edu/~cain/textbooks/onlinebooks.html)
+- [Uminnesota Textbook Collection](https://open.umn.edu/opentextbooks/)
+- [American Institute of Math Textbook Collection](https://aimath.org/textbooks/)
 
 #### Descriptive Set Theory
 [Life of Godel (from U&I class) ](https://www.amazon.com/Logical-Dilemmas-Life-Work-G%C3%B6del/dp/1568812566)

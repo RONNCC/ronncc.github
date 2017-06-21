@@ -34,21 +34,21 @@ http://www.pdl.cmu.edu/SDI/2015/slides/DatacenterComputers.pdf
 
 ## Papers
 
-https://news.ycombinator.com/item?id=10783983
-[2010 CMU Big Data Reading Group](http://www.cs.cmu.edu/~chensm/Big_Data_reading_group/)
-[Doom 3 Network Architecture](http://fabiensanglard.net/doom3_documentation/The-DOOM-III-Network-Architecture.pdf)
-[ETH Zurich Systems Group](http://systems.ethz.pubzone.org/index.do?show_max=100&from_position=1)
-[Fast Userspace Packet Processing (click)](https://orbi.ulg.ac.be/bitstream/2268/181954/1/userspaceio.pdf)
-[Fast Regex Generation using NNs](http://arxiv.org/pdf/1608.03000v1.pdf)
-[Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation](https://arxiv.org/abs/1609.08144)
-[The Structure and Performance of Efficient Interpreters](https://www.jilp.org/vol5/v5paper12.pdf)
-[TACOTRON: A FULLY END-TO-END TEXT-TO-SPEECH SYNTHESIS MODEL](https://arxiv.org/pdf/1703.10135.pdf)
-[SILT: A Memory-Efficient, High-Performance Key-Value Store](https://www.cs.cmu.edu/~hl/papers/silt-sosp2011.pdf)
-[Image Super-Resolution Using Deep Convolutional Networks](https://arxiv.org/pdf/1501.00092.pdf)
-[Approximation by Superpositions of a Sigmoidal Function](https://pdfs.semanticscholar.org/05ce/b32839c26c8d2cb38d5529cf7720a68c3fab.pdf)
-[Deep biomarkers of human aging: Application of deep neural networks to biomarker development](http://www.impactaging.com/papers/v8/n5/full/100968.html)
-[Memories of unethical actions become obfuscated over time](http://www.pnas.org/content/early/2016/05/11/1523586113.full)
-
+- https://news.ycombinator.com/item?id=10783983
+- [2010 CMU Big Data Reading Group](http://www.cs.cmu.edu/~chensm/Big_Data_reading_group/)
+- [Doom 3 Network Architecture](http://fabiensanglard.net/doom3_documentation/The-DOOM-III-Network-Architecture.pdf)
+- [ETH Zurich Systems Group](http://systems.ethz.pubzone.org/index.do?show_max=100&from_position=1)
+- [Fast Userspace Packet Processing (click)](https://orbi.ulg.ac.be/bitstream/2268/181954/1/userspaceio.pdf)
+- [Fast Regex Generation using NNs](http://arxiv.org/pdf/1608.03000v1.pdf)
+- [Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation](https://arxiv.org/- abs/1609.08144)
+- [The Structure and Performance of Efficient Interpreters](https://www.jilp.org/vol5/v5paper12.pdf)
+- [TACOTRON: A FULLY END-TO-END TEXT-TO-SPEECH SYNTHESIS MODEL](https://arxiv.org/pdf/1703.10135.pdf)
+- [SILT: A Memory-Efficient, High-Performance Key-Value Store](https://www.cs.cmu.edu/~hl/papers/silt-sosp2011.pdf)
+- [Image Super-Resolution Using Deep Convolutional Networks](https://arxiv.org/pdf/1501.00092.pdf)
+- [Approximation by Superpositions of a Sigmoidal Function](https://pdfs.semanticscholar.org/05ce/- b32839c26c8d2cb38d5529cf7720a68c3fab.pdf)
+- [Deep biomarkers of human aging: Application of deep neural networks to biomarker development](http://www.impactaging.com/- papers/v8/n5/full/100968.html)
+- [Memories of unethical actions become obfuscated over time](http://www.pnas.org/content/early/2016/05/11/1523586113.full)
+- [ARRAY LAYOUTS FOR COMPARISON-BASED SEARCHING](https://arxiv.org/ftp/arxiv/papers/1509/1509.05053.pdf)
 
 
 

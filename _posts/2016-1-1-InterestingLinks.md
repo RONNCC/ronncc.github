@@ -37,6 +37,8 @@ title: Interesting Links
 ### Set Theory
 [Arithmetic Representability](http://www.cs.cornell.edu/courses/cs4860/2009sp/lec-22.pdf)
 
+- [Constant Time Math (Rotations)](https://en.wikipedia.org/wiki/CORDIC)
+
 ## CS 
 
 ### ASM

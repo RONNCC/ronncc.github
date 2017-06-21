@@ -30,5 +30,6 @@ type: post
 - [Hospital Unions exist, and doctors are being outsourced](http://www.nytimes.com/2016/01/10/business/doctors-unionize-to-resist-the-medical-machine.html?src=se)
 - [CRISPR was really hard to get published](http://www.cell.com/cell/fulltext/S0092-8674(15)01705-5)
 
-
 - [The Zeigarnik Effect](http://www.psychwiki.com/wiki/Zeigarnik_Effect) "is the tendency to experience intrusive thoughts about an objective that was once pursued and left incomplete"
+
+- There's fields called music cognition and affective computing

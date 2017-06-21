@@ -107,6 +107,10 @@ http://practicaltypography.com/
 #### Descriptive Set Theory
 [Life of Godel (from U&I class) ](https://www.amazon.com/Logical-Dilemmas-Life-Work-G%C3%B6del/dp/1568812566)
 
+### Music
+
+- [Music, Thought, and Feeling: Understanding the Psychology of Music](https://www.amazon.com/Music-Thought-Feeling-Understanding-Psychology/dp/0195377079)
+
 
 ### CS
 

@@ -125,3 +125,6 @@ http://www.hbo.com/documentaries/only-the-dead-see-the-end-of-war/synopsis/about
 
 ## Guides
 [MIT Lock Picking Guide](http://www.blurofinsanity.com/mit/lockpick.html)
+
+## Learn a Websec
+- http://chall.tasteless.eu/#

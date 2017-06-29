@@ -67,8 +67,11 @@ title: Interesting Links
 [Comparing LibC alternatives](http://www.etalabs.net/compare_libcs.html)
 
 ### ML
-[Visualizing Caffe Neural Nets](http://ethereon.github.io/netscope/quickstart.html)
-[Few points on props of Deep Learning that can be trained in ](https://cbmm.mit.edu/sites/default/files/publications/Deep%20Learning-%20mathematics%20and%20neuroscience.pdf)
+- [Visualizing Caffe Neural Nets](http://ethereon.github.io/netscope/quickstart.html)
+- [Few points on props of Deep Learning that can be trained in ](https://cbmm.mit.edu/sites/default/files/publications/Deep%20Learning-%20mathematics%20and%20neuroscience.pdf)
+
+### Software Packages
+[Stanford Driving Software](https://sourceforge.net/projects/stanforddriving/)
 
 
 ## Startups/YComb
@@ -129,3 +132,4 @@ http://www.hbo.com/documentaries/only-the-dead-see-the-end-of-war/synopsis/about
 
 ## Learn a Websec
 - http://chall.tasteless.eu/#
+

@@ -115,6 +115,9 @@ http://practicaltypography.com/
 
 ### CS
 
+#### Architecture
+- [Risc V workshop Proc](https://riscv.org/2017/05/6th-risc-v-workshop-proceedings/)
+
 #### Systems
 
 - [Software Optimization](http://agner.org/optimize/)

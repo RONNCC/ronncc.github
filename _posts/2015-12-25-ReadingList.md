@@ -112,6 +112,9 @@ http://practicaltypography.com/
 
 - [Music, Thought, and Feeling: Understanding the Psychology of Music](https://www.amazon.com/Music-Thought-Feeling-Understanding-Psychology/dp/0195377079)
 
+### Autonomous Cars
+[Whats new in Auto Vehicle Verification (2017 Stuttgart Symposium)](https://blog.foretellix.com/2017/06/27/whats-new-in-av-verification-report-from-the-stuttgart-symposium/)
+
 
 ### CS
 

@@ -124,6 +124,9 @@ Webflow
 ## Hiring
 [Considerations when hiring millennials](http://www.evanmiller.org/attracting-millennial-engineers.html)
 
+## Philosophy
+-[Time is a causal arrow](https://en.wikipedia.org/wiki/Arrow_of_time#The_causal_arrow_of_time)
+
 ## Internet Classes/Courses/Univ Links
 <https://github.com/prakhar1989/awesome-courses>
 http://courses.cms.caltech.edu/cs179/

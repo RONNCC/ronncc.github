@@ -74,6 +74,9 @@ title: Interesting Links
 - [Few points on props of Deep Learning that can be trained in ](https://cbmm.mit.edu/sites/default/files/publications/Deep%20Learning-%20mathematics%20and%20neuroscience.pdf)
 - [Automating Software Development using logic + AI](https://techcrunch.com/2017/06/27/diffblue/)
 
+### "Big Data" 
+- [Categorized Software Packages](http://xyz.insightdataengineering.com/blog/pipeline_map/)
+
 ### Software Packages
 [Stanford Driving Software](https://sourceforge.net/projects/stanforddriving/)
 

@@ -14,6 +14,7 @@ title: Interesting Links
 ## Courses
 - http://schoolofherring.com/videos/
 - Startup School MOOC
+- Coursera/EDX/Udacity
 
 ## Cool Tech
 
@@ -132,4 +133,3 @@ http://www.hbo.com/documentaries/only-the-dead-see-the-end-of-war/synopsis/about
 
 ## Learn a Websec
 - http://chall.tasteless.eu/#
-

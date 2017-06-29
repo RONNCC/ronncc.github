@@ -130,6 +130,7 @@ http://practicaltypography.com/
 
 - [Memory Efficient Java Study (PLDI09)](https://www.slideshare.net/milkers/memory-efficient-java-tutorial-practices-and-challenges)
 - [System-level Recap of C + ASM Interface](http://vendu.twodots.nl/wizardcode.html)
+- [Ask HN: Primer on Cryptocurrencies](https://news.ycombinator.com/item?id=14659775)
 
 #### Theory
 
@@ -153,6 +154,7 @@ https://www.jyotirmoy.net/posts/2015-12-29-springer-openaccess.html
 - https://gist.github.com/nickloewen/10565777
 - https://github.com/junhyukoh/deep-reinforcement-learning-papers
 - http://dancres.github.io/Pages/
+- [Ask HN: Primer on Cryptocurrencies](https://news.ycombinator.com/item?id=14659775)
 - [Fermat's Library](http://fermatslibrary.com/)
 
 

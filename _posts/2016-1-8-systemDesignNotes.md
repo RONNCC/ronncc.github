@@ -30,6 +30,7 @@ type: post
 - [Use epoll/kqueue not select/poll as they are more scalable](http://geocar.sdf1.org/fast-servers.html)
 - CAP is kind of a lie [[1]](http://codahale.com/you-cant-sacrifice-partition-tolerance/#errata10221010) [[2]](https://voltdb.com/blog/clarifications-cap-theorem-and-data-related-errors)
 - [Distributed Systems for New Entrants](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
+- [UUIDs dont have timestamps and mobile UUIDs are bad](https://segment.com/blog/a-brief-history-of-the-uuid/)
 
 ## App Architecture / Ops
 - [The 12 Factor App](http://12factor.net/)

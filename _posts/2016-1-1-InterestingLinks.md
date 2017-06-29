@@ -25,6 +25,8 @@ title: Interesting Links
 ## Life Skills 
 - [How a car works guide](https://www.howacarworks.com/)
 
+## Reading
+- [LeVar Burton Reads Short Stories](https://art19.com/shows/levar-burton-reads)
 
 ## Hobbies
 - [World's largest library of historical European martial arts books](http://wiktenauer.com/wiki/Main_Page)

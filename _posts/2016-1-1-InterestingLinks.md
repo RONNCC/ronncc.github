@@ -46,10 +46,10 @@ title: Interesting Links
 ## CS 
 
 ### Dev Ops
-[ELI5 Kerberos](http://www.roguelynn.com/words/explain-like-im-5-kerberos/)
+- [ELI5 Kerberos](http://www.roguelynn.com/words/explain-like-im-5-kerberos/)
 
 ### ASM
-[Visual ARM Emulator](https://salmanarif.bitbucket.io/visual/)
+- [Visual ARM Emulator](https://salmanarif.bitbucket.io/visual/)
 
 ### Compilers
 - [Growing a Compiler (Self Hosting)](http://www.cs.dartmouth.edu/~mckeeman/cs48/mxcom/gem/html/GrowingCompiler.html)
@@ -60,17 +60,17 @@ title: Interesting Links
 
 ### Comp Fi 
 
-[INSIGHTS INTO HIGH FREQUENCY TRADING FROM THE VIRTU INITIAL PUBLIC OFFERING](https://online.wsj.com/public/resources/documents/VirtuOverview.pdf)
+- [INSIGHTS INTO HIGH FREQUENCY TRADING FROM THE VIRTU INITIAL PUBLIC OFFERING](https://online.wsj.com/public/resources/documents/VirtuOverview.pdf)
 
 ### Webdev
-[CSS Animations](http://animista.net/)
+- [CSS Animations](http://animista.net/)
 
 ### PL
 - [Bootstrapping a Type system](http://journal.stuffwithstuff.com/2010/10/29/bootstrapping-a-type-system/)
 - [Blog: GHC is getting Linear Types](http://blog.tweag.io/posts/2017-03-13-linear-types.html)
 
 ### C 
-[Comparing LibC alternatives](http://www.etalabs.net/compare_libcs.html)
+- [Comparing LibC alternatives](http://www.etalabs.net/compare_libcs.html)
 
 ### ML
 - [Visualizing Caffe Neural Nets](http://ethereon.github.io/netscope/quickstart.html)

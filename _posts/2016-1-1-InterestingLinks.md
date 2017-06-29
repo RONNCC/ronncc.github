@@ -45,6 +45,9 @@ title: Interesting Links
 
 ## CS 
 
+### Dev Ops
+[ELI5 Kerberos](http://www.roguelynn.com/words/explain-like-im-5-kerberos/)
+
 ### ASM
 [Visual ARM Emulator](https://salmanarif.bitbucket.io/visual/)
 

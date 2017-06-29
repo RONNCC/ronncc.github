@@ -61,8 +61,8 @@ title: Interesting Links
 [CSS Animations](http://animista.net/)
 
 ### PL
-[Bootstrapping a Type system](http://journal.stuffwithstuff.com/2010/10/29/bootstrapping-a-type-system/)
-[Blog: GHC is getting Linear Types](http://blog.tweag.io/posts/2017-03-13-linear-types.html)
+- [Bootstrapping a Type system](http://journal.stuffwithstuff.com/2010/10/29/bootstrapping-a-type-system/)
+- [Blog: GHC is getting Linear Types](http://blog.tweag.io/posts/2017-03-13-linear-types.html)
 
 ### C 
 [Comparing LibC alternatives](http://www.etalabs.net/compare_libcs.html)
@@ -70,6 +70,7 @@ title: Interesting Links
 ### ML
 - [Visualizing Caffe Neural Nets](http://ethereon.github.io/netscope/quickstart.html)
 - [Few points on props of Deep Learning that can be trained in ](https://cbmm.mit.edu/sites/default/files/publications/Deep%20Learning-%20mathematics%20and%20neuroscience.pdf)
+- [Automating Software Development using logic + AI](https://techcrunch.com/2017/06/27/diffblue/)
 
 ### Software Packages
 [Stanford Driving Software](https://sourceforge.net/projects/stanforddriving/)

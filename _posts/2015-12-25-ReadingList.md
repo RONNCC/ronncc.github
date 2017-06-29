@@ -49,7 +49,7 @@ http://www.pdl.cmu.edu/SDI/2015/slides/DatacenterComputers.pdf
 - [Deep biomarkers of human aging: Application of deep neural networks to biomarker development](http://www.impactaging.com/- papers/v8/n5/full/100968.html)
 - [Memories of unethical actions become obfuscated over time](http://www.pnas.org/content/early/2016/05/11/1523586113.full)
 - [ARRAY LAYOUTS FOR COMPARISON-BASED SEARCHING](https://arxiv.org/ftp/arxiv/papers/1509/1509.05053.pdf)
-
+- [Developing Bug-Free Machine Learning Systems With Formal Mathematics](https://arxiv.org/abs/1706.08605)
 
 
 ### Liskov's "Must Read" For Computer Scientists (from [here](http://jpirker.com/hlf16-liskovs-reading-list-for-computer-scientists/))

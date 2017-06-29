@@ -132,7 +132,7 @@ http://practicaltypography.com/
 - [System-level Recap of C + ASM Interface](http://vendu.twodots.nl/wizardcode.html)
 - [Ask HN: Primer on Cryptocurrencies](https://news.ycombinator.com/item?id=14659775)
 - [Ask HN: modern computer graphics?](https://news.ycombinator.com/item?id=14652936)
-
+- [Ask HN: Learn Computer vision?](https://news.ycombinator.com/item?id=14651665)
 
 #### Theory
 

@@ -19,6 +19,7 @@ title: Interesting Links
 
 - [Interactive Gym Wall](https://i.imgur.com/76FkWuf.gifv)
 - [Server room with seismic isolation floor](https://www.youtube.com/watch?v=GXwQSCStRaw)
+- [Sorting Legos with NNs](https://jacquesmattheij.com/sorting-lego-many-questions-and-this-is-what-the-result-looks-like)
 
 ## Life Skills 
 - [How a car works guide](https://www.howacarworks.com/)

@@ -51,6 +51,7 @@ http://www.pdl.cmu.edu/SDI/2015/slides/DatacenterComputers.pdf
 - [ARRAY LAYOUTS FOR COMPARISON-BASED SEARCHING](https://arxiv.org/ftp/arxiv/papers/1509/1509.05053.pdf)
 - [Developing Bug-Free Machine Learning Systems With Formal Mathematics](https://arxiv.org/abs/1706.08605)
 - [Writing parsers like it is 2017](http://spw17.langsec.org/papers/chifflier-parsing-in-2017.pdf)
+- [Infiniswap: Efficient Memory Disaggregation](https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/gu)
 
 ### Liskov's "Must Read" For Computer Scientists (from [here](http://jpirker.com/hlf16-liskovs-reading-list-for-computer-scientists/))
 

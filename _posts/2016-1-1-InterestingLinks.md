@@ -122,7 +122,7 @@ Webflow
 [Why not to use Scala - Learning Overhead](http://jimplush.com/talk/2015/12/19/moving-a-team-from-scala-to-golang/)
 
 ## Hiring
-[Considerations when hiring millennials](http://www.evanmiller.org/attracting-millennial-engineers.html)
+- [Considerations when hiring millennials](http://www.evanmiller.org/attracting-millennial-engineers.html)
 
 ## Food
 - [What It Actually Costs to Open a Restaurant in San Francisco](https://sf.eater.com/2017/6/27/15733554/cost-open-restaurant-robin-adam-tortosa-san-francisco]

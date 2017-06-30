@@ -124,6 +124,9 @@ Webflow
 ## Hiring
 [Considerations when hiring millennials](http://www.evanmiller.org/attracting-millennial-engineers.html)
 
+## Food
+- [What It Actually Costs to Open a Restaurant in San Francisco](https://sf.eater.com/2017/6/27/15733554/cost-open-restaurant-robin-adam-tortosa-san-francisco]
+
 ## Philosophy
 -[Time is a causal arrow](https://en.wikipedia.org/wiki/Arrow_of_time#The_causal_arrow_of_time)
 

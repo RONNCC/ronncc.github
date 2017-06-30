@@ -72,10 +72,14 @@ title: Interesting Links
 ### C 
 - [Comparing LibC alternatives](http://www.etalabs.net/compare_libcs.html)
 
-### ML
+### ML/AI
 - [Visualizing Caffe Neural Nets](http://ethereon.github.io/netscope/quickstart.html)
 - [Few points on props of Deep Learning that can be trained in ](https://cbmm.mit.edu/sites/default/files/publications/Deep%20Learning-%20mathematics%20and%20neuroscience.pdf)
 - [Automating Software Development using logic + AI](https://techcrunch.com/2017/06/27/diffblue/)
+
+### AI Commercialization
+- [Vertical AI Startups](http://www.bradfordcross.com/blog/2017/6/13/vertical-ai-startups-solving-industry-specific-problems-by-combining-ai-and-subject-matter-expertise?imm_mid=0f3d3e&cmp=em-data-na-na-newsltr_20170626)
+
 
 ### "Big Data" 
 - [Categorized Software Packages](http://xyz.insightdataengineering.com/blog/pipeline_map/)

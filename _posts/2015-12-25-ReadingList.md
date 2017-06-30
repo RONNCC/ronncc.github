@@ -53,7 +53,7 @@ http://www.pdl.cmu.edu/SDI/2015/slides/DatacenterComputers.pdf
 - [Writing parsers like it is 2017](http://spw17.langsec.org/papers/chifflier-parsing-in-2017.pdf)
 - [Infiniswap: Efficient Memory Disaggregation](https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/gu)
 - [MAKING HUMANS A MULTI-PLANETARY SPECIES](http://online.liebertpub.com/doi/pdf/10.1089/space.2017.29009.emu)
-
+- [cGAN-based Manga Colorization Using a Single Training Image](https://arxiv.org/pdf/1706.06918v1.pdf)
 
 ### Liskov's "Must Read" For Computer Scientists (from [here](http://jpirker.com/hlf16-liskovs-reading-list-for-computer-scientists/))
 

@@ -22,6 +22,9 @@ title: Interesting Links
 - [Server room with seismic isolation floor](https://www.youtube.com/watch?v=GXwQSCStRaw)
 - [Sorting Legos with NNs](https://jacquesmattheij.com/sorting-lego-many-questions-and-this-is-what-the-result-looks-like)
 
+## Legal
+- [Saved By Supreme Court Alice Ruling (Patent Troll Case Studies) EFF](https://www.eff.org/alice)
+
 ## Life Skills 
 - [How a car works guide](https://www.howacarworks.com/)
 

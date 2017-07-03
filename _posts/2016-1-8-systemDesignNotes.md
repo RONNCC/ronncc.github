@@ -38,3 +38,6 @@ type: post
 ## Performance Fiddling
 - [C Performance Tips](http://vendu.twodots.nl/wizardcode.html)
 - [Linux Perf + PMC Performance](http://www.brendangregg.com/linuxperf.html)
+
+## Text
+- [Edge Cases to Keep in Mind. Part 1 – Text](https://www.thedroidsonroids.com/blog/edge-cases-to-keep-in-mind-part-1-text)

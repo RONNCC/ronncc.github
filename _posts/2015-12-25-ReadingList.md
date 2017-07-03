@@ -67,15 +67,15 @@ http://www.pdl.cmu.edu/SDI/2015/slides/DatacenterComputers.pdf
 
 
 ## Blog Posts
-http://danluu.com/perf-tracing/
-[Twitter's DB: Manhattan](https://blog.twitter.com/2016/strong-consistency-in-manhattan)
-[Linux Networking Stack](https://www.privateinternetaccess.com/blog/2016/01/linux-networking-stack-from-the-ground-up-part-1/)
-[Data Structures for External Memory & Cambridge CS Notes](http://blog.omega-prime.co.uk/?p=197)
-[Variational Encoders](https://jaan.io/unreasonable-confusion/)
-[How does GDB Work?](http://jvns.ca/blog/2016/08/10/how-does-gdb-work/)
-[Intro To Galois Theory](https://nrich.maths.org/1422)
-[Category Theory for Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
-
+- http://danluu.com/perf-tracing/
+- [Twitter's DB: Manhattan](https://blog.twitter.com/2016/strong-consistency-in-manhattan)
+- [Linux Networking Stack](https://www.privateinternetaccess.com/blog/2016/01/linux-networking-stack-from-the-ground-up-part-1/)
+- [Data Structures for External Memory & Cambridge CS Notes](http://blog.omega-prime.co.uk/?p=197)
+- [Variational Encoders](https://jaan.io/unreasonable-confusion/)
+- [How does GDB Work?](http://jvns.ca/blog/2016/08/10/how-does-gdb-work/)
+- [Intro To Galois Theory](https://nrich.maths.org/1422)
+- [Category Theory for Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
+- [An Adversarial Review of “Adversarial Generation of Natural Language”](https://medium.com/@yoav.goldberg/an-adversarial-review-of-adversarial-generation-of-natural-language-409ac3378bd7)
 
 ## Books
 

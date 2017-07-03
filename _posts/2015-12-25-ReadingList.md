@@ -79,8 +79,11 @@ http://www.pdl.cmu.edu/SDI/2015/slides/DatacenterComputers.pdf
 
 ## Books
 
+### Art
+- [The Story of Art (E.H. Gombrich)](https://www.amazon.com/Story-Art-H-Gombrich/dp/0714832472)
+
 ### Cooking
-[The Sci of Good Cooking](https://www.amazon.com/Science-Cooking-Cooks-Illustrated-Cookbooks/dp/1933615982)
+- [The Sci of Good Cooking](https://www.amazon.com/Science-Cooking-Cooks-Illustrated-Cookbooks/dp/1933615982)
 
 ### Cog Psy
 - [Cog Psy](https://www.amazon.com/Cognitive-Psychology-Brain-Edward-Smith/dp/0131825089)
@@ -92,7 +95,7 @@ http://www.pdl.cmu.edu/SDI/2015/slides/DatacenterComputers.pdf
 - [Huangdi Neijing - Ancient Chinese Medical Text](http://www.biblio.nhat-nam.ru/Huang_Di_Nei_Jing_Su_Wen-Unschuld-Tessenow-1-2.pdf)
 
 ### Typography
-http://practicaltypography.com/  
+- http://practicaltypography.com/  
 
 
 ### Math

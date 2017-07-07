@@ -44,5 +44,4 @@ type: post
 - [Edge Cases to Keep in Mind. Part 1 – Text](https://www.thedroidsonroids.com/blog/edge-cases-to-keep-in-mind-part-1-text)
 
 ## Recommenders
-- [Two Decades of Recommender Systems at Amazon.com
-](https://www.computer.org/csdl/mags/ic/2017/03/mic2017030012.html)
+- [Two Decades of Recommender Systems at Amazon.com](https://www.computer.org/csdl/mags/ic/2017/03/mic2017030012.html)

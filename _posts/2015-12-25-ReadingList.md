@@ -158,6 +158,7 @@ http://www.pdl.cmu.edu/SDI/2015/slides/DatacenterComputers.pdf
 - [Making of PPT (Creator of Startup)](https://www.amazon.com/Sweating-Bullets-Notes-Inventing-PowerPoint/dp/0985142421?ie=UTF8&redirect=true)
 - [Theory of Distributed Systems, Randomized Algos, Computational Complexity - Yale](http://www.cs.yale.edu/homes/aspnes/)
 - [Thirty-three Miniatures: Mathematical and Algorithmic Applications of Linear Algebra](http://kam.mff.cuni.cz/~matousek/stml-53-matousek-1.pdf)
+- [Theoretical Computer Science: An Introduction (Univ Saarland)](http://www-cc.cs.uni-saarland.de/media/lectures/W1415/L-Grundz%C3%BCgederTheoretischenInformatik/ti_FfSJlCM.pdf)
 
 
 https://www.jyotirmoy.net/posts/2015-12-29-springer-openaccess.html

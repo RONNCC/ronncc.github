@@ -46,6 +46,9 @@ title: Interesting Links
 
 - [Constant Time Math (Rotations)](https://en.wikipedia.org/wiki/CORDIC)
 
+### Encyclopedic/Lookup/Reference
+- [The Matrix Cookbook](http://www2.imm.dtu.dk/pubdb/views/edoc_download.php/3274/pdf/imm3274.pdf)
+
 ## CS 
 
 ### Dev Ops

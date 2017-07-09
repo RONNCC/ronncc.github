@@ -120,6 +120,9 @@ http://www.pdl.cmu.edu/SDI/2015/slides/DatacenterComputers.pdf
 ### Autonomous Cars
 - [Whats new in Auto Vehicle Verification (2017 Stuttgart Symposium)](https://blog.foretellix.com/2017/06/27/whats-new-in-av-verification-report-from-the-stuttgart-symposium/)
 
+### Being a Professor
+- ["What do academics do all day"?(The academic’s art of work)](http://www.ru.is/~luca/PAPERS/ivorytower.pdf)
+
 
 ### CS
 

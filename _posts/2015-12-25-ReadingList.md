@@ -166,6 +166,10 @@ http://www.pdl.cmu.edu/SDI/2015/slides/DatacenterComputers.pdf
 
 https://www.jyotirmoy.net/posts/2015-12-29-springer-openaccess.html
 
+### Competitive Prog
+
+- https://cses.fi/book.pdf
+
 ## Other People's Reading Lists
 - https://gist.github.com/macintux/6227368
 - https://gist.github.com/stfairy/4076899

@@ -73,6 +73,7 @@ title: Interesting Links
 ### PL
 - [Bootstrapping a Type system](http://journal.stuffwithstuff.com/2010/10/29/bootstrapping-a-type-system/)
 - [Blog: GHC is getting Linear Types](http://blog.tweag.io/posts/2017-03-13-linear-types.html)
+- [A deep dive into Multicore OCaml garbage collector](http://kcsrk.info/multicore/gc/2017/07/06/multicore-ocaml-gc/)
 
 ### C 
 - [Comparing LibC alternatives](http://www.etalabs.net/compare_libcs.html)

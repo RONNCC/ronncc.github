@@ -32,6 +32,9 @@ http://www.pdl.cmu.edu/SDI/2015/slides/DatacenterComputers.pdf
 - [Algebraic Subtyping](https://www.cl.cam.ac.uk/~sd601/thesis.pdf)
 - [Group theoretical methods in machine learning](https://people.cs.uchicago.edu/~risi/papers/KondorThesis.pdf)
 
+## Reports
+- [McKinsey: State of AI in 2017](http://www.mckinsey.com/~/media/McKinsey/Industries/Advanced%20Electronics/Our%20Insights/How%20artificial%20intelligence%20can%20deliver%20real%20value%20to%20companies/MGI-Artificial-Intelligence-Discussion-paper.ashx)
+
 ## Papers
 
 - https://news.ycombinator.com/item?id=10783983

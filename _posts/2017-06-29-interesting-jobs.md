@@ -6,6 +6,8 @@ published: false
 - https://voodoomfg.com/jobs
 - http://allenai.org/jobs/
 
+## Engineering
+https://angel.co/standard-cyborg/jobs/259602-software-engineer-full-stack
 
 ## Design
 http://tendigi.com/career/design-intern/

@@ -81,7 +81,6 @@ title: Interesting Links
 - [Few points on props of Deep Learning that can be trained in ](https://cbmm.mit.edu/sites/default/files/publications/Deep%20Learning-%20mathematics%20and%20neuroscience.pdf)
 - [Automating Software Development using logic + AI](https://techcrunch.com/2017/06/27/diffblue/)
 - [DeepMind teaches itself to walk](https://www.youtube.com/watch?v=gn4nRCC9TwQ&feature=youtu.be)
-- [The future of deep learning](https://blog.keras.io/the-future-of-deep-learning.html)
 
 ### AI Commercialization
 - [Vertical AI Startups](http://www.bradfordcross.com/blog/2017/6/13/vertical-ai-startups-solving-industry-specific-problems-by-combining-ai-and-subject-matter-expertise?imm_mid=0f3d3e&cmp=em-data-na-na-newsltr_20170626)
@@ -136,6 +135,9 @@ Webflow
 
 ## Food
 - [What It Actually Costs to Open a Restaurant in San Francisco](https://sf.eater.com/2017/6/27/15733554/cost-open-restaurant-robin-adam-tortosa-san-francisco]
+
+## Physics
+- [How to become a GOOD Theoretical Physicist](http://www.staff.science.uu.nl/~gadda001/goodtheorist/)
 
 ## Philosophy
 -[Time is a causal arrow](https://en.wikipedia.org/wiki/Arrow_of_time#The_causal_arrow_of_time)

@@ -8,6 +8,7 @@ published: false
 
 ## Engineering
 https://angel.co/standard-cyborg/jobs/259602-software-engineer-full-stack
+https://www.plenty.ag/
 
 ## Design
 http://tendigi.com/career/design-intern/

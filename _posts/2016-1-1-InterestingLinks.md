@@ -34,6 +34,10 @@ title: Interesting Links
 ## Hobbies
 - [World's largest library of historical European martial arts books](http://wiktenauer.com/wiki/Main_Page)
 
+## Business
+
+- https://exponents.co/twilio-market-opportunities-risks/
+
 ## Math
 
 ### Popular
@@ -90,15 +94,15 @@ title: Interesting Links
 - [Categorized Software Packages](http://xyz.insightdataengineering.com/blog/pipeline_map/)
 
 ### Software Packages
-[Stanford Driving Software](https://sourceforge.net/projects/stanforddriving/)
+- [Stanford Driving Software](https://sourceforge.net/projects/stanforddriving/)
 
 
 ## Startups/YComb
-[Why YCombinator made a difference](https://bold.co/public/why-y-combinator-made-all-the-zvgxjl?t=tihkgug)
+- [Why YCombinator made a difference](https://bold.co/public/why-y-combinator-made-all-the-zvgxjl?t=tihkgug)
 
 
 ## News
-[Trending Github Projs](http://www.gitlogs.com/)
+- [Trending Github Projs](http://www.gitlogs.com/)
 
 ## General Technology/Engineering
 [A Camshaft-Free Engine (Koenigsegg) (Video)](https://vimeo.com/145498720)

@@ -53,6 +53,9 @@ title: Interesting Links
 
 ## CS 
 
+### DB
+- [POSTGRES QUERY PLAN VISUALIZATION](http://tatiyants.com/postgres-query-plan-visualization/)
+
 ### Dev Ops
 - [ELI5 Kerberos](http://www.roguelynn.com/words/explain-like-im-5-kerberos/)
 

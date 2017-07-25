@@ -167,3 +167,6 @@ http://www.hbo.com/documentaries/only-the-dead-see-the-end-of-war/synopsis/about
 
 ## Learn a Websec
 - http://chall.tasteless.eu/#
+
+## History
+- [Esperanto as an Asian Language](http://blogs.bl.uk/european/2017/07/esperanto-as-an-asian-language.html)

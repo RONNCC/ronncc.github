@@ -135,6 +135,7 @@ http://www.pdl.cmu.edu/SDI/2015/slides/DatacenterComputers.pdf
 #### Systems
 
 - [Software Optimization](http://agner.org/optimize/)
+- [Linux Graphics Demystified](https://keyj.emphy.de/files/linuxgraphics_en.pdf)
 
 
 - [What Every Programmer should know about Memory - Ulrich Drepper](https://www.akkadia.org/drepper/cpumemory.pdf)

@@ -193,6 +193,9 @@ https://www.jyotirmoy.net/posts/2015-12-29-springer-openaccess.html
 - [	Ask HN: What language-agnostic programming books should I read?](https://news.ycombinator.com/item?id=14486657)
 
 
+## Business
+- [Who Says Elephants Can't Dance? (IBM Turnaround)](https://www.amazon.com/dp/B000FCKL6G/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+
 ## Courses
 - [Stat Learning Theory - 281B (Jordan)](http://people.eecs.berkeley.edu/~jordan/courses/281B-spring04/)
 - [Digital Photography - Stanford](https://sites.google.com/site/marclevoylectures/home)

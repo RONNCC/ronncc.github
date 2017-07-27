@@ -21,6 +21,7 @@ title: Interesting Links
 - [Interactive Gym Wall](https://i.imgur.com/76FkWuf.gifv)
 - [Server room with seismic isolation floor](https://www.youtube.com/watch?v=GXwQSCStRaw)
 - [Sorting Legos with NNs](https://jacquesmattheij.com/sorting-lego-many-questions-and-this-is-what-the-result-looks-like)
+- [Building a Better Dev Chromebook](https://blog.lessonslearned.org/building-a-more-secure-development-chromebook/)
 
 ## Legal
 - [Saved By Supreme Court Alice Ruling (Patent Troll Case Studies) EFF](https://www.eff.org/alice)

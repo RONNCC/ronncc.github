@@ -57,6 +57,7 @@ http://www.pdl.cmu.edu/SDI/2015/slides/DatacenterComputers.pdf
 - [Infiniswap: Efficient Memory Disaggregation](https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/gu)
 - [MAKING HUMANS A MULTI-PLANETARY SPECIES](http://online.liebertpub.com/doi/pdf/10.1089/space.2017.29009.emu)
 - [cGAN-based Manga Colorization Using a Single Training Image](https://arxiv.org/pdf/1706.06918v1.pdf)
+- [On-the-Fly Garbage Collection: An Exercise in Cooperation (Djikstra,Lamport)](http://lamport.azurewebsites.net/pubs/garbage.pdf)
 
 ### Liskov's "Must Read" For Computer Scientists (from [here](http://jpirker.com/hlf16-liskovs-reading-list-for-computer-scientists/))
 

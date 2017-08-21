@@ -31,7 +31,6 @@ http://www.pdl.cmu.edu/SDI/2015/slides/DatacenterComputers.pdf
 ## Theses
 - [Algebraic Subtyping](https://www.cl.cam.ac.uk/~sd601/thesis.pdf)
 - [Group theoretical methods in machine learning](https://people.cs.uchicago.edu/~risi/papers/KondorThesis.pdf)
-- [EFFICIENT EMBEDDED COMPUTING](http://cva.stanford.edu/publications/2010/jbalfour-thesis.pdf)
 
 ## Reports
 - [McKinsey: State of AI in 2017](http://www.mckinsey.com/~/media/McKinsey/Industries/Advanced%20Electronics/Our%20Insights/How%20artificial%20intelligence%20can%20deliver%20real%20value%20to%20companies/MGI-Artificial-Intelligence-Discussion-paper.ashx)
@@ -81,6 +80,7 @@ http://www.pdl.cmu.edu/SDI/2015/slides/DatacenterComputers.pdf
 - [Intro To Galois Theory](https://nrich.maths.org/1422)
 - [Category Theory for Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
 - [An Adversarial Review of “Adversarial Generation of Natural Language”](https://medium.com/@yoav.goldberg/an-adversarial-review-of-adversarial-generation-of-natural-language-409ac3378bd7)
+- [Danny Britz, Google Brain Resident](http://www.wildml.com/)
 
 ## Books
 

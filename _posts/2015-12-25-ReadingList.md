@@ -81,6 +81,7 @@ http://www.pdl.cmu.edu/SDI/2015/slides/DatacenterComputers.pdf
 - [Category Theory for Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
 - [An Adversarial Review of “Adversarial Generation of Natural Language”](https://medium.com/@yoav.goldberg/an-adversarial-review-of-adversarial-generation-of-natural-language-409ac3378bd7)
 - [Danny Britz, Google Brain Resident](http://www.wildml.com/)
+- [Writing a Formally-Verified Porn Browser in Coq and Haskell](http://www.michaelburge.us/2017/08/25/writing-a-formally-verified-porn-browser-in-coq.html)
 
 ## Books
 

@@ -34,6 +34,7 @@ http://www.pdl.cmu.edu/SDI/2015/slides/DatacenterComputers.pdf
 
 ## Reports
 - [McKinsey: State of AI in 2017](http://www.mckinsey.com/~/media/McKinsey/Industries/Advanced%20Electronics/Our%20Insights/How%20artificial%20intelligence%20can%20deliver%20real%20value%20to%20companies/MGI-Artificial-Intelligence-Discussion-paper.ashx)
+- [Type Systems - Luca Cardelli](http://lucacardelli.name/Papers/TypeSystems.pdf)
 
 ## Papers
 
@@ -58,6 +59,7 @@ http://www.pdl.cmu.edu/SDI/2015/slides/DatacenterComputers.pdf
 - [MAKING HUMANS A MULTI-PLANETARY SPECIES](http://online.liebertpub.com/doi/pdf/10.1089/space.2017.29009.emu)
 - [cGAN-based Manga Colorization Using a Single Training Image](https://arxiv.org/pdf/1706.06918v1.pdf)
 - [On-the-Fly Garbage Collection: An Exercise in Cooperation (Djikstra,Lamport)](http://lamport.azurewebsites.net/pubs/garbage.pdf)
+- [Natural Language Thm Prover](https://arxiv.org/pdf/1708.09417.pdf)
 
 ### Liskov's "Must Read" For Computer Scientists (from [here](http://jpirker.com/hlf16-liskovs-reading-list-for-computer-scientists/))
 
@@ -82,6 +84,7 @@ http://www.pdl.cmu.edu/SDI/2015/slides/DatacenterComputers.pdf
 - [An Adversarial Review of “Adversarial Generation of Natural Language”](https://medium.com/@yoav.goldberg/an-adversarial-review-of-adversarial-generation-of-natural-language-409ac3378bd7)
 - [Danny Britz, Google Brain Resident](http://www.wildml.com/)
 - [Writing a Formally-Verified Porn Browser in Coq and Haskell](http://www.michaelburge.us/2017/08/25/writing-a-formally-verified-porn-browser-in-coq.html)
+- [Li Haoyi, Dropbox Lead/Fluent Tech](http://www.lihaoyi.com/)
 
 ## Books
 

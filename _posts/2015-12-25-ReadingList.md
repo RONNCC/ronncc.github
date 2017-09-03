@@ -64,7 +64,7 @@ http://www.pdl.cmu.edu/SDI/2015/slides/DatacenterComputers.pdf
 - [Developing Bug-Free Machine Learning Systems With Formal Mathematics](https://arxiv.org/abs/1706.08605)
 - [Fast Regex Generation using NNs](http://arxiv.org/pdf/1608.03000v1.pdf)
 - [Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation](https://arxiv.org/- abs/1609.08144)
-
+- [Learning Transferable Architectures for Scalable Image Recognition](https://arxiv.org/pdf/1707.07012.pdf)
 ### Liskov's "Must Read" For Computer Scientists (from [here](http://jpirker.com/hlf16-liskovs-reading-list-for-computer-scientists/))
 
     Dijkstra, E. W. (1968). Letters to the editor: go to statement considered harmful.Communications of the ACM, 11(3), 147-148.    

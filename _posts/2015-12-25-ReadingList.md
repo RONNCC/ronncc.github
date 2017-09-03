@@ -93,6 +93,7 @@ https://en.wikipedia.org/wiki/Elizabeth_Loftus#The_memory_wars
 - [Danny Britz, Google Brain Resident](http://www.wildml.com/)
 - [Writing a Formally-Verified Porn Browser in Coq and Haskell](http://www.michaelburge.us/2017/08/25/writing-a-formally-verified-porn-browser-in-coq.html)
 - [Li Haoyi, Dropbox Lead/Fluent Tech](http://www.lihaoyi.com/)
+- [Graphs not grids: How caches are corrupting young algorithms designers and how to fix it](http://blog.ezyang.com/2010/07/graphs-not-grids/)
 
 ## Books
 

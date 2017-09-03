@@ -25,8 +25,9 @@ https://en.wikipedia.org/wiki/Elizabeth_Loftus#The_memory_wars
 
 
 ## Presentations
-http://www.pdl.cmu.edu/SDI/2015/slides/DatacenterComputers.pdf
-[Crash course in x86 for Reverse Engineers](https://sensepost.com/blogstatic/2014/01/SensePost_crash_course_in_x86_assembly-.pdf)
+- http://www.pdl.cmu.edu/SDI/2015/slides/DatacenterComputers.pdf
+- [Crash course in x86 for Reverse Engineers](https://sensepost.com/blogstatic/2014/01/SensePost_crash_course_in_x86_assembly-.pdf)
+- [AGI General Intelligence (Karpathy) ](https://docs.google.com/presentation/d/119VW6ueBGLQXsw-jGMboGP2-WuOnyMAOYLgd44SL6xM/edit#slide=id.p)
 
 ## Theses
 - [Algebraic Subtyping](https://www.cl.cam.ac.uk/~sd601/thesis.pdf)

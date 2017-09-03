@@ -43,8 +43,6 @@ http://www.pdl.cmu.edu/SDI/2015/slides/DatacenterComputers.pdf
 - [Doom 3 Network Architecture](http://fabiensanglard.net/doom3_documentation/The-DOOM-III-Network-Architecture.pdf)
 - [ETH Zurich Systems Group](http://systems.ethz.pubzone.org/index.do?show_max=100&from_position=1)
 - [Fast Userspace Packet Processing (click)](https://orbi.ulg.ac.be/bitstream/2268/181954/1/userspaceio.pdf)
-- [Fast Regex Generation using NNs](http://arxiv.org/pdf/1608.03000v1.pdf)
-- [Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation](https://arxiv.org/- abs/1609.08144)
 - [The Structure and Performance of Efficient Interpreters](https://www.jilp.org/vol5/v5paper12.pdf)
 - [TACOTRON: A FULLY END-TO-END TEXT-TO-SPEECH SYNTHESIS MODEL](https://arxiv.org/pdf/1703.10135.pdf)
 - [SILT: A Memory-Efficient, High-Performance Key-Value Store](https://www.cs.cmu.edu/~hl/papers/silt-sosp2011.pdf)
@@ -53,7 +51,6 @@ http://www.pdl.cmu.edu/SDI/2015/slides/DatacenterComputers.pdf
 - [Deep biomarkers of human aging: Application of deep neural networks to biomarker development](http://www.impactaging.com/- papers/v8/n5/full/100968.html)
 - [Memories of unethical actions become obfuscated over time](http://www.pnas.org/content/early/2016/05/11/1523586113.full)
 - [ARRAY LAYOUTS FOR COMPARISON-BASED SEARCHING](https://arxiv.org/ftp/arxiv/papers/1509/1509.05053.pdf)
-- [Developing Bug-Free Machine Learning Systems With Formal Mathematics](https://arxiv.org/abs/1706.08605)
 - [Writing parsers like it is 2017](http://spw17.langsec.org/papers/chifflier-parsing-in-2017.pdf)
 - [Infiniswap: Efficient Memory Disaggregation](https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/gu)
 - [MAKING HUMANS A MULTI-PLANETARY SPECIES](http://online.liebertpub.com/doi/pdf/10.1089/space.2017.29009.emu)
@@ -61,6 +58,12 @@ http://www.pdl.cmu.edu/SDI/2015/slides/DatacenterComputers.pdf
 - [On-the-Fly Garbage Collection: An Exercise in Cooperation (Djikstra,Lamport)](http://lamport.azurewebsites.net/pubs/garbage.pdf)
 - [Natural Language Thm Prover](https://arxiv.org/pdf/1708.09417.pdf)
 - [A comprehensive study of Convergent and Commutative Replicated Data Types] http://hal.upmc.fr/file/index/docid/555588/filename/techreport.pdf)
+
+### AI/CNN/ML PAPERS 
+- [Learning to Generate Reviews and Discovering Sentiment](https://arxiv.org/pdf/1704.01444.pdf)
+- [Developing Bug-Free Machine Learning Systems With Formal Mathematics](https://arxiv.org/abs/1706.08605)
+- [Fast Regex Generation using NNs](http://arxiv.org/pdf/1608.03000v1.pdf)
+- [Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation](https://arxiv.org/- abs/1609.08144)
 
 ### Liskov's "Must Read" For Computer Scientists (from [here](http://jpirker.com/hlf16-liskovs-reading-list-for-computer-scientists/))
 

@@ -60,6 +60,7 @@ http://www.pdl.cmu.edu/SDI/2015/slides/DatacenterComputers.pdf
 - [cGAN-based Manga Colorization Using a Single Training Image](https://arxiv.org/pdf/1706.06918v1.pdf)
 - [On-the-Fly Garbage Collection: An Exercise in Cooperation (Djikstra,Lamport)](http://lamport.azurewebsites.net/pubs/garbage.pdf)
 - [Natural Language Thm Prover](https://arxiv.org/pdf/1708.09417.pdf)
+- [A comprehensive study of Convergent and Commutative Replicated Data Types] http://hal.upmc.fr/file/index/docid/555588/filename/techreport.pdf)
 
 ### Liskov's "Must Read" For Computer Scientists (from [here](http://jpirker.com/hlf16-liskovs-reading-list-for-computer-scientists/))
 

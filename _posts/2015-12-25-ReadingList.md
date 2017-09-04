@@ -67,6 +67,7 @@ https://en.wikipedia.org/wiki/Elizabeth_Loftus#The_memory_wars
 - [Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation](https://arxiv.org/- abs/1609.08144)
 - [Learning Transferable Architectures for Scalable Image Recognition](https://arxiv.org/pdf/1707.07012.pdf)
 - [Towards Biologically Plausible Deep Learning](https://arxiv.org/pdf/1502.04156.pdf)
+- [Machine Learning: An Applied Econometric Approach](https://scholar.harvard.edu/files/sendhil/files/jep.31.2.87.pdf)
 
 
 ### Liskov's "Must Read" For Computer Scientists (from [here](http://jpirker.com/hlf16-liskovs-reading-list-for-computer-scientists/))

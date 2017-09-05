@@ -59,6 +59,7 @@ https://en.wikipedia.org/wiki/Elizabeth_Loftus#The_memory_wars
 - [On-the-Fly Garbage Collection: An Exercise in Cooperation (Djikstra,Lamport)](http://lamport.azurewebsites.net/pubs/garbage.pdf)
 - [Natural Language Thm Prover](https://arxiv.org/pdf/1708.09417.pdf)
 - [A comprehensive study of Convergent and Commutative Replicated Data Types] http://hal.upmc.fr/file/index/docid/555588/filename/techreport.pdf)
+- [BitFunnel: Revisiting Signatures for Search](danluu.com/bitfunnel-sigir.pdf)
 
 ### AI/CNN/ML PAPERS 
 - [Learning to Generate Reviews and Discovering Sentiment](https://arxiv.org/pdf/1704.01444.pdf)

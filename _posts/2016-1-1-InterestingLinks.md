@@ -159,6 +159,7 @@ http://ai.berkeley.edu/home.html
 <http://codahale.com/>
 <http://www.evanmiller.org/index.html>
 http://danwang.co/
+http://elijames.org/
 
 ## Videos/Documentaries
 http://www.hbo.com/documentaries/only-the-dead-see-the-end-of-war/synopsis/about.html

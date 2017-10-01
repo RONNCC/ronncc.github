@@ -14,3 +14,8 @@ savioke
 
 ## Design
 http://tendigi.com/career/design-intern/
+
+## Other
+- Negotiator
+- M&A
+- EMT/Para/Doctor

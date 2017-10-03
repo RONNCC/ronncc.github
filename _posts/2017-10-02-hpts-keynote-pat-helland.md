@@ -1,8 +1,8 @@
 ---
-published: true
+published: false
 categories:
   - misc
-  - ' talks'
+  - Talks
 ---
 # HTPS Keynote
 

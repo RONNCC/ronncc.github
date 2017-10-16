@@ -104,6 +104,9 @@ https://en.wikipedia.org/wiki/Elizabeth_Loftus#The_memory_wars
 ### Art
 - [The Story of Art (E.H. Gombrich)](https://www.amazon.com/Story-Art-H-Gombrich/dp/0714832472)
 
+### Business
+- [Machine That Changed the World](https://www.amazon.com/Machine-That-Changed-World-Revolutionizing/dp/0743299795)
+
 ### Cooking
 - [The Sci of Good Cooking](https://www.amazon.com/Science-Cooking-Cooks-Illustrated-Cookbooks/dp/1933615982)
 

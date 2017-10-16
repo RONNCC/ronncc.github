@@ -114,14 +114,14 @@ title: Interesting Links
 
 
 ## General Technology/Engineering
-[A Camshaft-Free Engine (Koenigsegg) (Video)](https://vimeo.com/145498720)
+- [A Camshaft-Free Engine (Koenigsegg) (Video)](https://vimeo.com/145498720)
 
 ## Github Projs
-[Markdown->Presentations](https://github.com/shower/jekyller)
+- [Markdown->Presentations](https://github.com/shower/jekyller)
 
-[Tiny Example Renderer](https://github.com/ssloy/tinyrenderer)
+- [Tiny Example Renderer](https://github.com/ssloy/tinyrenderer)
 
-[Neural Doodler](https://github.com/alexjc/neural-doodle)
+- [Neural Doodler](https://github.com/alexjc/neural-doodle)
 
 
 ## Infographics

@@ -118,9 +118,7 @@ title: Interesting Links
 
 ## Github Projs
 - [Markdown->Presentations](https://github.com/shower/jekyller)
-
 - [Tiny Example Renderer](https://github.com/ssloy/tinyrenderer)
-
 - [Neural Doodler](https://github.com/alexjc/neural-doodle)
 
 

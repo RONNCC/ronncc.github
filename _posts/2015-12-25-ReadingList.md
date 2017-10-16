@@ -106,6 +106,8 @@ https://en.wikipedia.org/wiki/Elizabeth_Loftus#The_memory_wars
 
 ### Business
 - [Machine That Changed the World](https://www.amazon.com/Machine-That-Changed-World-Revolutionizing/dp/0743299795)
+- [Yes, And: How Improvisation Reverses "No, But" Thinking and Improves Creativity and Collaboration--Lessons from The Second City](https://www.amazon.com/Yes-Improvisation-Reverses-Creativity-Collaboration-Lessons/dp/0062248545/ref=sr_1_1?s=books&ie=UTF8&qid=1508101101&sr=1-1&keywords=Yes%2C+and.)
+
 
 ### Cooking
 - [The Sci of Good Cooking](https://www.amazon.com/Science-Cooking-Cooks-Illustrated-Cookbooks/dp/1933615982)
@@ -114,14 +116,12 @@ https://en.wikipedia.org/wiki/Elizabeth_Loftus#The_memory_wars
 - [Cog Psy](https://www.amazon.com/Cognitive-Psychology-Brain-Edward-Smith/dp/0131825089)
 - [PsychoPharm](https://www.amazon.com/Psychpharmacology-Drugs-Brain-Behavior-Second/dp/087893510X)
 
-
 ### Medical 
 
 - [Huangdi Neijing - Ancient Chinese Medical Text](http://www.biblio.nhat-nam.ru/Huang_Di_Nei_Jing_Su_Wen-Unschuld-Tessenow-1-2.pdf)
 
 ### Typography
 - http://practicaltypography.com/  
-
 
 ### Math
 - [Calculus Made Easy](http://djm.cc/library/Calculus_Made_Easy_Thompson.pdf)

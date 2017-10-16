@@ -110,6 +110,8 @@ title: Interesting Links
 
 ## News
 - [Trending Github Projs](http://www.gitlogs.com/)
+- [How Ridehailing Impacts Public Transport](https://www.planetizen.com/features/95227-new-research-how-ride-hailing-impacts-travel-behavior)
+
 
 ## General Technology/Engineering
 [A Camshaft-Free Engine (Koenigsegg) (Video)](https://vimeo.com/145498720)

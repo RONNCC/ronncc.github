@@ -104,6 +104,9 @@ title: Interesting Links
 ## Startups/YComb
 - [Why YCombinator made a difference](https://bold.co/public/why-y-combinator-made-all-the-zvgxjl?t=tihkgug)
 
+## Libraries
+- [How Libraries Remove Books](https://medium.com/@fsgbooks/secrets-of-the-stacks-4ca8405f1e11)
+
 
 ## News
 - [Trending Github Projs](http://www.gitlogs.com/)

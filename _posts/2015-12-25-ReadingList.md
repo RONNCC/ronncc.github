@@ -97,6 +97,7 @@ https://en.wikipedia.org/wiki/Elizabeth_Loftus#The_memory_wars
 - [Li Haoyi, Dropbox Lead/Fluent Tech](http://www.lihaoyi.com/)
 - [Graphs not grids: How caches are corrupting young algorithms designers and how to fix it](http://blog.ezyang.com/2010/07/graphs-not-grids/)
 - [Mathy Vanhoef: Windows MAC Address Randomization](http://www.mathyvanhoef.com/2016/03/how-mac-address-randomization-works-on.html)
+- [Transit and Peering: How your requests reach GitHub](https://githubengineering.com/transit-and-peering-how-your-requests-reach-github/)
 
 ## Books
 

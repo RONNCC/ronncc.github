@@ -45,3 +45,6 @@ type: post
 
 ## Recommenders
 - [Two Decades of Recommender Systems at Amazon.com](https://www.computer.org/csdl/mags/ic/2017/03/mic2017030012.html)
+
+## Databases
+- [Large Table Pagination](http://allyouneedisbackend.com/blog/2017/09/24/the-sql-i-love-part-1-scanning-large-table/)

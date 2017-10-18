@@ -12,6 +12,8 @@ https://www.plenty.ag/
 https://nod.com/careers/
 savioke
 Go forward: https://jobs.lever.co/goforward/5d00954d-a953-4b10-b9ec-0254e1636f0a/apply
+drive.ai
+
 
 ## Design
 http://tendigi.com/career/design-intern/

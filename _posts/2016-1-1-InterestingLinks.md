@@ -25,7 +25,7 @@ title: Interesting Links
 
 ## Legal
 - [Saved By Supreme Court Alice Ruling (Patent Troll Case Studies) EFF](https://www.eff.org/alice)
-- [Supreme Court + Math](https://fivethirtyeight.com/features/the-supreme-court-is-allergic-to-math/?ex_cid=538fb)
+- [Supreme Court is allergic to Math](https://fivethirtyeight.com/features/the-supreme-court-is-allergic-to-math/?ex_cid=538fb)
 
 ## Life Skills 
 - [How a car works guide](https://www.howacarworks.com/)

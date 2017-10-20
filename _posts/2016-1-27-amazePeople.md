@@ -35,4 +35,4 @@ http://psgraphics.blogspot.com/2015/06/a-small-image-io-library-stbimageh.html
 [Lining Yao](http://tangible.media.mit.edu/person/lining-yao/)
 
 # Economics
-[Joachim Groeger]
+- Joachim Groeger

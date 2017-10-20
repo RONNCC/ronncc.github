@@ -33,3 +33,6 @@ http://psgraphics.blogspot.com/2015/06/a-small-image-io-library-stbimageh.html
 [Lydia Chilton](http://hmslydia.com/)
 [Michael Bernstein](http://hci.stanford.edu/msb/)
 [Lining Yao](http://tangible.media.mit.edu/person/lining-yao/)
+
+# Economics
+[Joachim Groeger]

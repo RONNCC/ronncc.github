@@ -39,6 +39,7 @@ title: Interesting Links
 ## Business
 
 - https://exponents.co/twilio-market-opportunities-risks/
+- https://www.wsj.com/articles/the-downside-of-full-pay-transparency-1502676360
 
 ## Math
 

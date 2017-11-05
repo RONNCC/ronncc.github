@@ -27,6 +27,9 @@ type: post
 ## Cloud
 [- Try considering GCE over AWS for in-between region streaming, also significant time-to-first-byte difference and different long-term-cold-storage use cases ](http://blog.zachbjornson.com/2015/12/29/cloud-storage-performance.html)
 
+## Time 
+[List of Critical Dates](http://skeena.net/kb/big%20list%20of%20critical%20dates.html)
+
 ## Distributed
 - [Use epoll/kqueue not select/poll as they are more scalable](http://geocar.sdf1.org/fast-servers.html)
 - CAP is kind of a lie [[1]](http://codahale.com/you-cant-sacrifice-partition-tolerance/#errata10221010) [[2]](https://voltdb.com/blog/clarifications-cap-theorem-and-data-related-errors)

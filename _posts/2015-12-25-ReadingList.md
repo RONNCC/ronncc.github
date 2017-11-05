@@ -211,6 +211,7 @@ https://www.jyotirmoy.net/posts/2015-12-29-springer-openaccess.html
 
 ## Tutorials
 - [How to make an OS](http://www.brokenthorn.com/Resources/OSDevIndex.html)
+- [Write your own blockchain](https://bigishdata.com/2017/10/17/write-your-own-blockchain-part-1-creating-storing-syncing-displaying-mining-and-proving-work/)
 
 ## other
 - [Lasers FAQ](http://www.repairfaq.org/sam/laserfaq.htm#faqtoc)

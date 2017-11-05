@@ -24,3 +24,8 @@ http://tendigi.com/career/design-intern/
 - Negotiator
 - M&A
 - EMT/Para/Doctor
+
+
+
+------- just misc
+https://jobs.lever.co/simplehabit

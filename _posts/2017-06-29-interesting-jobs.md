@@ -27,5 +27,5 @@ http://tendigi.com/career/design-intern/
 
 
 
-------- just misc
+------- freelance
 https://jobs.lever.co/simplehabit

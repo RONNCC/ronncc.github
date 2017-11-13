@@ -53,4 +53,4 @@ type: post
 - [Large Table Pagination](http://allyouneedisbackend.com/blog/2017/09/24/the-sql-i-love-part-1-scanning-large-table/)
 
 ## Scaling Humans
-- https://gist.github.com/adamwiggins/5687294
+- [My Heroku values- Adam Wiggins (Heroku Cofounder) ]https://gist.github.com/adamwiggins/5687294

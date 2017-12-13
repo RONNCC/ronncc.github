@@ -135,6 +135,7 @@ https://en.wikipedia.org/wiki/Elizabeth_Loftus#The_memory_wars
 - [American Institute of Math Textbook Collection](https://aimath.org/textbooks/)
 - [Warren Siegal's Upper Level Physics Books (Stonybrook QFT Group)](http://insti.physics.sunysb.edu/~siegel/)
 - [American Math Society Lecture Notes](https://www.ams.org/open-math-notes)
+- [Open Access Game Theory Book](https://arxiv.org/pdf/1512.06808.pdf)
 
 #### Descriptive Set Theory
 [Life of Godel (from U&I class) ](https://www.amazon.com/Logical-Dilemmas-Life-Work-G%C3%B6del/dp/1568812566)

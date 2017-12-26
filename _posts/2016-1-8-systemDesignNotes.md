@@ -54,3 +54,6 @@ type: post
 
 ## Scaling Humans
 - [My Heroku values- Adam Wiggins (Heroku Cofounder)](https://gist.github.com/adamwiggins/5687294)
+
+## Compilation
+- https://github.com/donnemartin/system-design-primer

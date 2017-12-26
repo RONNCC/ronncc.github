@@ -99,6 +99,7 @@ https://en.wikipedia.org/wiki/Elizabeth_Loftus#The_memory_wars
 - [Mathy Vanhoef: Windows MAC Address Randomization](http://www.mathyvanhoef.com/2016/03/how-mac-address-randomization-works-on.html)
 - [Transit and Peering: How your requests reach GitHub](https://githubengineering.com/transit-and-peering-how-your-requests-reach-github/)
 - [What do economists do at Tech Firms?](https://www.linkedin.com/pulse/should-your-tech-firm-have-economist-jed-kolko)
+- [A few CTF/Bug Bounty Reports](http://www.sxcurity.pro/archives/)
 
 ## Books
 

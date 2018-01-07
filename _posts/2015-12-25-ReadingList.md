@@ -231,6 +231,11 @@ https://www.jyotirmoy.net/posts/2015-12-29-springer-openaccess.html
 - [Stat Learning Theory - 281B (Jordan)](http://people.eecs.berkeley.edu/~jordan/courses/281B-spring04/)
 - [Digital Photography - Stanford](https://sites.google.com/site/marclevoylectures/home)
 
+## Job
+
+### PM
+- https://hackernoon.com/acing-your-product-manager-interview-e4f163408cef
+
 ## TODO
 
 TO Read Eventually

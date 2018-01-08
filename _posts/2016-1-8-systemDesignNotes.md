@@ -57,3 +57,6 @@ type: post
 
 ## Compilation
 - https://github.com/donnemartin/system-design-primer
+
+## UX
+- https://thestyleofelements.org/the-art-of-the-error-message-9f878d0bff80

@@ -113,6 +113,7 @@ title: Interesting Links
 ## News
 - [Trending Github Projs](http://www.gitlogs.com/)
 - [How Ridehailing Impacts Public Transport](https://www.planetizen.com/features/95227-new-research-how-ride-hailing-impacts-travel-behavior)
+- atlasobscura, quartz, theconversation
 
 
 ## General Technology/Engineering
@@ -182,4 +183,4 @@ http://www.hbo.com/documentaries/only-the-dead-see-the-end-of-war/synopsis/about
 - [Toxicity Map of US: NIH](https://toxmap.nlm.nih.gov/toxmap/flex/)
 
 ## Ballroom
-- http://www.ballroomguide.com/workshop/latin/cha_cha/three_cha_chas_fwd_back.html 
+- http://www.ballroomguide.com/workshop/latin/cha_cha/three_cha_chas_fwd_back.html

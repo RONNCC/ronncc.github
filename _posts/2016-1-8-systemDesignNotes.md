@@ -14,7 +14,8 @@ type: post
 ---
 
 ## General
-[General Paradigms (Reflection)](https://hackernoon.com/education-of-a-programmer-aaecf2d35312)
+- [General Paradigms (Reflection)](https://hackernoon.com/education-of-a-programmer-aaecf2d35312)
+- [Usernames when logging in](https://www.b-list.org/weblog/2018/feb/11/usernames/)
 
 ## Scaling Up
 -[Counting Objects](http://highscalability.com/blog/2012/4/5/big-data-counting-how-to-count-a-billion-distinct-objects-us.html)  

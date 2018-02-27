@@ -41,6 +41,11 @@ title: Interesting Links
 - https://exponents.co/twilio-market-opportunities-risks/
 - https://www.wsj.com/articles/the-downside-of-full-pay-transparency-1502676360
 
+## Humanities + Social Sciences
+
+### Economics
+- https://www.gamasutra.com/blogs/RaminShokrizade/20130405/189984/How_I_Used_EVE_Online_to_Predict_the_Great_Recession.php
+
 ## Math
 
 ### Popular
@@ -72,7 +77,6 @@ title: Interesting Links
 -[ZFS, BTRFS, XFS, EXT4 and LVM with KVM – a storage performance comparison](http://www.ilsistemista.net/index.php/virtualization/47-zfs-btrfs-xfs-ext4-and-lvm-with-kvm-a-storage-performance-comparison.html)
 
 ### Comp Fi 
-
 - [INSIGHTS INTO HIGH FREQUENCY TRADING FROM THE VIRTU INITIAL PUBLIC OFFERING](https://online.wsj.com/public/resources/documents/VirtuOverview.pdf)
 
 ### Webdev

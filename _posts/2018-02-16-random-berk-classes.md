@@ -1,6 +1,96 @@
 ---
 published: false
 ---
+## Comp + Theoretical Immunology 
+
+Self notes:
+
+via Wikipedia:
+- T cell: "a lymphocyte of a type produced or processed by the thymus gland and actively participating in the immune response"
+- ligand: "an ion or molecule attached to a metal atom by coordinate bonding."
+- kinetic proofreading: " Kinetic proofreading allows enzymes to discriminate between two possible reaction pathways leading to correct or incorrect products with an accuracy higher than what one would predict based on the difference in the activation energy between these two pathways"
+
+
+### Modeling T Cell Ligand Discrimination (Slides)
+Jonathan Liu
+
+1. T Cell Signaling
+
+T cell activation is fast sensititive and digital
+How can we explain this theoretically?
+ 
+Certain activation < 15sec. Digital - trigger or dont. Question: how do you explain these props theoretically? What kind of network?
+
+2. Two models of activation
+
+- Conformational change
+	- Based on structural interactions
+	- Data doesn't support this
+
+- Kinetic Proofreading
+	- Based on lifetime of PMHC-TCR complex
+	- Shown to correlate w T-Cell activation
+
+3. Kinetic Proofreading
+
+- if you consider a system in thermo eq - fund limit on how 
+
+4. Experimental Setup
+
+Input specified # of pMHC ligands (concentration not types)
+Measure output using immunostaining / flow cytometry
+
+Jargon:
+- Output: ppERK (phosphorylation of extxracellular regulated kinase)
+- Input = pMHC ligand per APC
+	- SIINFEKL-K^b, EIINFEKL-K^b, SIIRFEKL-K^b
+
+Paper: Altan Bonnet and Germain 2005 Modeling T Cell Antigen Discimination Based on Feedback Control of Digital ERK Resopnses
+
+5. Indiv cell response
+
+Varied input molecules (Graph A)
+Bimodal # of cells /w high and low ppERK output (Graph B)
+
+6. Pop Response
+7. Differing Ligand strength
+8. Problems w Kinetic Proofreading
+
+- Tradeoff bw selectivity and speed
+- Data suggest additional network complexity
+- We need fast response time, Buffering against weak binders, Huge amplification of strong binders.
+
+Solution: Pos/Neg Feedback
+
+9. Sample structural change chart generated from some caltech group software
+10. Response time depends on concentration of agonist ligand (agonist: something that bind to something)
+11. Hierarchical antagonism in signaling
+- mixing non+agonist ligands is slower
+- EIIINFEKL is more antagonist
+
+varying concentration of specific binder vs nonspecific binders
+
+12. Varying discrimination based on T cell differentiation
+Amount of SHP1 (negative feedback) vs (non-)agonist.
+
+13. Conceptual
+- Change amount of neg feedback
+- Change amount of nonspecific binder
+- Change amount of agonist
+
+14. Summary
+- T cell activation incorporates kinetic proofreading w simultaneous positive and negative feedback loops
+- Allows for high speed sensitivity and discrimination
+- Simulated results qualitatively agree w data
+
+15. Discussion Points
+- Can we write a simpler phenomenological model that captures the qualitative behavior?
+- What elements are relevant? How can we generalize?
+- Do we need to consider stochasticity?
+- Can we approach this from a more biophysical perspective? e.g. stat mech of binding
+- Can we experimentally acess specific points in network?
+
+## Comp + Theoretical Immunology 
 
 
 ## mathematical modeling of affinity maturation
@@ -100,4 +190,4 @@ III)
 chromotaxis
 CXCL 12        CXCL13
 ^ centroblasts   ^ TFH 
-^ centroblast 
+^ centroblast

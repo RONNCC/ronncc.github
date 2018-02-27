@@ -92,7 +92,6 @@ Amount of SHP1 (negative feedback) vs (non-)agonist.
 
 ## Comp + Theoretical Immunology 
 
-
 ## mathematical modeling of affinity maturation
 Feb 15 2015
 

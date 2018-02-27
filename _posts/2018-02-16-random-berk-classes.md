@@ -11,7 +11,7 @@ via Wikipedia:
 - kinetic proofreading: " Kinetic proofreading allows enzymes to discriminate between two possible reaction pathways leading to correct or incorrect products with an accuracy higher than what one would predict based on the difference in the activation energy between these two pathways"
 
 
-### Modeling T Cell Ligand Discrimination (Slides)
+## Modeling T Cell Ligand Discrimination (Slides)
 Jonathan Liu
 
 1. T Cell Signaling
@@ -89,6 +89,7 @@ Amount of SHP1 (negative feedback) vs (non-)agonist.
 - Do we need to consider stochasticity?
 - Can we approach this from a more biophysical perspective? e.g. stat mech of binding
 - Can we experimentally acess specific points in network?
+
 
 ## Comp + Theoretical Immunology 
 

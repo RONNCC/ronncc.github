@@ -2,12 +2,12 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
 Hi!
 
-I study Computer Science/UX @ Carnegie Mellon and whatever other classes I can sneak into.
-
+I used to study things @ Carnegie Mellon and now sneak into classes at Berkeley.
 
 
 ### Contact me

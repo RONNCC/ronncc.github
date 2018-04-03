@@ -3,6 +3,33 @@ published: false
 ---
 ## Comp + Theoretical Immunology 
 
+
+"immune repertoire diversity: inference and modeling"
+
+paper1: http://www.pnas.org/content/107/12/5405
+paper2: http://www.pnas.org/content/113/2/274
+
+"Typical" zebrafish B cell CDR3 Repertoires
+28-112k sequences/fish /w primer dep amplification bias
+D region in zebra fish antibodies - 1-6 antiacids
+restricted to D region which act like clone barcodes
+Can we say anything about P(\sigma) from the data?
+
+Max Entropy Model
+MaxEnt model = "least structured model consistent with observables"
+
+Restrict to individual and pairwise data so that num of vars ~ 10^3.
+
+
+Takeaways (2nd paper)
+
+- Clone speciifc vs cell specific fluctuating fitness give different qualitative results in this framework of lymphocyte diversity.
+- may be albe to estimate key growth params from clean enough data (fitting power law exp and crossovers)
+
+
+---
+
+
 Self notes:
 
 via Wikipedia:

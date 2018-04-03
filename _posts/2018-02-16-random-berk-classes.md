@@ -24,7 +24,7 @@ Restrict to individual and pairwise data so that num of vars ~ 10^3.
 Takeaways (2nd paper)
 
 - Clone speciifc vs cell specific fluctuating fitness give different qualitative results in this framework of lymphocyte diversity.
-- may be albe to estimate key growth params from clean enough data (fitting power law exp and crossovers)
+- may be able to estimate key growth params from clean enough data (fitting power law exp and crossovers)
 
 
 ---

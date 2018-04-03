@@ -230,6 +230,7 @@ https://www.jyotirmoy.net/posts/2015-12-29-springer-openaccess.html
 ## Courses
 - [Stat Learning Theory - 281B (Jordan)](http://people.eecs.berkeley.edu/~jordan/courses/281B-spring04/)
 - [Digital Photography - Stanford](https://sites.google.com/site/marclevoylectures/home)
+- [Ask HN: What are the best MOOCs you've taken?](https://news.ycombinator.com/item?id=16745042)
 
 ## Job
 

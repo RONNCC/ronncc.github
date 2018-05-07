@@ -237,6 +237,9 @@ https://www.jyotirmoy.net/posts/2015-12-29-springer-openaccess.html
 ### PM
 - https://hackernoon.com/acing-your-product-manager-interview-e4f163408cef
 
+### Compensation
+- http://fortune.com/2016/09/27/the-complete-guide-to-understanding-equity-compensation-at-tech-companies/
+
 ## TODO
 
 TO Read Eventually

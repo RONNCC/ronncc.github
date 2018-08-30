@@ -1,7 +1,17 @@
 ---
 published: false
 ---
-## Comp + Theoretical Immunology 
+## Advanced Topics in Computer Systems (262a-f18)
+
+Aug 30 2018 
+
+logical block mapping to choose where to put on platter, archival data inside the platter and fast access data on the outside
+never use RAID 5 again lmao
+4ms to track switch, but much less to read next thing on the block
+3 modes for a Journaling File System - Writeback, Ordered, Data journaling. (write metadata+journal independently and journal only metadata, ordering, or both first to journal)
+
+
+## Comp + Theoretical Immunology  (294-E?)
 
 
 "immune repertoire diversity: inference and modeling"

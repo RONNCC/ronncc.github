@@ -7,7 +7,7 @@ published: true
 
 Hi!
 
-I used to study things @ Carnegie Mellon and now sneak into classes at Berkeley.
+I used to study things @ Carnegie Mellon and now sometimes take classes at Berkeley.
 
 
 ### Contact me

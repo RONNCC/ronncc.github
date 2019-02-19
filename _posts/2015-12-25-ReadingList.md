@@ -192,10 +192,10 @@ https://en.wikipedia.org/wiki/Elizabeth_Loftus#The_memory_wars
 - [Theory of Distributed Systems, Randomized Algos, Computational Complexity - Yale](http://www.cs.yale.edu/homes/aspnes/)
 - [Thirty-three Miniatures: Mathematical and Algorithmic Applications of Linear Algebra](http://kam.mff.cuni.cz/~matousek/stml-53-matousek-1.pdf)
 - [Theoretical Computer Science: An Introduction (Univ Saarland)](http://www-cc.cs.uni-saarland.de/media/lectures/W1415/L-Grundz%C3%BCgederTheoretischenInformatik/ti_FfSJlCM.pdf)
+- [Bitcoin and Cryptocurrency Technologies](http://bitcoinbook.cs.princeton.edu/)
 
 ### Graphics
 - [Dithering Algorithms](http://www.tannerhelland.com/4660/dithering-eleven-algorithms-source-code/)
-
 
 https://www.jyotirmoy.net/posts/2015-12-29-springer-openaccess.html
 

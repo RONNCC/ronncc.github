@@ -6,10 +6,36 @@ categories:
 
 # L2
 
+## Ferguson: Haunani-Kay Trask, Lovely Hula Hands
+"Lovely Hula Hands: Corporate Tourism and the Prostitution of Hawaiian Culture"
+
+- Haiwaiians have less rights than American Indians
+- American's don't know where Hawaii is but feel entitled to use it and the destruction of Hawaiian land is by MNCs
+- Prostitution is used as an analytic category/metaphor to convey the degradation of Hawaiian culture and people under tourism
+
+Author will examine: 1) homeland incl lands,fisheries,sea,skies 2) language and dance 3) familial relationships 4) women
+
+- In Hawaii there is a younger sibling/elder sibling + chief<-> villagers symbiosism.
+- Aloha is a cultural feeling and practice that works b/w the people and their land
+- Hawaiian language was banned by Americans and only now is making a resurgency (and dance).
+- Hawaiian values are different than those of the traditional west and that annoys many visitors (e.g. shared property and children and open relationships).
+- In contrast the American relationship of people to land is exploitative
+- Tourism is the only job propoganda is spread;
+- "Our language, dance, young poeple and customs of eating are used to ensnare tourists ... for $39.95".
+- Hawaiians are required to be complicit or face unemployment and are frequently forced to leave Hawaii as a result.
+- 
+
+
+
+
 ## Chapter 3 Conley Reading
 
 3 Culture and Media
 - Does culture or media come first?
+- Culture = Human – Nature, Culture = (Superior) Man – (Inferior) Man, Culture = Man – Machine
+	- Matthew Arnold (1822–1888) redefined culture as the pursuit of perfection and broad knowledge of the world in contrast to narrow self-centeredness and material gain.
+
+< partly done >
 
 ## Videos
 

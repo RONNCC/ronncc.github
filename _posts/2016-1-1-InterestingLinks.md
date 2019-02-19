@@ -25,6 +25,7 @@ title: Interesting Links
 
 ## Legal
 - [Saved By Supreme Court Alice Ruling (Patent Troll Case Studies) EFF](https://www.eff.org/alice)
+- [Supreme Court is allergic to Math](https://fivethirtyeight.com/features/the-supreme-court-is-allergic-to-math/?ex_cid=538fb)
 
 ## Life Skills 
 - [How a car works guide](https://www.howacarworks.com/)
@@ -38,6 +39,12 @@ title: Interesting Links
 ## Business
 
 - https://exponents.co/twilio-market-opportunities-risks/
+- https://www.wsj.com/articles/the-downside-of-full-pay-transparency-1502676360
+
+## Humanities + Social Sciences
+
+### Economics
+- https://www.gamasutra.com/blogs/RaminShokrizade/20130405/189984/How_I_Used_EVE_Online_to_Predict_the_Great_Recession.php
 
 ## Math
 
@@ -70,7 +77,6 @@ title: Interesting Links
 -[ZFS, BTRFS, XFS, EXT4 and LVM with KVM – a storage performance comparison](http://www.ilsistemista.net/index.php/virtualization/47-zfs-btrfs-xfs-ext4-and-lvm-with-kvm-a-storage-performance-comparison.html)
 
 ### Comp Fi 
-
 - [INSIGHTS INTO HIGH FREQUENCY TRADING FROM THE VIRTU INITIAL PUBLIC OFFERING](https://online.wsj.com/public/resources/documents/VirtuOverview.pdf)
 
 ### Webdev
@@ -104,19 +110,23 @@ title: Interesting Links
 ## Startups/YComb
 - [Why YCombinator made a difference](https://bold.co/public/why-y-combinator-made-all-the-zvgxjl?t=tihkgug)
 
+## Libraries
+- [How Libraries Remove Books](https://medium.com/@fsgbooks/secrets-of-the-stacks-4ca8405f1e11)
+
 
 ## News
 - [Trending Github Projs](http://www.gitlogs.com/)
+- [How Ridehailing Impacts Public Transport](https://www.planetizen.com/features/95227-new-research-how-ride-hailing-impacts-travel-behavior)
+- atlasobscura, quartz, theconversation
+
 
 ## General Technology/Engineering
-[A Camshaft-Free Engine (Koenigsegg) (Video)](https://vimeo.com/145498720)
+- [A Camshaft-Free Engine (Koenigsegg) (Video)](https://vimeo.com/145498720)
 
 ## Github Projs
-[Markdown->Presentations](https://github.com/shower/jekyller)
-
-[Tiny Example Renderer](https://github.com/ssloy/tinyrenderer)
-
-[Neural Doodler](https://github.com/alexjc/neural-doodle)
+- [Markdown->Presentations](https://github.com/shower/jekyller)
+- [Tiny Example Renderer](https://github.com/ssloy/tinyrenderer)
+- [Neural Doodler](https://github.com/alexjc/neural-doodle)
 
 
 ## Infographics
@@ -159,6 +169,7 @@ http://ai.berkeley.edu/home.html
 <http://codahale.com/>
 <http://www.evanmiller.org/index.html>
 http://danwang.co/
+http://elijames.org/
 
 ## Videos/Documentaries
 http://www.hbo.com/documentaries/only-the-dead-see-the-end-of-war/synopsis/about.html
@@ -171,3 +182,9 @@ http://www.hbo.com/documentaries/only-the-dead-see-the-end-of-war/synopsis/about
 
 ## History
 - [Esperanto as an Asian Language](http://blogs.bl.uk/european/2017/07/esperanto-as-an-asian-language.html)
+
+## Environmental Science
+- [Toxicity Map of US: NIH](https://toxmap.nlm.nih.gov/toxmap/flex/)
+
+## Ballroom
+- http://www.ballroomguide.com/workshop/latin/cha_cha/three_cha_chas_fwd_back.html

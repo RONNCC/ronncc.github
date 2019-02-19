@@ -96,11 +96,20 @@ https://en.wikipedia.org/wiki/Elizabeth_Loftus#The_memory_wars
 - [Writing a Formally-Verified Porn Browser in Coq and Haskell](http://www.michaelburge.us/2017/08/25/writing-a-formally-verified-porn-browser-in-coq.html)
 - [Li Haoyi, Dropbox Lead/Fluent Tech](http://www.lihaoyi.com/)
 - [Graphs not grids: How caches are corrupting young algorithms designers and how to fix it](http://blog.ezyang.com/2010/07/graphs-not-grids/)
+- [Mathy Vanhoef: Windows MAC Address Randomization](http://www.mathyvanhoef.com/2016/03/how-mac-address-randomization-works-on.html)
+- [Transit and Peering: How your requests reach GitHub](https://githubengineering.com/transit-and-peering-how-your-requests-reach-github/)
+- [What do economists do at Tech Firms?](https://www.linkedin.com/pulse/should-your-tech-firm-have-economist-jed-kolko)
+- [A few CTF/Bug Bounty Reports](http://www.sxcurity.pro/archives/)
 
 ## Books
 
 ### Art
 - [The Story of Art (E.H. Gombrich)](https://www.amazon.com/Story-Art-H-Gombrich/dp/0714832472)
+
+### Business
+- [Machine That Changed the World](https://www.amazon.com/Machine-That-Changed-World-Revolutionizing/dp/0743299795)
+- [Yes, And: How Improvisation Reverses "No, But" Thinking and Improves Creativity and Collaboration--Lessons from The Second City](https://www.amazon.com/Yes-Improvisation-Reverses-Creativity-Collaboration-Lessons/dp/0062248545/ref=sr_1_1?s=books&ie=UTF8&qid=1508101101&sr=1-1&keywords=Yes%2C+and.)
+
 
 ### Cooking
 - [The Sci of Good Cooking](https://www.amazon.com/Science-Cooking-Cooks-Illustrated-Cookbooks/dp/1933615982)
@@ -109,14 +118,12 @@ https://en.wikipedia.org/wiki/Elizabeth_Loftus#The_memory_wars
 - [Cog Psy](https://www.amazon.com/Cognitive-Psychology-Brain-Edward-Smith/dp/0131825089)
 - [PsychoPharm](https://www.amazon.com/Psychpharmacology-Drugs-Brain-Behavior-Second/dp/087893510X)
 
-
 ### Medical 
 
 - [Huangdi Neijing - Ancient Chinese Medical Text](http://www.biblio.nhat-nam.ru/Huang_Di_Nei_Jing_Su_Wen-Unschuld-Tessenow-1-2.pdf)
 
 ### Typography
 - http://practicaltypography.com/  
-
 
 ### Math
 - [Calculus Made Easy](http://djm.cc/library/Calculus_Made_Easy_Thompson.pdf)
@@ -129,6 +136,7 @@ https://en.wikipedia.org/wiki/Elizabeth_Loftus#The_memory_wars
 - [American Institute of Math Textbook Collection](https://aimath.org/textbooks/)
 - [Warren Siegal's Upper Level Physics Books (Stonybrook QFT Group)](http://insti.physics.sunysb.edu/~siegel/)
 - [American Math Society Lecture Notes](https://www.ams.org/open-math-notes)
+- [Open Access Game Theory Book](https://arxiv.org/pdf/1512.06808.pdf)
 
 #### Descriptive Set Theory
 [Life of Godel (from U&I class) ](https://www.amazon.com/Logical-Dilemmas-Life-Work-G%C3%B6del/dp/1568812566)
@@ -136,6 +144,7 @@ https://en.wikipedia.org/wiki/Elizabeth_Loftus#The_memory_wars
 ### Music
 
 - [Music, Thought, and Feeling: Understanding the Psychology of Music](https://www.amazon.com/Music-Thought-Feeling-Understanding-Psychology/dp/0195377079)
+- [5 Books on Wagner](https://fivebooks.com/best-books/wagner/)
 
 ### Autonomous Cars
 - [Whats new in Auto Vehicle Verification (2017 Stuttgart Symposium)](https://blog.foretellix.com/2017/06/27/whats-new-in-av-verification-report-from-the-stuttgart-symposium/)
@@ -185,6 +194,9 @@ https://en.wikipedia.org/wiki/Elizabeth_Loftus#The_memory_wars
 - [Theoretical Computer Science: An Introduction (Univ Saarland)](http://www-cc.cs.uni-saarland.de/media/lectures/W1415/L-Grundz%C3%BCgederTheoretischenInformatik/ti_FfSJlCM.pdf)
 - [Bitcoin and Cryptocurrency Technologies](http://bitcoinbook.cs.princeton.edu/)
 
+### Graphics
+- [Dithering Algorithms](http://www.tannerhelland.com/4660/dithering-eleven-algorithms-source-code/)
+
 https://www.jyotirmoy.net/posts/2015-12-29-springer-openaccess.html
 
 ### Competitive Prog
@@ -199,10 +211,12 @@ https://www.jyotirmoy.net/posts/2015-12-29-springer-openaccess.html
 - http://dancres.github.io/Pages/
 - [Ask HN: Primer on Cryptocurrencies](https://news.ycombinator.com/item?id=14659775)
 - [Fermat's Library](http://fermatslibrary.com/)
+- [Ask HN: Good Papers for Beginners](https://news.ycombinator.com/item?id=15695326)
 
 
 ## Tutorials
 - [How to make an OS](http://www.brokenthorn.com/Resources/OSDevIndex.html)
+- [Write your own blockchain](https://bigishdata.com/2017/10/17/write-your-own-blockchain-part-1-creating-storing-syncing-displaying-mining-and-proving-work/)
 
 ## other
 - [Lasers FAQ](http://www.repairfaq.org/sam/laserfaq.htm#faqtoc)
@@ -216,6 +230,15 @@ https://www.jyotirmoy.net/posts/2015-12-29-springer-openaccess.html
 ## Courses
 - [Stat Learning Theory - 281B (Jordan)](http://people.eecs.berkeley.edu/~jordan/courses/281B-spring04/)
 - [Digital Photography - Stanford](https://sites.google.com/site/marclevoylectures/home)
+- [Ask HN: What are the best MOOCs you've taken?](https://news.ycombinator.com/item?id=16745042)
+
+## Job
+
+### PM
+- https://hackernoon.com/acing-your-product-manager-interview-e4f163408cef
+
+### Compensation
+- http://fortune.com/2016/09/27/the-complete-guide-to-understanding-equity-compensation-at-tech-companies/
 
 ## TODO
 

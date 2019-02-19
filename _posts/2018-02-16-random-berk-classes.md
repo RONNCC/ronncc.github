@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Advanced Topics in Computer Systems (262a-f18)
 

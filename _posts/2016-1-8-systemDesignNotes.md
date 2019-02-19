@@ -14,7 +14,8 @@ type: post
 ---
 
 ## General
-[General Paradigms (Reflection)](https://hackernoon.com/education-of-a-programmer-aaecf2d35312)
+- [General Paradigms (Reflection)](https://hackernoon.com/education-of-a-programmer-aaecf2d35312)
+- [Usernames when logging in](https://www.b-list.org/weblog/2018/feb/11/usernames/)
 
 ## Scaling Up
 -[Counting Objects](http://highscalability.com/blog/2012/4/5/big-data-counting-how-to-count-a-billion-distinct-objects-us.html)  
@@ -26,6 +27,9 @@ type: post
 
 ## Cloud
 [- Try considering GCE over AWS for in-between region streaming, also significant time-to-first-byte difference and different long-term-cold-storage use cases ](http://blog.zachbjornson.com/2015/12/29/cloud-storage-performance.html)
+
+## Time 
+[List of Critical Dates](http://skeena.net/kb/big%20list%20of%20critical%20dates.html)
 
 ## Distributed
 - [Use epoll/kqueue not select/poll as they are more scalable](http://geocar.sdf1.org/fast-servers.html)
@@ -45,3 +49,15 @@ type: post
 
 ## Recommenders
 - [Two Decades of Recommender Systems at Amazon.com](https://www.computer.org/csdl/mags/ic/2017/03/mic2017030012.html)
+
+## Databases
+- [Large Table Pagination](http://allyouneedisbackend.com/blog/2017/09/24/the-sql-i-love-part-1-scanning-large-table/)
+
+## Scaling Humans
+- [My Heroku values- Adam Wiggins (Heroku Cofounder)](https://gist.github.com/adamwiggins/5687294)
+
+## Compilation
+- https://github.com/donnemartin/system-design-primer
+
+## UX
+- https://thestyleofelements.org/the-art-of-the-error-message-9f878d0bff80

@@ -6,6 +6,13 @@ categories:
 
 # L2
 
+## Chapter 3 Conley Reading
+
+3 Culture and Media
+- Does culture or media come first?
+
+## Videos
+
 https://www.youtube.com/watch?v=kGrVhM_Gi8k
 - culture: non-material objects (thoughts,action,language,values...) + objects to form way of life
 	- material culture: syntactic things around you (e.g. street signs)
@@ -45,3 +52,7 @@ https://www.youtube.com/watch?v=DbTt_ySTjaY
 
 https://www.youtube.com/watch?v=YnCJU6PaCio
 - See the strange in the familiar, study society, how sociology differentiates itself, what sociology can do
+
+
+Conley Book: https://www.amazon.com/You-May-Ask-Yourself-Introduction-dp-039391299X/dp/039391299X
+Ferguson Reader: https://www.amazon.com/Mapping-Social-Landscape-Readings-Sociology/dp/150636828X

@@ -1,9 +1,7 @@
 ---
 categories:
   - Reading Papers
-comment: null
 date: 2016-1-14
-info: null
 layout: post
 published: true
 sha: 6a976bb67b27d495e061c381fff90286a45c6836

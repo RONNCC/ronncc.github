@@ -178,6 +178,7 @@ https://en.wikipedia.org/wiki/Elizabeth_Loftus#The_memory_wars
 - [Ask HN: Primer on Cryptocurrencies](https://news.ycombinator.com/item?id=14659775)
 - [Ask HN: modern computer graphics?](https://news.ycombinator.com/item?id=14652936)
 - [Ask HN: Learn Computer vision?](https://news.ycombinator.com/item?id=14651665)
+- [Automated Trading](http://isomorphisms.sdf.org/maxdama.pdf)
 
 #### Theory
 

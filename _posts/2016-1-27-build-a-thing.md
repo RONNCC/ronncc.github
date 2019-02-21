@@ -16,3 +16,4 @@ type: post
 [Build a lang-Nystrom](http://www.craftinginterpreters.com/)
 [Game Building-Nystrom](http://gameprogrammingpatterns.com/)
 [Build your own Lisp](http://www.buildyourownlisp.com/)
+[Build a startup: "Why Should You Start a Startup?"](https://docs.google.com/document/d/1wkJ6Ruh2IiR-caT-PS3n5Yt5VKcmIsVhuQwjgqK7030/preview)

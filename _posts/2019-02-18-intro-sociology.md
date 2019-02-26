@@ -8,7 +8,7 @@ categories:
 ## Ferguson: Granfield, MAKING IT BY FAKING IT: Working-Class Students in an Elite Academic Environment
 - ambiguous
 
-## Conley Reading
+## Conley Chapter 4
 
 **Socialization** 
 
@@ -20,6 +20,15 @@ categories:
 **Human Nature**
 - You need to bathroom but not where you can bathroom
 - "Anna" Case Study: Socialization cannot happen after such long isolation; Theories of socialization inapplicable
+
+**Theories of Socialization**
+- Self: the individual identity of a person as perceived by that same person
+	- Concept of self is a social process; 
+- I: one’s sense of agency, action, or powe
+- Me: self as perceived as an object by the “I”; the self as one imagines others perceive one
+- Cooley: Self emerges from being able to see ourselves as others do
+- Mead: developed on Cooley; me is distinct
+
 
 # L2
 

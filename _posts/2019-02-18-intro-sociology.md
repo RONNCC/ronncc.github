@@ -28,6 +28,34 @@ categories:
 - Me: self as perceived as an object by the “I”; the self as one imagines others perceive one
 - Cooley: Self emerges from being able to see ourselves as others do
 - Mead: developed on Cooley; me is distinct
+- Theory of social behavior: how others are likely to react to different situations
+- Generalized other: internalized sense of the total expectations of others in a variety of settings
+
+**Agents of Socialization**
+- Generally families; not always parents -> children sometimes reverse
+	- Family social class impacts how their children socialized
+    - middle-class parents are more likely to engage in concerted cultivation with formal activities and reason with them over decisions to foster talents
+    - Kids in less well-off families pend more time hanging out
+    - Middle class kids are able to use logic and reason to support choices by mirroring parents explanations
+    - Middle class kids discover confidence that comes achievements
+- School
+	- Teachers properly socialize you
+    - All schools are not created equal
+    - Prep schools link students into elite social networks
+- Peers
+	- Peer pressure
+    - Adolescents are more open to friends advise them to parents
+- Media
+	- ongoing debate; e.g. sesame street: Educational programming for children who don't have day care or preschool
+- Adult Socialization
+	- Ways in which or socialize as an adult. For example working at a restaurant you learn your responsibilities
+    - Resocialization: The process by which one's sense of social values and beliefs and norms are reengineered often deliberately through on intense social process that may take place in a total institution
+    	- e.g. living in a new country; or a coed college from a single sex high school; or if you lost completely your memory
+- Total Institution
+	- An institution in her 20s totally immersed in that controls all the basics of day-to-day life; No barriers exist between usual spheres of daily life and all activity that occurs in same place and under same single authority; e.g. prisons, boarding schools, college, army
+    - Works by placing an immense physical and mental pressure and isolating them
+
+**Social Interaction**
 
 
 # L2

@@ -56,6 +56,52 @@ categories:
     - Works by placing an immense physical and mental pressure and isolating them
 
 **Social Interaction**
+- Status: Recognizable social position that a individual occupies
+- Role: Duties and behaviors expected to someone who holds a particular status
+- Role Strain: Incompatibility among roles corresponding to a single status
+- Role conflict: tension caused by competing demands between two or more rules pertaining to different statuses
+- Status set: all the statuses one holds simultaneously
+- Ascribed status: status into which one is born; involuntary status
+- Achieved status: status into which one enters; voluntary status
+- Master status: Status within a set that stands out
+- Merton's Role Theory: Acting within roles/people have roles.
+	- Six types of role conflict (from Merton Sociological Ambivalence, pp. 8 - 12)
+      1. Conflict within an individual's status set
+      2. Conflict within the role set
+      3. Conflict of the multi-cultural
+      4. Cultural conflict, i.e., between cultural values
+         a. This is conflict within the cultural system
+      5. Conflict between aspirations and opportunity (i.e., no chance to do what you have been taught you ought to)
+      6. Conflict inherent within the role itself
+      
+**Gender Roles**
+- Gender Roles: Behavioral norms assumes to accompany status as male or female
+- West/Dimmerman  argue gender status has power/significance Not captured by real theory
+- Gender can constitute a master status
+- Studies show people interact with babies differently depending on gender
+- Larger world socializes boys and girls differently
+- Socialization continues in high schools such as insults; Gender boundary policing can cause catastrophic effects
+
+**Social Construction of Reality**
+- Something is real meaningful or valuable when society tells us it is
+- Childhood is the developmental stage was not always so and came after industrial times
+- Teenagers became a Discrete social category after the extension of education during the 1950s
+- Symbolic interactionism: Micro level theory and with shared meanings orientations and assumptions formed the basic motivations behind peoples actions
+- Symbolic interactionism: How Things are socially constructed ( suggests how We interact with others have symbolic meaning meanings)
+	- Three Basic Tenets
+    - 1. Human beings act towards ideas concepts and values on the basis of meaning that they have for them
+    - 2. Meetings are the products of social interactions in human society
+    - 3. Meanings are modified and filtered through an interpretive process that each individual uses in dealing with outward signs
+    - Useful for Understanding cultural differences and styles of social interaction
+  
+**Dramaturgical Theory**
+- Erving Goffman: Language of theater as a paradigm to formally describe the ways in which we interact to maintain social order
+- Dramaturgical Theory: View of social life as a theatrical performance in which we are all actors on metaphorical stages with roles scripts costumes and sets
+- Morals are depression management
+- Role as a student;  professor handed out syllabus (prop) and give an outline of the class ( script) and lecture (performance). Talking about Batman would deviate from the script
+- Important distinction between front stage and backstage
+- Face: The esteem in which an individual is held by others
+- 
 
 
 # L2

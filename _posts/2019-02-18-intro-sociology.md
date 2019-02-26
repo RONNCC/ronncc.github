@@ -103,6 +103,7 @@ categories:
 - Face: The esteem in which an individual is held by others
 - Opening the start of an encounter; Closing: The end of any interaction; Civic inattention: Refraining from directly interacting with someone till an opening; Given gestures can signal a closing; Giving off gestures can unconsciously signal true feelings.
 - In Breaches people  work hard to repair the mistake so everyone can move forward 
+- Goal of social interaction is to Make a good impressionAnd works to ensure that others believe they're also making a good impression
 
 
 **Ethnomethodology**

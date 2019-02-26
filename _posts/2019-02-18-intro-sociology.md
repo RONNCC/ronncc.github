@@ -3,6 +3,23 @@ published: true
 categories:
   - Class
 ---
+# L3
+
+## Ferguson: Granfield, MAKING IT BY FAKING IT: Working-Class Students in an Elite Academic Environment
+- ambiguous
+
+## Conley Reading
+
+**Socialization** 
+
+- socialization: process by which you learn how to become a functioning member of society
+- socialization: the process by which individuals internalize the values, beliefs, and norms of a given society and learn to function as members of that society.
+	- limits of socializations when you're in a new social situation (e.g. diff kind of party)
+    - primary unit: family
+
+**Human Nature**
+- You need to bathroom but not where you can bathroom
+- "Anna" Case Study: Socialization cannot happen after such long isolation; Theories of socialization inapplicable
 
 # L2
 

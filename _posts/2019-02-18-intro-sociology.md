@@ -101,8 +101,21 @@ categories:
 - Role as a student;  professor handed out syllabus (prop) and give an outline of the class ( script) and lecture (performance). Talking about Batman would deviate from the script
 - Important distinction between front stage and backstage
 - Face: The esteem in which an individual is held by others
-- 
+- Opening the start of an encounter; Closing: The end of any interaction; Civic inattention: Refraining from directly interacting with someone till an opening; Given gestures can signal a closing; Giving off gestures can unconsciously signal true feelings.
 
+**Ethnomethodology**
+- Harold Garfinkel (1950/60)
+- Literally "the methods of the people"; approach to studying human interaction focusing on the ways we make sense of our World, Convey this understanding to others and produce a shared social order
+- Famous for breaching experiments: what happens when breaching social norms.
+
+**New Technologies: What How's the Internet Done to interaction?**
+- new social situations without established social norms
+- eg online chat rooms: new lexicon but difficult to deploy closing brackets
+- Redefining the term stealing
+
+**Conclusion**
+- nature versus nurture, generally sociologists: nurture
+- Socialization helps understand how babies become people who attend college
 
 # L2
 

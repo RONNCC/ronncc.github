@@ -113,6 +113,25 @@ Ages 15-64 considered most productive years
 
 # 6 Maternal and Child Health
 
+## Goals
+
+1. Define maternal, infant and child health
+2. Explain the importance of maternal, infant and child health as indicators of society's health
+3. Define family planning and discuss its importance
+4. Identify consequences of teenage pregnancies
+5. Define legalized abortion and discuss Roe v. Wade and the pro-life and pro-choice movements
+6. Define maternal mortality rate and identify some factors that influence it
+7. Define prenatal care and discuss the influence this has on pregnancy outcome
+8. List major factors that contribute to infant health and mortality
+9. Identify the leading causes of childhood morbidity (illness/injury) and mortality (death)
+10. Discuss the importance of immunizations and health insurance to child health
+11. Identify important governmental programs developed to improve maternal and child health
+12. Briefly explain what WIC programs are and whom they serve
+13. Name several groups that are recognized as advocates for children
+14. Define what "low birth weight" means and why it is a health risk
+15. Compare the prevalence of low birth weight babies born to African American mothers, compared to white mothers in the United States
+16. Discuss factors, including chronic stress, that contribute to high rates of low birth weight births in the African American community
+17. Discuss interventions to help prevent low birth weight, including actions that can be taken at the individual level and those at the community or societal level.
 
 
 

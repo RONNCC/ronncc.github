@@ -113,10 +113,21 @@ Ages 15-64 considered most productive years
 
 # 6 Maternal and Child Health
 
+Maternal and Child Health is one of the oldest disciplines within public health
+
 ## Goals
 
 1. Define maternal, infant and child health
+
+Maternal, Infant, and Child Health (MIC/MCH) focuses on the health of women of childbearing age - from pre-pregnancy through pregnancy, labor, delivery, and the postpartum period - and that of the child prior to birth through adolescence. A particular attention is placed on the perinatal period - the period just before pregnancy, during pregnancy and birth, and up through the first year of the infant's life.
+
 2. Explain the importance of maternal, infant and child health as indicators of society's health
+
+- MIC/MCH indicates effectiveness of disease prevention and health promotion services
+- Healthy community = healthy moms + babies
+- good Early childhood health -> good later health
+- MIC Mortality rates important national health measure
+
 3. Define family planning and discuss its importance
 4. Identify consequences of teenage pregnancies
 5. Define legalized abortion and discuss Roe v. Wade and the pro-life and pro-choice movements

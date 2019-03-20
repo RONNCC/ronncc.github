@@ -129,11 +129,24 @@ Maternal, Infant, and Child Health (MIC/MCH) focuses on the health of women of c
 - MIC Mortality rates important national health measure
 
 3. Define family planning and discuss its importance
+
+- Need to be cognisant of multiple definitions of family
+
 4. Identify consequences of teenage pregnancies
+
+- blessing and a joy
+- high rates of teen births can also bring a significant social and financial burden on families and even on communities
+
 5. Define legalized abortion and discuss Roe v. Wade and the pro-life and pro-choice movements
 6. Define maternal mortality rate and identify some factors that influence it
+
 7. Define prenatal care and discuss the influence this has on pregnancy outcome
 8. List major factors that contribute to infant health and mortality
+
+- Racial Inequalities: { Black women 3x, Am Indian/Alaskan Native 2x } death rate of White, 
+- Daily discrimination can increase risk of negative perinatal outcomes
+- Maternal mortality ratios vary significantly by socioeconomic status and geography
+
 9. Identify the leading causes of childhood morbidity (illness/injury) and mortality (death)
 10. Discuss the importance of immunizations and health insurance to child health
 11. Identify important governmental programs developed to improve maternal and child health

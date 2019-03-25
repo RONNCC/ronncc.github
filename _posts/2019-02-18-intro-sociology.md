@@ -3,10 +3,21 @@ published: true
 categories:
   - Class
 ---
+# L5
+
+## Videos
+https://www.youtube.com/watch?v=_wFZ5Dbj8DA
+
+- social group: collection of people who have something in common and who believe what they have in common is significant
+- aggregate: people @ same place @ same time (eg central park at 3pm
+- categories: particular kind of person across time and space. share characteristics ( eg race )
+
+# L4 - Exam
+
 # L3
 
 ## Ferguson: Granfield, MAKING IT BY FAKING IT: Working-Class Students in an Elite Academic Environment
-- ambiguous
+- they threw away previous things and adapted to environment in addition to forsaking previous beliefs about wanting to help their like kin. Also emphasizing their diverse background did not help in interviews - conformity was key here.
 
 ## Conley Chapter 4
 

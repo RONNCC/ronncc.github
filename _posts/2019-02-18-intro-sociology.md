@@ -6,11 +6,13 @@ categories:
 # L7
 
 ## Conley Chapter 14
+- capitalism is a thing
 
 
 # L6
 
 ## Conley Chapter 13
+- education system reinforces social/economic distinctions
 
 
 # L5

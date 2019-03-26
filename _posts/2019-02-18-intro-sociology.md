@@ -5,12 +5,34 @@ categories:
 ---
 # L5
 
+## Ferguson: Colvin, Descent Into Madness
+
+- The New Mexico State Prison Riot
+- inmate on inmate killings
+- Changes 3/4 yr before riot
+- turnover of state leadership; unaccountable administrators
+- inconsistencies in security + discipline
+- growing inmate violence
+- new inmates: submit, snitch, or fight
+- anglo vs chicano fights + fragmented society
+
 ## Videos
 https://www.youtube.com/watch?v=_wFZ5Dbj8DA
 
 - social group: collection of people who have something in common and who believe what they have in common is significant
 - aggregate: people @ same place @ same time (eg central park at 3pm
 - categories: particular kind of person across time and space. share characteristics ( eg race )
+- primary (strong ties; group exists to be group eg family) vs secondary group (shared goal, eg company)
+- group dynamics: how affect each other (indiv <-> groups)
+- leadership types: instrumental (achieve goals) vs expressive (minimize conflict)
+- leadership styles: authoritarian (orders), democratic (consensus), laisse faire (leave to function on own)
+- group conformity: 
+- Milgram experiment: teacher and participant. keep administering shocks (even to deadly). Direct telling = non compliance but appeals to shared science group value = compliance. 
+- Group compliance: narrowing of thought, one right answer
+- reference groups: groups you compare to
+- groups vs size: bigger = more stable, less intimate. Coalitions also. 
+- homogenous group: better inward connections, heterogeneous group: better external connections
+
 
 # L4 - Exam
 

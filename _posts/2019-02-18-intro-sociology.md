@@ -28,8 +28,10 @@ categories:
 - Structural hole: "gap between network clusters, or even
 two individuals, if those individuals (or clusters) have complementary resources". (possibility of a tie) 
 - 6 deg of freedom (stanley milgram)
-
-
+- case study: 4% of amish startups fail. social capital. everyone shops there and taboo on bankruptcy
+- high school partner networks. spanning trees. "But the main rule that seemed to govern these relationships was “no cycles of four,” which means you do not date the ex of your ex’s current boyfriend or girlfriend. ". 
+- Organization: "any social network that is defined by a common purpose and has a boundary between its membership and the rest of the social world"
+- Organizational culture: "shared beliefs and behaviors within a social group; often used interchangeably with corporate culture"
 
 ## Ferguson: Colvin, Descent Into Madness
 

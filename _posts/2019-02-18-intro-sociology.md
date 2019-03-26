@@ -32,6 +32,11 @@ two individuals, if those individuals (or clusters) have complementary resources
 - high school partner networks. spanning trees. "But the main rule that seemed to govern these relationships was “no cycles of four,” which means you do not date the ex of your ex’s current boyfriend or girlfriend. ". 
 - Organization: "any social network that is defined by a common purpose and has a boundary between its membership and the rest of the social world"
 - Organizational culture: "shared beliefs and behaviors within a social group; often used interchangeably with corporate culture"
+- Organizational structure: "the ways in which power and authority are distributed within an organization"
+- interlocking directorates: "phenomenon whereby the members of corporate boards often sit on the boards of directors for multiple companies". can create a power elite.
+- Dimaggio + Powell: institutional isomorphism: why businesses that evolve in diff ways have similar org structures
+- Isomorphism: "a constraining process that forces one unit in a population to resemble other units that face the same set of environmental conditions"
+- new institutionalism school: (of sociology): develop sociological view of institutions (vs economic)
 
 ## Ferguson: Colvin, Descent Into Madness
 

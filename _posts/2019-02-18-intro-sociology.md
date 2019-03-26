@@ -5,6 +5,32 @@ categories:
 ---
 # L5
 
+## Conley Chapter 5
+- dyad,triad. Dyads are most intimate
+- Quantiative Aspects of Groups: Georg Simmel
+- Triad roles: mediator, tertius gaudens (3rd member who benefits from contact/conflict bw other 2), Divide et impera (intentionally drives wedge)
+- larger than a triad? Small groups, parties, large groups.
+- Small group: face to face interaction, unifocal perspective, lack of formal arrangements, certain level of equality
+- party: multifocal.
+- large group: formal structure that mediates structure and status differentiation (eg professor and students)
+- Charles Horton Cooley: primary/secondary groups.
+- Primary: limited membership. intimate f2f relationships that strongly influence attitudes/ideals (eg family/friends)
+- Secondary: impersonal, instrumental relationships. Means to an end. eg labor union
+- Group Conformity.
+- Solomon Asch experiments (1940s): which line longer
+- in group ( powerful usu. majority ) vs out group (stigmatized oft. minority). Significance by ability to define normal vs abnormal
+- reference group: "group that helps us understand .. relative position in society to other group"
+- social network: set of relations/dyads held tgt by individuals
+- tie: content of particular relationship
+- narrative: set of stories in a set of ties (eg university)
+- Embeddedness: "degree to which ties are reinforced through indirect paths within a social network"
+- Strength of weak ties: "notion that relatively weak ties often turn out to be quite valuable because they yield new information"
+- Structural hole: "gap between network clusters, or even
+two individuals, if those individuals (or clusters) have complementary resources". (possibility of a tie) 
+- 6 deg of freedom (stanley milgram)
+
+
+
 ## Ferguson: Colvin, Descent Into Madness
 
 - The New Mexico State Prison Riot

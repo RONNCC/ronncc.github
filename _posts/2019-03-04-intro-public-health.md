@@ -4,6 +4,25 @@ categories:
   - Class
 ---
 
+# Week 8: Midterm and Obesity debate
+
+## Define 
+- healthy: [18.5, 24.9] BMI
+- overweight: [25,29.9] BMI
+- obese: [30,infinity) BMI
+- Body Mass Index: ratio of height to weight
+
+## Discuss
+- Obesity Debate
+- the scientific disagreement about the health impacts of increased size
+- Good nutrition
+- Physical activityBenefits
+- Public health strategies for increasing access to good nutrition and physical activity through community level changes
+	- eg Ban fast food, penalize parents of obese kids, tax soda
+    
+## Weight
+
+
 # 7 Health status by Age -- of adolescents, young adults, and adults
 
 ## Define

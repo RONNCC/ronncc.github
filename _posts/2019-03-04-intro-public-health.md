@@ -16,7 +16,12 @@ categories:
 - Obesity Debate
 - the scientific disagreement about the health impacts of increased size
 - Good nutrition
-- Physical activityBenefits
+	- >= 5 servings fruit/veg /day. Lean proteins, more whole grains, water
+    
+- Physical activity benefits
+	- any activity that Enhances your overall fitness and well-being. E.g. walking to the store for pt. of milk or gardening
+    - Benefits:Reducing stress, improving digestion, Increasing blood flow, Lowering blood pressure, improve flexibility, heart health, more.
+    - CDC Recommends >= 1 hr/day, 30m/day adults
 - Public health strategies for increasing access to good nutrition and physical activity through community level changes
 	- eg Ban fast food, penalize parents of obese kids, tax soda
     

@@ -20,8 +20,42 @@ categories:
 - Public health strategies for increasing access to good nutrition and physical activity through community level changes
 	- eg Ban fast food, penalize parents of obese kids, tax soda
     
-## Weight
+## Obesity Bad View: American Weight Trends
+- On average increasing
+- Majority of Americans are overweight/obese
+- Health Inequities:
+	- More likely obese: Women -> Men; African Am, Latino, Native Ams, Pac. Islanders -> Whites/Asians; Lower Income -> Higher Income (except African Am/Latino where higher income -> more risk of obesity).
+- Overweight/Obese Increased risk: Coronary heart disease, Type 2 diabetes, Cancers (endometrial, breast, and colon), Hypertension (high blood pressure), Dyslipidemia (for example, high total cholesterol or high levels of triglycerides), stroke, ... and more 
 
+## Obesity = Fatphobia and distracting from real issues View
+- Dangers of increased size exaggerated
+- Estimates of negative health impacts flawed. Also possible to be fat + fit/ thin + unfit
+- Suggest widespread cultural bias against fat people
+- Arguments they make:
+	- Same period The average weight increased deaths from heart disease stroke decreased life expectancy grown
+    - CDC Study: Overweight category longer life expectancy of the normal rate
+    - overweight: Greater risk for diabetes + high blood pressure **but** lower risk osteoporosis/other conditions
+    - By stigmatizing Thought we make fat peoples healthcare worse e.g. postponing visits to doctors
+    
+## Health At Every Size alternative paradigm
+- "Except at statistical extremes, body mass index (BMI) - or amount of body fat - only weakly predicts longevity. Most epidemiological studies find that people who are overweight or moderately obese live at least >= long as normal weight people
+- Analysis of the National Health and Nutrition Examination Surveys I, II, and III, ... determined
+that greatest longevity was in the overweight category
+- Americans’ Changing Lives study: “when socioeconomic and other risk factors are controlled for, obesity is not a significant risk factor for mortality; and... for those 55 or older, both overweight and obesity confer a significant decreased risk of mortality.”
+- **Obesity Paradox**: Obesity associated with longer survival in many diseases
+- Assumption: Fat is significantly morbidity risk (causation less established)
+- Weight cycling (lose,gain pretty common): Results in increased inflammation + lots of other things
+- Type 2 Diabetes: Increasing evidence of poverty and marginalization more strongly associated type 2 diabeters, than conventional factors such as weight diet or activity
+- Assumption: Weight loss prolong life. Evidence: Most observational studies suggest weight loss (in obese indiv.) increases risk of premature death
+- Assumption: Anyone can lose weight and keep it off. Evidence: Long-term follow-up studies document majority of individuals regain most weight even if maintain diet/exercise program
+- Assumption: Weight loss is a good goal. But: weight cycling risk to health, loss of bone mass, increased psych stress/cortisol, stigma/discrimination
+- Assumption: Only way to improve health is to lose weight. But: so few people lose + keep off weight. Unknown if obese Individual weight loss reduces disease risk to same level As those who never obese. Most health indicators improved by changing health behaviors
+- Danger of Focus on overweight/obesity: Overtesting healthy overweight, Undertesting unhealthy thin. Negative body image is a health risk.
+- Health At Every Size: Encourages body Acceptance as opposed to weight-loss/Maintenance
+	- Reliance on internal processes such as hunger vs diets
+    - Supports active embodiments (joyful movement) vs structured exercise
+    - Results: Improved eating habits, more frequent/sustainable physical activity, decreased depression, increased metabolic health
+    
 
 # 7 Health status by Age -- of adolescents, young adults, and adults
 

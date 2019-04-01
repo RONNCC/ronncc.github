@@ -55,7 +55,12 @@ that greatest longevity was in the overweight category
 	- Reliance on internal processes such as hunger vs diets
     - Supports active embodiments (joyful movement) vs structured exercise
     - Results: Improved eating habits, more frequent/sustainable physical activity, decreased depression, increased metabolic health
-    
+
+## Obesity Contributors
+- Sleep debt, Changes in breast feeding, Average maternal age (older mom correlates more obese child), Epigenetics (environment in utero affects genes), Heating/cooling (body spends less energy), Certain Pharmaceuticals, Cyclical dieting, Discrimination.
+
+![Environment Diagram](https://softchalkcloud.com/lesson/files/qdecM8K5YbRwaC/paste_image3.jpg)
+
 
 # 7 Health status by Age -- of adolescents, young adults, and adults
 

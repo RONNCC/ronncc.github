@@ -29,6 +29,7 @@ title: Interesting Links
 
 ## Life Skills 
 - [How a car works guide](https://www.howacarworks.com/)
+- [Busy Person patterns](https://hillside.net/plop/2006/Papers/Library/PLoP%20Busy%20Person%20Pattern%20v8.pdf)
 
 ## Reading
 - [LeVar Burton Reads Short Stories](https://art19.com/shows/levar-burton-reads)

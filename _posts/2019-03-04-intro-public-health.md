@@ -4,6 +4,271 @@ categories:
   - Class
 ---
 
+# Week 11: Alcohol, Tobacco and Other Drugs
+
+
+## Goals
+By the end of this module, students will be able to
+
+- Identify personal and community consequences of alcohol and other drug abuse.
+- Describe the trends of alcohol and other drug use by high school students, and by the US population as as whole.
+	- Drug use is increasing
+    - Highest among people in their late teens and twenties
+- Define drug use, misuse, abuse and dependence.
+- List and discuss risk factors for the abuse of alcohol and other drugs.
+- Explain why alcohol is considered the number one drug abuse problem in the United States (even though tobacco causes more deaths, in the long run).
+- Describe the health risks of tobacco.
+- Define the terms over-the-counter drugs, prescription drugs, controlled substances, and illicit (illegal) drugs, and provide examples.
+- List and explain four elements of drug abuse prevention and control: education, treatment, public policy and enforcement.
+- Give an example of primary, secondary, and tertiary prevention activities in drug abuse prevention and control programs.
+- Summarize the federal government's drug abuse control efforts (at least, as they are summarized in ICPH).
+- List and describe an effective community-based drug abuse prevention program and an effective school-based drug abuse prevention program.
+- Discuss examples of substance abuse prevention and treatment programs, including workplace prevention programs, voluntary health agencies and self-help support groups.
+- Discuss abstinence and harm reduction as two different frameworks, and some of the different approaches to the treatment of addiction.
+- Discuss some negative health effects of the "war on drugs"
+- Discuss the drivers of the opioid epidemic and its effects
+
+## Drug Abuse Specifics
+
+Six Major Groups of Abused Drugs
+
+1. Anabolic Steroids
+2. Club Drugs/Designer Drugs
+3. Dissociative (Detachment) Drugs
+4. Illicit Opiates/Narcotics
+5. Illicit Stimulants
+6. Psychedelic (Mind-Altering) Drugs
+
+**Anabolic Steroids (roids, juice, gym candy, pumpers)**
+Synthetic versions of the hormone testosterone.
+
+*Effects* : No intoxication, easier to grow muscle
+
+*Administration*: Injected, swallowed, Applied to skin
+
+*Dangers*: Aggression, Cancer, Heart disease, Stunted growth; Males:   prostate cancer, reduced sperm production, shrunken testicles, breast enlargement; Females: menstrual irregularities, development of beard and other masculine characteristics
+
+**Club Drugs/Designer Drugs**
+
+Drugs in this category tend to be used by young adults at bars, concerts, nightclubs, and parties.
+This class is especially dangerous as some are used in kidnappings, sexually assault, and rape.
+
+*Effects*
+
+Increased awareness of senses, Mild hallucinations, Increased tactile sensitivity, Empathic feelings
+
+*Administration Methods*
+
+Swallowed, Snorted, Injected
+ 
+*Dangers*
+
+Anxiety, Chills, Sweating, Muscle cramping, Sleep disturbances, Depression, Impaired memory, Fatal overdoses
+ 
+**Dissociative (Detachment) Drugs**
+
+These are drugs that give a person the feeling of being separate from their body and environment.
+
+*Effects*
+
+Analgesia
+Numbness
+Hallucinations
+
+*Administration Methods*
+
+Swallowed
+Smoked
+Injected
+ 
+*Dangers*
+
+Anxiety
+Tremors
+Memory loss
+Nausea
+Psychosis
+Aggression
+Violence
+Slurred Speech
+
+**Illicit Opiates**
+
+
+Opiates are a group of HIGHLY addictive drugs from the poppy plant.
+
+They are used as pain relievers, anesthetics, and sedatives.
+
+Illegal use of prescription opiates are considered illicit opiates.
+
+ 
+**Heroin**
+ 
+*Effects*
+
+Euphoria
+Drowsiness
+ 
+
+*Administration Methods*
+
+Injected
+Smoked
+Snorted
+Swallowed
+ 
+
+*Dangers*
+
+Impaired coordination
+Sedation
+Slowed or arrested breathing
+Bloodborne diseases such as hepatitis & HIV
+Addiction
+Fatal overdoses
+ 
+**Illicit Stimulants**
+
+These are substances that excite the activity of the brain. eg. Cocaine, Amphetamines, Methamphetamines
+ 
+
+*Effects*
+
+Hyperactivity/talkativeness
+Increased energy & alertness
+Reduced appetite
+ 
+
+*Administration Methods*
+
+Snorted (cocaine only)
+Smoked
+Injected
+Swallowed
+ 
+
+*Dangers*
+
+Anxiety
+Irritability
+Suspiciousness
+Insomnia
+Increased heart beat
+Heart attack
+Fatal overdose
+  
+**Psychedelics**
+
+These drugs alter your way of thinking and how you see the world.  They can be broken up into:
+
+- Cannabinoids (marijuana, hashish)
+- Hallucinogens (LSD)
+ 
+
+Marijuana
+ 
+
+Effects
+
+Euphoria
+Relaxation
+Distorted Sensory Perception
+ 
+
+Administration Methods
+
+Smoked
+Swallowed
+ 
+
+Dangers
+
+Impaired Learning & Memory
+Panic Attacks
+Lung Infections
+Lower Testosterone Levels and Sperm Numbers
+In pregnant women, it affects the fetus and results in developmental difficulties in the child
+ 
+
+Hashish
+Active Ingredient: plant resins from Cannabis Plant
+(Boom, Gangster, Hash, Hash Oil, Hemp)
+
+ 
+
+Effects
+
+Euphoria
+Relaxation
+Slowed reaction time
+Distorted sensory perception
+Impaired balance and coordination
+ 
+
+Administration Methods
+
+Smoked
+Swallowed
+ 
+
+Dangers
+
+Increased heart rate and appetite
+Impaired learning & memory
+Anxiety
+Panic attacks
+Psychosis/cough
+Frequent respiratory infections
+ 
+
+LSD - Lysergic Acid Diethylamide
+(Acid, Blotter, Cubes, Microdot, Yellow Sunshine, Blue Heaven)
+
+ 
+
+Effects
+
+Altered states of perception and feeling
+Hallucinations
+ 
+
+Administration Methods
+
+Swallowed
+Absorbed through mouth tissue
+ 
+
+Dangers
+
+Impulsive behavior
+Flashbacks
+Hallucinations
+Chronic mental disorders
+ 
+
+Emerging Trends
+
+
+Bath Salts
+
+The term "bath salts" refers to an emerging family of drugs containing one or more synthetic chemicals similar to an amphetamine-like stimulant found naturally in the Khat plant.
+  Remember, these are NOT for human consumption.
+ 
+
+Krokodil (desomorphine)
+
+This flesh eating opioid is similar to heroin but has gained attention due to the major damage it causes to veins and soft tissues in the body.
+
+ 
+
+
+
+
+
+# Week 10: Health of Racial/Ethnic Populations, Cultural Competency & Cultural Humility
+
+# Week 9: Older Adults
+
 # Week 8: Midterm and Obesity debate
 
 ## Define 

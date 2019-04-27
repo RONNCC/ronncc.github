@@ -213,6 +213,7 @@ https://www.jyotirmoy.net/posts/2015-12-29-springer-openaccess.html
 - [Ask HN: Primer on Cryptocurrencies](https://news.ycombinator.com/item?id=14659775)
 - [Fermat's Library](http://fermatslibrary.com/)
 - [Ask HN: Good Papers for Beginners](https://news.ycombinator.com/item?id=15695326)
+- https://www.anmolsarma.in/post/books-2015/
 
 
 ## Tutorials

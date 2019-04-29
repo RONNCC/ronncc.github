@@ -7,6 +7,25 @@ categories:
 # Week 12: Healthcare Delivery, Insurance and Health Policy
 
 
+By the end of this module, you should be able to
+
+- Describe the eligibility requirements in general terms, and compare the coverage, of three long-standing public health insurance systems: Medicaid (Medi-Cal, in California); Medicare; and CHIP.
+- Discuss briefly the history of healthcare in the United States and how it is evolving.
+- Describe the basic characteristics of Healthy San Francisco program and how it differs from health insurance.
+- Contrast different solutions to provision of healthcare based on insurance system (e.g., mixed public-private system in the U.S., national system in U.K., single-payer system in Canada, and regulated private system in Germany)
+- Characterize the spectrum of healthcare delivery, including public health practice; medical practice; long-term care or practice; and end-of-life care or practice.
+- Give examples of healthcare providers and distinguish their roles, including whether they can practice independently (as medical doctors and oestopaths can, for example) or under the supervision of a provider with higher training; whether they practice in allopathic medicine or alternative/complementary medicine; and generally what they do, as a doctor, nurse, physician's assistant, allied health or public health professional.
+- Describe different types of healthcare facilities and their functions (inpatient, outpatient, acute care, long-term care).
+- Identify some major concerns with the health care system in the United States.
+- Discuss the various ways of reimbursing health care providers, including the concept of insurance.
+- Explain what a health insurance policy is, including terms like deductible, co-insurance, copayment (copay), fixed indemnity, exclusion, and pre-existing condition.
+- Define managed care (e.g, HMO or PPO) and discuss some of the advantages and disadvantages of managed care.
+- Define the terms health maintenance organization (HMO), preferred provider organization (PPO), and point-of-service option.
+- Discuss what the Affordable Care Act, or ACA ("Obamacare") does and how it works.
+- Describe Covered California, the healthcare marketplace or exchange set up under the ACA in California.
+- Describe the legal challenges to the law and the Supreme Court decision that upheld the ACA (in basic terms), as well as recent legal challenges that still may reshape the ACA.
+- Compare the ACA with the proposed Republican replacement legislation -- while the Republican bills in 2017 failed in the Senate and therefore did not become law, there are new promises from the Republican administration to replace the ACA, so some of these same ideas may be revived.
+- Identify ways that the implementation of the ACA is changing under the Trump Administration, even while the ACA remains in effect.
 
 # Week 11: Alcohol, Tobacco and Other Drugs
 

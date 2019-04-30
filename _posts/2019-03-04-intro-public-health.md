@@ -27,6 +27,18 @@ By the end of this module, you should be able to
 - Compare the ACA with the proposed Republican replacement legislation -- while the Republican bills in 2017 failed in the Senate and therefore did not become law, there are new promises from the Republican administration to replace the ACA, so some of these same ideas may be revived.
 - Identify ways that the implementation of the ACA is changing under the Trump Administration, even while the ACA remains in effect.
 
+## Part 1 : 12.3 Lesson: Healthcare Delivery
+
+- Safety Net Providers serve un/under insured / public health insurance
+- Healthy SF: SF's Health Access Program for uninsured SF Residents.
+- socialized medicine: healthcare system that provides universal access (healthcare for everyone) and whose payment system is directly or indirectly controlled by the government.
+- US fairly unique in it's healthcare "system".  UK (national healthcare), Canada (single payer insurance), Germany/Switzerland/Netherlands ( privately run health insurance + providers ) 
+	- ACA 2010: Extends coverage, curbs health insurance abuse, initiate QoC improvements
+- Lack of insurance (2012 - 47m+ uninsured)
+- Medicare: All citizens/legal residences > 65yr, who worked enough hours to be eligible; includes care, hospitalizations, prescription drugs. Some disabled condition coverage. Federal Government
+- Medicaid (California: Medi-Cal): Low income, some disabled conditions; medical care/hospitalization/some dental/some inhome. Part fed gov, admin by states.
+- CHIP (California: Healthy Families): Health insurance for children in familiies with income too high to qualify for Medicaid/MediCal but still under a certain amount. State Admin. 
+
 # Week 11: Alcohol, Tobacco and Other Drugs
 
 

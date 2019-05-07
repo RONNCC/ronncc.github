@@ -5,6 +5,7 @@ categories:
 ---
 # Week 13: Environmental Health including Climate Change
 
+- waste is bad
 
 # Week 12: Healthcare Delivery, Insurance and Health Policy
 

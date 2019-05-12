@@ -3,9 +3,16 @@ published: true
 categories:
   - Class
 ---
+# Week 14: Intentional and Unintentional Injuries
+
+Goals
+![table](https://i.imgur.com/tks9ieu.png)
+
+
 # Week 13: Environmental Health including Climate Change
 
 - waste is bad
+
 
 # Week 12: Healthcare Delivery, Insurance and Health Policy
 

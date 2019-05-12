@@ -8,6 +8,11 @@ categories:
 Goals
 ![table](https://i.imgur.com/tks9ieu.png)
 
+## Define
+- Unintentional injuries are those that occur without a person intending to cause harm
+- Intentional injuries are the result of a deliberate use of violence
+
+
 
 # Week 13: Environmental Health including Climate Change
 

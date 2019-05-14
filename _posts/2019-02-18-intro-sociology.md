@@ -3,6 +3,28 @@ published: true
 categories:
   - Class
 ---
+## Chapter 6
+
+Sociologists: people either deviate or conform: 
+
+"Why do they deviate" group: personality type, differential association, structural strain, anomie, labeling. 
+
+"Why do they conform" group: subcultural, control.
+
+social control: attempts by society to regulate people's thoughts and behaviors in ways that limit or punish deviance ; negative/positive sanctions. 
+
+folkways: traditional behaviors (not formally sanctioned)
+formal sanctions: laws = negative sanctions
+
+biological view (biological essentialist): cesare lombroso (1876) - "criminals are subhuman". suggested physical characteristics. william sheldon 1940/1950
+
+psych view: personality as a matter of socialization (deviance is failed socialization). 1967 - Dinitz + Reckless. Containment theory - deviance = impulse control 
+
+Deviance varies by cultural norms
+
+
+
+
 # L7
 
 ## Conley Chapter 14

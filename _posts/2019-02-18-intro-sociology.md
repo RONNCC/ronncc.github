@@ -29,7 +29,10 @@ Hegemonic masculinity: condition in which men are dominant and privileged, and t
 
 Gender roles: sets of behavioral norms assumed to accompany one’s status as a male or female
 
-**The Woman Question**
+
+
+## The Woman Question
+
 "What explains the nearly universal dominance of men over women"
 
 Patriarchy: a nearly universal system involving the subordination of femininity to masculinity
@@ -47,8 +50,43 @@ Early anthropology assumed every society had certain structures (eg family, divi
     - Functionalists presume need for function, preexists phenomenom and that other structures couldnt fill in
     - Doesnt explain changing structures over history
    
-**Psychoanalytic Theories:**
+### Psychoanalytic Theories
 - Freudian theorists have provided perhaps an overly individualistic, psychoanalytic account of sex roles
+- Sigmund Freud: "Anatomy is destiny" (but also family socialization)
+- Kids develop personality structures through parent interactions
+- Nancy Chodorow (1978): "Why Women predominantly caregivers?" - Parents' unequal involvement in child rearing was partial cause. Mothering by woman is reproduced in the cycle of role socialization. Argued that egalitarian relations possible if men shared the mothering.
+- Carol Gilligan (1982): Women and men have different ways of thinking. Women make major life decisions based on "ethics of care". Women view world as relationships vs men as rules. 
+- Freud assumes a biological reductionist Setting (eg nuclear /w WASP middle class family /w stay@home mother, working father)
+- Also many Freud psychoanalysts assume binary sex/gender system
+
+### Conflict Theories
+- Socialist feminists claimed that the root of all social relations including relations of production stems from unequal gender relations
+- Variant of essentialism. Posits world divided into two groups: men women pitted against each other in struggle for resources which women always lose
+
+### Microinteractionist theories
+- Candace West/Don H Zimmerman "Doing Gender" (1987): Gender is not fixed going into interactions, But a product of those interactions - to be man/woman = perform masculinity/femininity constantly. 
+- Social constructionists Review generals is having open-ended scripts
+
+### Black Feminism
+- Black feminists make the case that early liberal feminism was largely by, about, and for white middle-class women
+- eg Betty Friedan in _The Feminine Mystique_ ignored Experiences of thousands of working class and nonwhite women already working, sometimes holding down multiple jobs
+- Black women experience motherhood in ways that differ from the white masculinist ideal of the family
+
+### Postmodern Theories
+- Anthropologist Oyeronke Oy Argues the woman question is a product of uniquely Western thought in cannot be applied African societies; System of categories, distinct males and females, indicates western culture logic: biologic
+
+### Middle Range Theories
+- Merton called middle range theories: Connect Day-to-day experiences to larger social forces
+- Connell in Gender and Power (1987): Middle ground approach to gender. Used Anthony Giddens’s structuration theory to claim that the social and the personal always depend on each other. Extends structures as a kind of feedback loop, weaving individual practice back to social institutions which in turn influence and socialize individuals into gender beings
+- Question becomes less to explain universal male dominance and more a matter of attempting to account for help people navigate with instructors like gender
+
+## Sociology in the Bedroom
+high level summarized
+
+- Different norms for behavior re: power dynamics in different cultures
+- Marxist feminists argue sexuaility in American is an expression of unequal binary gender power balance
+- 
+
 
 
 ## Chapter 7: Stratification

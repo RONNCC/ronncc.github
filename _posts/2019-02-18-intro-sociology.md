@@ -3,6 +3,24 @@ published: true
 categories:
   - Class
 ---
+## Chapter 8: Gender
+
+Feminism:  consciousness raising movement to get people to understand that gender is an organizing principle of life
+
+Sex: biological differences that distinguish males from females
+
+Sexuality: desire, sexual preference, sexual identity, and behavior
+
+Gender: social position;social arrangements built around normative sex categories
+
+**Sex: Process in the Making:**
+- Gayle Rubin "The Traffic in Women: Notes on Political Economy of Sex" called social construct of gender categories based on natural sex differences "sex/gender system"
+- Intersex is medical condition
+
+Essentialism: line of thought that explains social phenomena in terms of natural ones
+
+Biological determinism: line of thought that explains social behavior in terms of who you are in the natural world
+
 ## Chapter 7: Stratification
 
 Stratification: structured social inequality / systematic inequalities amonung groups of people that arise as intended or unintended consequencs of social processes and relationships
@@ -396,5 +414,6 @@ https://www.youtube.com/watch?v=YnCJU6PaCio
 - See the strange in the familiar, study society, how sociology differentiates itself, what sociology can do
 
 
+Quotes/Paraphrases from 
 Conley Book: https://www.amazon.com/You-May-Ask-Yourself-Introduction-dp-039391299X/dp/039391299X
-Ferguson Reader: https://www.amazon.com/Mapping-Social-Landscape-Readings-Sociology/dp/150636828X
+& Ferguson Reader: https://www.amazon.com/Mapping-Social-Landscape-Readings-Sociology/dp/150636828X

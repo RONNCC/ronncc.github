@@ -21,6 +21,36 @@ Essentialism: line of thought that explains social phenomena in terms of natural
 
 Biological determinism: line of thought that explains social behavior in terms of who you are in the natural world
 
+**Gender: What does it take:**
+- Gender systems imply social constructions
+- > 2 Gender Systems: Navajo Tribes (nadle), India (hijras)
+
+Hegemonic masculinity: condition in which men are dominant and privileged, and this dominance and privilege is invisible
+
+Gender roles: sets of behavioral norms assumed to accompany one’s status as a male or female
+
+**The Woman Question**
+"What explains the nearly universal dominance of men over women"
+
+Patriarchy: a nearly universal system involving the subordination of femininity to masculinity
+
+- Rubin: Sex/Gender System (Biological Sex -> Asymmetric Gender Status)
+- Rosaldo: Because women associated with less prestigious private sphere
+- Ortner: Because women furthermore identified with nature 
+
+Structural functionalism: theoretical tradition claiming that every society has certain structures (the family, the division of labor, or gender) that exist in order to fulfill some set of necessary functions (reproduction of the species, production of goods, etc.).
+
+Early anthropology assumed every society had certain structures (eg family, division of labor).
+
+- Parson's Sex Role Theory: Talcott Parsons’s theory that men and women perform their sex roles as breadwinners and wives/ mothers, respectively, because the nuclear family is the ideal arrangement in modern societies, fulfilling the function of reproducing workers.
+	- Problem: Tautological (things work because they work)
+    - Functionalists presume need for function, preexists phenomenom and that other structures couldnt fill in
+    - Doesnt explain changing structures over history
+   
+**Psychoanalytic Theories:**
+- Freudian theorists have provided perhaps an overly individualistic, psychoanalytic account of sex roles
+
+
 ## Chapter 7: Stratification
 
 Stratification: structured social inequality / systematic inequalities amonung groups of people that arise as intended or unintended consequencs of social processes and relationships

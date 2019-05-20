@@ -3,7 +3,81 @@ published: true
 categories:
   - Class
 ---
-## Chapter 6
+## Chapter 7: Stratification
+
+Stratification: structured social inequality / systematic inequalities amonung groups of people that arise as intended or unintended consequencs of social processes and relationships
+
+**Views of Inequality:**
+- Rousseau:
+	- Physical (innate)
+    - Social/Political (goods/luxuries/ all the things)
+    - If you have 1 pizza and someone has 10 slices and you have 0 but you need some to live you might fight them for it 
+- Scottish Enlightenment + Malthus:
+	- Inequality as a means for social progress - people do work
+    - Malthusian Poverty Trap: Inequality necessary for prevention of overpopulation/starvation
+- Hegel
+	- Master-slave dialectic
+    - Slave/master dependent on each other
+    - Society marching from few master-many slave -> society of more free men/women (equality).
+
+**Standards of Equality:**
+- Ontological Equality: Notion that everyone is created equal at birth
+- Equality of Opportunity: Idea that everyone has an equal change to achieve wealth, social prestige, power because same rules of the game (eg Jim Crow laws are not these; stifles meritocracy)
+- Bourgeous Society: Society of commerce (modern capitalist eg) in which max of profit is primary benefit incentive. 
+- Equality of condition: Idea that everyone should have equal starting point (affirmative action)
+- Equality of outcome: position that argues each player must end up with the same amount regardless of the fairness of the game (eg Marxist). Eliminates incentives of the Scottish Enlightenment thinkers.
+- Free Rider Problem (ie Tragedy of the Commons): When more than one person is responsible for getting someone done, the incentive is for each to shirk responsibility and hope others pull weight.
+
+**Forms of Stratification:**
+Many forms, eg by age (some tribes determines social prestige + honor, vs in the youth obsessed culture of the US it's the reverse), birth order (inheritance), gender, race, ethnicity.
+
+- Estate System: politically based, characterized by limited social mobility. Feudal Europe-18th century, American South before Civil War. Political basis. Laws written to enforce eg voting writes only for land owners. eg (clergy,nobility, commoners). 
+- Caste System: Religion based, no social mobility. Previously in India (varna system).
+- Class System:
+	- Economically based, characterized by cohesive oppositional groups and somewhat loose social mobility. Class depends on economic position. 
+    - Marx:
+    	- every means of production has its own social relations, employing class bourgeoisie, working class proletariat.  Class is relational. 
+		- Contradictionary class locations: 2 classes doesnt adequately capture social world and many people fall in between these pure classes (eg self employed, managers).
+    - Weber: Class members distinguishe d by similar commercial marketplace value via property/labor
+    	- Distinguished by property/lack of property
+    - Marx is antagonistic and exploitive vs Weber is gradated and not relational
+- Status Hierarchy System: based on social prestige. 
+	- Status determined by what society thonks of the lifestyle of the community to which you belong. Those without property can belong if they have same lifestyle. eg Professors discuss scholarly issues, teach classes and read. They have a certain status even though income varies. Status groups can be other than work eg leisure kind (skate puns) or membership in exclusive organization but tend to be work. 
+- Elite-Mass Dichotomy System: System /w Governing Elite, few leaders who broadly hold power.
+	- Vilfredo Pareto in Mind and Society thinks +1
+    - C Wright Mills thinks -1
+    - Pareto:
+      - Pareto Principle (small, cause large effect, 80/20)
+      - Pareto believes in meritocracy
+    - Mills:
+    	- Argues negative, neither natural/beneficial
+        - 3 major institutional forces: Economic, Political, Military. 
+    - Pareto views elite status as reward for talent, Mills see unequalpower/rewards as determining position.
+    - Pareto likes power centralization, Mills warns of dangers and consolidated decision making
+    - Mills: coordination among elite entrenched is self increasing. Revolving door
+
+- Socioeconomic Status: individuals position in stratified social order
+- Upper Class, Middle Class, Poor
+- Middle Class: nonmanual jobs, pay significantly more than poverty line. Definition Debated and expansive
+	- Traditionally white collar workers + working class of individuals who work manually
+    - Post WW2 led to enrichment of many manual workers
+
+**Global Inequality:**
+- globalization commonly cited
+- inequalities through colonialism and unequal development
+- some explanations geography / strength of social/political institutions
+
+**Social Reproduction vs Social Mobility:**
+- social mobility: movement between different positions iwithin a social stratification system
+	- horizontal vs vertical
+- structural mobility: inevitable due to changes in the economy
+- exchange mobility: if we hold fixed the changing distribution of jobs, individuals trade jobs not 1-1 but in a way that balances out
+- status attainment model: approach that ranks individuals by socioeconomic status, incl income and educational attainment and seeks to specify attributes characteristic of people who end up in more desirable occupations.sß
+    
+
+
+
+## Chapter 6: Deviance + Crime 
 
 Sociologists: people either deviate or conform: 
 

@@ -85,7 +85,8 @@ high level summarized
 
 - Different norms for behavior re: power dynamics in different cultures
 - Marxist feminists argue sexuaility in American is an expression of unequal binary gender power balance
-- 
+
+... other things
 
 
 

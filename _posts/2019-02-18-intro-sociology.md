@@ -3,7 +3,26 @@ published: true
 categories:
   - Class
 ---
-## Chapter 6
+## Chapter 7: Stratification
+
+Stratification: structured social inequality / systematic inequalities amonung groups of people that arise as intended or unintended consequencs of social processes and relationships
+
+Views of Inequality: 
+- Rousseau:
+	- Physical (innate)
+    - Social/Political (goods/luxuries/ all the things)
+    - If you have 1 pizza and someone has 10 slices and you have 0 but you need some to live you might fight them for it 
+- Scottish Enlightenment + Malthus:
+	- Inequality as a means for social progress - people do work
+    - Malthusian Poverty Trap: Inequality necessary for prevention of overpopulation/starvation
+- Hegel
+	- Master-slave dialectic
+    - Slave/master dependent on each other
+    - Society marching from few master-many slave -> society of more free men/women (equality).
+
+
+
+## Chapter 6: Deviance + Crime 
 
 Sociologists: people either deviate or conform: 
 

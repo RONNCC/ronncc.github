@@ -53,12 +53,14 @@ title: Interesting Links
 [A Mathematician's Lament](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf)
 
 ### Set Theory
-[Arithmetic Representability](http://www.cs.cornell.edu/courses/cs4860/2009sp/lec-22.pdf)
-
+- [Arithmetic Representability](http://www.cs.cornell.edu/courses/cs4860/2009sp/lec-22.pdf)
 - [Constant Time Math (Rotations)](https://en.wikipedia.org/wiki/CORDIC)
 
 ### Encyclopedic/Lookup/Reference
 - [The Matrix Cookbook](http://www2.imm.dtu.dk/pubdb/views/edoc_download.php/3274/pdf/imm3274.pdf)
+
+### Applied
+- [Vickrey Auctions @ Pricing Keyboards](https://kevinlynagh.com/notes/pricing-niche-products/)
 
 ## CS 
 

@@ -191,3 +191,6 @@ http://www.hbo.com/documentaries/only-the-dead-see-the-end-of-war/synopsis/about
 
 ## Ballroom
 - http://www.ballroomguide.com/workshop/latin/cha_cha/three_cha_chas_fwd_back.html
+
+## Tech Talks
+- [Kafka Mgmt @ LI](https://www.slideshare.net/JiangjieQin/introduction-to-kafka-cruise-control-68180931)

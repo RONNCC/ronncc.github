@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Module 2 - Behavior, Attitudes, Culture, Attraction, and Intimacy
 

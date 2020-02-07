@@ -14,9 +14,15 @@ Theoretical Perspectives on Personality:
     -  traditionally used dream inter- pretation to uncover the unconscious thoughts, feelings, and impulses as a main form of treatment of neurosis and mental illness.
     - After Freud, these theorists moved away from the importance of sexuality and more toward social and cultural forces.
 - Humanistic-Existential Theories
+	- people strive toward meaning, growth, well-being, happi- ness, and psychological health
+    - Existential theorists assume that not only are we driven by a search for meaning, but also that negative experiences such as failure, awareness of death, death of a loved one, and anxiety, are part of the human condition and can foster psychological growth
 - Dispositional Theories
+	- unique and long-term tendencies to behave in particular ways are the essence of our personality
+    - five main trait dimensions in human personality
 - Biological-Evolutionary Theories
+	- Behavior, thought, feelings, and personality are influenced by differences in basic genetic, epigenetic, and neurological systems between individuals. 
 - Learning-(Social) Cognitive Theories
+	- All behaviors are learned through association and/or its consequences (whether it is reinforced or punished). To shape desired behavior we have to understand and then establish the conditions that bring about those particular behaviors.
 
 
 Quotes / test probably sourced from https://www.amazon.com/Duane-P-Schultz-Theories-Personality/dp/B00HTK3WWM

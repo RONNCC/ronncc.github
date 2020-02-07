@@ -29,6 +29,10 @@ Theoretical Perspectives on Personality:
 ![KnOYG1B.png]({{site.baseurl}}/_posts/KnOYG1B.png)
 
 
+**psychology of science** :look at personal traits of scientists. The psychology of science studies both science and the behavior of scientists; 
 
+**Dimensions for a Concept of Humanity
+**:
+- 
 
 Quotes / test probably sourced from https://www.amazon.com/Duane-P-Schultz-Theories-Personality/dp/B00HTK3WWM

@@ -10,6 +10,9 @@ published: false
 
 Theoretical Perspectives on Personality:
 - Psychodynamic Theories
+	- importance of early childhood experience and on relationships with parents as guiding forces that shape personality development
+    -  traditionally used dream inter- pretation to uncover the unconscious thoughts, feelings, and impulses as a main form of treatment of neurosis and mental illness.
+    - After Freud, these theorists moved away from the importance of sexuality and more toward social and cultural forces.
 - Humanistic-Existential Theories
 - Dispositional Theories
 - Biological-Evolutionary Theories

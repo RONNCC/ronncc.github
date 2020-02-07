@@ -24,6 +24,11 @@ Theoretical Perspectives on Personality:
 - Learning-(Social) Cognitive Theories
 	- All behaviors are learned through association and/or its consequences (whether it is reinforced or punished). To shape desired behavior we have to understand and then establish the conditions that bring about those particular behaviors.
 
+![Screen Shot 2020-02-06 at 11.31.50 PM.png]({{site.baseurl}}/_posts/Screen Shot 2020-02-06 at 11.31.50 PM.png)
+
+![KnOYG1B.png]({{site.baseurl}}/_posts/KnOYG1B.png)
+
+
 
 
 Quotes / test probably sourced from https://www.amazon.com/Duane-P-Schultz-Theories-Personality/dp/B00HTK3WWM

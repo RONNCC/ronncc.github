@@ -25,4 +25,5 @@ Theoretical Perspectives on Personality:
 	- All behaviors are learned through association and/or its consequences (whether it is reinforced or punished). To shape desired behavior we have to understand and then establish the conditions that bring about those particular behaviors.
 
 
+
 Quotes / test probably sourced from https://www.amazon.com/Duane-P-Schultz-Theories-Personality/dp/B00HTK3WWM

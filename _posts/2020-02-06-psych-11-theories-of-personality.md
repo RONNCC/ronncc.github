@@ -42,5 +42,23 @@ Personality theories differ on basic issues concerning the nature of humanity
 5. biological versus social influences on per- sonality
 6. uniqueness versus similarities
 
+**reliability**: of a measuring instrument is the extent to which it yields consistent results.
+
+**Validity** : the degree to which an instrument measures what it is supposed to measure.
+- Personality psychologists are  concerned with two types of validity:
+	1. construct validity
+    	- Construct validity is the extent to which an instrument measures some hypothetical construct
+        - Constructs such as extraversion, aggressiveness, intelligence, and emotional stability have no physi- cal existence; they are hypothetical constructs that should relate to observable behavior.
+        - Three important types of construct validity:
+        	- convergent validity
+            	- A measuring instrument has convergent construct validity to the extent that scores on that instrument correlate highly (converge) with scores on a variety of valid measures of that same construct
+            - divergent validity
+            	- An inventory has divergent construct validity if it has low or insignificant correlations with other inventories that do not measure that construct
+                - For example, an inventory purporting to measure extraversion should not be highly correlated with social desirability, emotional stability, honesty, or self-esteem. 
+            - discriminant validity
+            	- an inventory has discriminant validity if it discriminates between two groups of people known to be different. 
+                - For example, a personality inventory measuring extraversion should yield higher scores for people known to be extraverted than for people known to be introverted
+    2. predictive validity
+    	- extent that a test predicts some future behavior
 
 Quotes / test probably sourced from https://www.amazon.com/Duane-P-Schultz-Theories-Personality/dp/B00HTK3WWM

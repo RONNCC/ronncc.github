@@ -32,7 +32,13 @@ Theoretical Perspectives on Personality:
 **psychology of science** :look at personal traits of scientists. The psychology of science studies both science and the behavior of scientists; 
 
 **Dimensions for a Concept of Humanity:**
-- Personality theories differ on basic issues concerning the nature of humanity.
+Personality theories differ on basic issues concerning the nature of humanity
+
+1. determinism versus free choice
+2. pessimism versus optimism
+3. causality versus teleology
+	- causality holds that behavior is a function of past experiences, whereas teleology is an explanation of behavior in terms of future goals or purposes
+4. conscious versus unconscious determinants of behavior
 
 
 Quotes / test probably sourced from https://www.amazon.com/Duane-P-Schultz-Theories-Personality/dp/B00HTK3WWM

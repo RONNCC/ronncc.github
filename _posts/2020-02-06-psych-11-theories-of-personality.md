@@ -1,6 +1,53 @@
 ---
 published: false
 ---
+
+# Chapter 2
+
+Overview
+- Overview of Psychoanalytic Theory
+- Biography of Sigmund Freud
+- Levels of Mental Life
+	- Unconscious
+	- Preconscious
+    - Conscious
+- Provinces of the Mind
+	- The Id
+	- The Ego
+	- The Superego
+- Dynamics of Personality
+	- Drives
+		- Sex
+		- Aggression
+    - Anxiety
+- Defense Mechanisms
+	- Repression
+    - Reaction Formation
+    - Displacement
+    - Fixation
+    - Regression
+    - Projection
+    - Introjection
+    - Sublimation
+- Stages of Development
+	- Infantile Period
+      - Oral Phase
+      - Anal Phase
+      - Phallic Phase
+      	- Female Oedipus Complex
+        - Male Oedipus Complex
+	- Latency Period
+    - Genital Period
+    - Maturity
+
+
+**Sigmund Freud**
+
+
+- people searching for a magic drug to lessen pain, he found cocaine
+- tied to psychoanalysis
+
+
 # Chapter 1
 -  word “personality” originated from the Latin persona
 - **personality**: a pattern of relatively permanent traits and unique characteristics that give both consistency and individuality to a person’s behavior

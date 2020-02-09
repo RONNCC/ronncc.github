@@ -34,7 +34,7 @@ Overview
       - Oral Phase
       - Anal Phase
       - Phallic Phase
-      	- Female Oedipus Complex
+        - Female Oedipus Complex
         - Male Oedipus Complex
 	- Latency Period
     - Genital Period

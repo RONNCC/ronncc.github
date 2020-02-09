@@ -25,12 +25,12 @@ published: false
 - cathected: spending a lot of your life-giving energy pushing these feelings back down into the Unconscious
 - The more your libido is cathected, the less life-giving energy you have available to move forward in your life
 
-
-
-
 **Book Overview**
 
 - Overview of Psychoanalytic Theory
+	- Sex and Aggression are really popular
+    - Freud's proselytizers were very good at spreading it
+    - Freud is a really good speaker
 - Biography of Sigmund Freud
 - Levels of Mental Life
 	- Unconscious

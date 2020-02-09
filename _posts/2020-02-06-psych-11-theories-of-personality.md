@@ -46,14 +46,17 @@ published: true
 		- Aggression
     - Anxiety
 - Defense Mechanisms
-	- Repression
-    - Reaction Formation
-    - Displacement
-    - Fixation
-    - Regression
-    - Projection
-    - Introjection
-    - Sublimation
+	- First talked about it in 1926.
+    - Normal but can lead to compulsive/neurotic behavior.
+    - Principal Defense Mechanisms:
+      - Repression
+      - Reaction Formation
+      - Displacement
+      - Fixation
+      - Regression
+      - Projection
+      - Introjection
+      - Sublimation
 - Stages of Development
 	- Infantile Period
       - Oral Phase

@@ -23,6 +23,7 @@ published: false
         - seek sex (survival). "Kill off competitors"
 - Freudian theory: in order to push an anxiety-producing thought back into the Unconscious, the average person will say and/or do things so frantically that his (or her) behavior can be inappropriate or self-destructive
 - cathected: spending a lot of your life-giving energy pushing these feelings back down into the Unconscious
+- The more your libido is cathected, the less life-giving energy you have available to move forward in your life
 
 
 

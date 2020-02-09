@@ -14,6 +14,17 @@ published: false
     	- holding area for Unconscious thoughts that seek expression at the Conscious
     - the Unconscious
 		- hidden sexual and aggressive impulses - particularly the kind of feelings and thoughts that we don't want to acknowledge in our lives
+- Freud aligned with Darwin: we are genetically designed to seek survival
+	- 2 Unconscious motivations pushes to growth or survival
+    - Motivation 1: Eros
+    	- libido; procreate/survive
+    - Motivation 2: Thanatos
+    	- life destroying
+        - seek sex (survival). "Kill off competitors"
+- Freudian theory: in order to push an anxiety-producing thought back into the Unconscious, the average person will say and/or do things so frantically that his (or her) behavior can be inappropriate or self-destructive
+- cathected: spending a lot of your life-giving energy pushing these feelings back down into the Unconscious
+
+
 
 
 **Book Overview**

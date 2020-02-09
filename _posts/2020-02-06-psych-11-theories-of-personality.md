@@ -39,7 +39,21 @@ Overview
 	- Latency Period
     - Genital Period
     - Maturity
-
+- Applications of Psychoanalytic Theory
+	- Freud’s Early Therapeutic Technique
+	- Freud’s Later Therapeutic Technique
+	- Dream Analysis
+	- Freudian Slips
+- Related Research
+	- Unconscious Mental Processing
+	- Pleasure and the Id, Inhibition and the Ego
+	- Repression, Inhibition, and Defense Mechanisms
+	- Research on Dreams
+-  Critique of Freud
+	- Did Freud Understand Women, Gender, and Sexuality?
+	- Was Freud a Scientist?
+- Concept of Humanity
+- Key Terms and Concepts
 
 **Sigmund Freud**
 

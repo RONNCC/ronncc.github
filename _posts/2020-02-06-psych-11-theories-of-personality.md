@@ -4,7 +4,20 @@ published: false
 
 # Chapter 2
 
-Overview
+**Mini Lecture**
+- Freud's theory focuses on intrapsychic development - looking at how we carry issues from the past and how these issues affect our behaviors today as adults. 
+- Freud's theory = Psychoanalytic theory != Psychodynamic = June
+- Freud: the human mind has 3 levels of awareness:
+	- the Conscious
+    	- thoughts and feelings we can articulate
+    - the Preconscious
+    	- holding area for Unconscious thoughts that seek expression at the Conscious
+    - the Unconscious
+		- hidden sexual and aggressive impulses - particularly the kind of feelings and thoughts that we don't want to acknowledge in our lives
+
+
+**Book Overview**
+
 - Overview of Psychoanalytic Theory
 - Biography of Sigmund Freud
 - Levels of Mental Life

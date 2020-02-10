@@ -1,6 +1,16 @@
 ---
 published: false
 ---
+# Week 2
+
+**Questions**
+- What are the types of deeds?
+	- Grant Deed: transfers fee simple title with absolute ownership - basically you give everything and have no further business with it
+
+- Who are the interested parties in the deed?
+- Are their any promises or warranties? 
+- Define what is a land contract ? Who are the parties?
+
 
 
 # Week 1

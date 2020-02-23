@@ -28,6 +28,23 @@ published: true
     	- Final goal comes about as result of creative power
         - Creativity works in conjunction with heredity (brains/skills/talents) + environment (opportunities/encouragement/feedback) to help create final goal 
      - Final goal shapes our behaviors (result of trying to reach this final goal) and hence creates personality
+     
+- Final Goal
+	-  two possibilities for Final Goal: striving for Personal Superiority (which is unhealthy) or striving for Success (which is healthy)
+    
+- 4/5 yo's with Preliminary Goals
+	- "Fictions": ideas that have no objective reality to them
+
+Preliminary goals guide a person's life regardless of their ability to provide what the person thinks these Goals will provide. They will build on these further ("style of life"). 
+
+_Law of the Low Doorway_
+
+- Your Goals toward Superiority are ineffective, but you can't see past your rigidity and you continue to use them
+-  to achieve Superiority, you must be able to adjust your Goals in response to the feedback you're getting - you need to learn from your experiences
+
+Healthy Superiority
+- absolute support towards a child's growth AND a model for a constructive response to disappointment and "failure" 
+- Contrast that to an environment in which a child striving for Superiority encounters jeering and put-downs. Such a child may actually work extra hard to prove his abilities and reach success. Unfortunately, he is angry and resentful for the lack of encouragement in his life, and he will replicate that model of human interaction as he moves toward Personal Superiority.
 
 
 # Chapter 4

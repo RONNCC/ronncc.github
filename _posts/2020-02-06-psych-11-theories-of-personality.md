@@ -13,9 +13,17 @@ published: true
     - Adler believed that people are largely respon- sible for who they are
     - Freud’s assumption that present behavior is caused by past experiences was directly opposed to Adler’s notion that present behavior is shaped by people’s view of the future
     - in contrast to Freud, who placed very heavy emphasis on unconscious components of behavior, Adler believed that psychologically healthy people are usually aware of what they are doing and why they are doing it
-    
 - Biography of Alfred Adler
+	- Competed with his brother even when famous
+    - Became a physician because of his experiences with death
+    - not great friends with Freud; also said that physical deficiencies—not sex— formed the foundation for human motivation (diff from Freud)
 - Introduction to Adlerian Theory
+  1. The one dynamic force behind people’s behavior is the striving for success or superiority.
+  2. People’s subjective perceptions shape their behavior and personality.
+  3. Personality is unified and self-consistent.
+  4. The value of all human activity must be seen from the viewpoint of social interest.
+  5. The self-consistent personality structure develops into a person’s style of life.
+  6. Style of life is molded by people’s creative power.
 - Striving for Success or Superiority
 	- The Final Goal
     - The Striving Force as Compensation

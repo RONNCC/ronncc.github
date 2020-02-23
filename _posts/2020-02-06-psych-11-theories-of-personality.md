@@ -4,6 +4,48 @@ published: true
 # Chapter 3 : Adler
 
 
+**Book**:
+- Overview of Individual Psychology
+- Biography of Alfred Adler
+- Introduction to Adlerian Theory
+- Striving for Success or Superiority
+	- The Final Goal
+    - The Striving Force as Compensation
+    - Striving for Personal Superiority
+    - Striving for Success
+- Subjective Perceptions
+	- Fictionalism
+	- Physical Inferiorities
+- Unity and Self-Consistency of Personality
+	- Organ Dialect
+    - Conscious and Unconscious
+- Social Interest
+	- Origins of Social Interest
+    - Importance of Social Interest
+- Style of Life
+- Creative Power
+- Abnormal Development
+	- General Description
+    - External Factors in Maladjustment
+    	- Exaggerated Physical Deficiencies
+        - Pampered Style of Life
+        - Neglected Style of Life
+    - Safeguarding Tendencies
+    	- Excuses
+        - Aggression
+        - Withdrawal
+    - Masculine Protest
+    	- Origins of the Masculine Protest
+        - Adler, Freud, and the Masculine Protest
+    - Applications of Individual Psychology
+    	- Family Constellation
+        - Early Recollections
+        - Dreams
+        - Psychotherapy
+    - Related Research
+
+
+
 **Mini Lecture**:
 - Human beings propelled by the Striving Force for Superiority
 	-  1) Push to overcome inferiority

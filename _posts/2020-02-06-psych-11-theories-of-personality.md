@@ -1,8 +1,40 @@
 ---
 published: true
 ---
+# Chapter 3 : Adler
 
-# Chapter 2
+
+**Mini Lecture**:
+- Human beings propelled by the Striving Force for Superiority
+	-  1) Push to overcome inferiority
+    -  2) Pull toward becoming a whole and complete person
+    - Pull towards whole makes you feel inferior but then push makes you work harder
+
+- Adler Personal Life
+	- Physical weakness + poor health
+    - Felt less capable than brother, but driven as a result
+    - Trying to strive for improvement
+
+- Unhealthy Superiority: Personal Superiority
+	- seeks validation by insisting others notice his accomplishments
+    - doesn't care who he hurts to get that validation
+    - looks for compliments and admiration
+    - tries to bring the attention back to himself
+
+- Healthy Superiority (Success)
+	- measuring accomplishments according to their own feelings of satisfaction and growth
+    - innate but must be developed; At birth a potential not an actuality
+    - Children early as 4/5 start looking for final goal to lead them to superiority.
+    	- Final goal comes about as result of creative power
+        - Creativity works in conjunction with heredity (brains/skills/talents) + environment (opportunities/encouragement/feedback) to help create final goal 
+     - Final goal shapes our behaviors (result of trying to reach this final goal) and hence creates personality
+
+
+# Chapter 4
+
+TBD
+
+# Chapter 2 : Freud
 
 **Mini Lecture**
 - Freud's theory focuses on intrapsychic development - looking at how we carry issues from the past and how these issues affect our behaviors today as adults. 

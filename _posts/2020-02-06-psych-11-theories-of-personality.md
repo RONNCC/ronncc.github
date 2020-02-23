@@ -6,6 +6,14 @@ published: true
 
 **Book**:
 - Overview of Individual Psychology
+	- individual psychology presents an optimistic view of people while resting heavily on the notion of social interest, that is, a feeling of oneness with all humankind
+    -  Freud reduced all motivation to sex and aggression
+    - Adler saw people as being motivated mostly by social influences and by their striving for superiority or success
+    - Freud assumed that people have little or no choice in shaping their personality
+    - Adler believed that people are largely respon- sible for who they are
+    - Freud’s assumption that present behavior is caused by past experiences was directly opposed to Adler’s notion that present behavior is shaped by people’s view of the future
+    - in contrast to Freud, who placed very heavy emphasis on unconscious components of behavior, Adler believed that psychologically healthy people are usually aware of what they are doing and why they are doing it
+    
 - Biography of Alfred Adler
 - Introduction to Adlerian Theory
 - Striving for Success or Superiority

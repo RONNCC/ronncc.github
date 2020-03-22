@@ -13,3 +13,6 @@ published: false
 	- The psychodynamic perspective argues that abnormality is largely determined by early childhood experiences navigating stages of development focused around erogenous zones: oral, anal, phallic, latent, and genital. In particular, psychodynamic theorists argue that if children do not navigate these stages properly due to a poor relationship with the primary parental figures in the child’s life, they will experience abnormality as an adult. Psychodynamic therapists would focus on uncovering repressed memories of negative experiences or uncovering repressed feelings.
 - Humanistic Perspective:
 	- The humanistic perspective believes in the inherent worth of every individual and that all people have the capacity to strive towards bettering themselves. Those who endorse the humanistic perspective argue that psychological disorders occur when people encounter “conditions of worth” in their lives—unrealistic expectations that others create as conditions that must be met in order to gain love and respect. To counteract this problem, humanist or client-centered theorists and therapists focus on creating a supportive, genuine environment in which the therapist offers unconditional positive regard—that is, support no matter what the client does.
+    
+    
+Source: Abnormal Psychology - Ronald J. Comer (9th ed) 

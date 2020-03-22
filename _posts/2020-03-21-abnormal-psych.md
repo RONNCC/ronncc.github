@@ -15,4 +15,4 @@ published: false
 	- The humanistic perspective believes in the inherent worth of every individual and that all people have the capacity to strive towards bettering themselves. Those who endorse the humanistic perspective argue that psychological disorders occur when people encounter “conditions of worth” in their lives—unrealistic expectations that others create as conditions that must be met in order to gain love and respect. To counteract this problem, humanist or client-centered theorists and therapists focus on creating a supportive, genuine environment in which the therapist offers unconditional positive regard—that is, support no matter what the client does.
     
     
-Source: Abnormal Psychology - Ronald J. Comer (9th ed) 
+Source: Abnormal Psychology - Ronald J. Comer (9th ed) t

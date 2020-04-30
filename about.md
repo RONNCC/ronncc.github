@@ -7,7 +7,9 @@ published: true
 
 Hi!
 
-I used to study things @ Carnegie Mellon and now sometimes take classes at UC Berkeley.
+Studied things @ Carnegie Mellon
+Now study things @ UC Berkeley / Stanford, CCSF
+Builds things at linkedin.com
 
 
 ### Contact me
